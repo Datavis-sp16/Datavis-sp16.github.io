@@ -1,4 +1,4 @@
-# Data Visualization (Apring 2016)
+# Data Visualization (Spring 2016)
 
 *ARGD4080 / ARGD4090 / ARST7980*  
 *Meets MWF 9:30-10:45, room N20*  
