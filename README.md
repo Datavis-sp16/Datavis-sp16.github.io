@@ -3,3 +3,5 @@
 Foof
 
 Hooh
+
+[vega-cheat-sheet](vega-cheat-sheet.md)
