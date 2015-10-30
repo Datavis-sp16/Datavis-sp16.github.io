@@ -1,7 +1,7 @@
 # Data Visualization (Spring 2016)
 
 *ARGD4080 / ARGD4090 / ARST7980*  
-*Meets MWF 9:30-10:45, room N20*  
+*Meets MWF 9:30-10:45, room N200*  
 *Lamar Dodd School of Art*
 
 *Instructor: Dr. Éric Marty*  
