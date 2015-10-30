@@ -1,1 +1,3 @@
-# Datavis-sp16.github.io
+# Data Visualization (Spring 2016)
+
+Foof
