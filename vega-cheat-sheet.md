@@ -145,4 +145,4 @@ The full Vega grammar is described in the [wiki](https://github.com/vega/vega/wi
 
 ## [`signals`](https://github.com/vega/vega/wiki/Signals) - properties
 
-*Signals are dynamic variables.  	
+*Signals are dynamic variables.  	Signals are used to make visualizations interactive.
