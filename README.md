@@ -7,9 +7,15 @@
 *Instructor: Dr. Éric Marty*  
 *emarty \[at\] uga \[dot\] edu*  
 *[blog.ericmarty.com](http://blog.ericmarty.com)*  
-*twitter: @allopole*  
+*twitter: <a href="https://twitter.com/allopole" class="user-mention">@allopole</a></em>*  
 
-**[Tools](#tools)**
+**[Overview](#overview)**  
+**[Tools](#tools)**  
+**[Topical Outline](#topical-outline)**  
+weeks: [1-3](#1) | [4-6](#4) | [7-8](#7) | [9-15](#9) 
+
+
+### Overview
 
 This course introduces students to the basic design concepts, terminology, methodologies, tools and applications of data visualization.  We also examine the related fields of data sonification and generalized data perceptualization.  The course covers digital workflows for creating visualizations and data representations using tools for data exploration and analysis, visualization design and interaction design. Student creative teams work collaboratively to solve design problems in data representation and communication. The goal of the course is the creation of visually powerful, well designed, data-accurate data visualizations of real research problems in the Humanities, Arts and Sciences.  (3.0 credits)
 
@@ -24,6 +30,7 @@ This course is open to all undergraduate and graduate students.  There are no pr
  
 ### Topical Outline
  
+<a name="1"></a>
 **Weeks 1-3: THEORY & DESIGN**
 
 - Data Perceptualization: Visualization, Sonification and multi-modal data representation
@@ -32,6 +39,7 @@ This course is open to all undergraduate and graduate students.  There are no pr
 - Visualization Design
 - Exploratory Data Analysis
  
+<a name="4"></a>
 **Weeks 4-6: THEORY & DESIGN**
 
 - Multidimensional Data
@@ -41,6 +49,7 @@ This course is open to all undergraduate and graduate students.  There are no pr
 - Time
 - Grammar of Graphics
  
+<a name="7"></a>
 **Weeks 7-8: VISUALIZATION DESIGN SOFTWARE**
 
 - Visualization Software Overview
@@ -48,6 +57,7 @@ This course is open to all undergraduate and graduate students.  There are no pr
 - Interaction & Animation
 - Visual Programming (aka node based programming)
 
+<a name="9"></a>
 **Weeks 9-15: SPECIAL TOPICS & PROBLEMS**
 
 - Data Sonification
