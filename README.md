@@ -12,7 +12,7 @@
 **[Overview](#overview)**  
 **[Tools](#tools)**  
 **[Topical Outline](#topical-outline)**  
-weeks: [1-3](#1) | [4-6](#4) | [7-8](#7) | [9-15](#9) 
+week: [1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) 
 
 
 ### Overview
@@ -30,7 +30,7 @@ This course is open to all undergraduate and graduate students.  There are no pr
  
 ### Topical Outline
  
-<a name="1"></a>
+<a name="1"></a><a name="2"></a><a name="3"></a>
 **Weeks 1-3: THEORY & DESIGN**
 
 - Data Perceptualization: Visualization, Sonification and multi-modal data representation
@@ -39,7 +39,7 @@ This course is open to all undergraduate and graduate students.  There are no pr
 - Visualization Design
 - Exploratory Data Analysis
  
-<a name="4"></a>
+<a name="4"></a><a name="5"></a><a name="6"></a>
 **Weeks 4-6: THEORY & DESIGN**
 
 - Multidimensional Data
@@ -49,7 +49,7 @@ This course is open to all undergraduate and graduate students.  There are no pr
 - Time
 - Grammar of Graphics
  
-<a name="7"></a>
+<a name="7"></a><a name="8"></a>
 **Weeks 7-8: VISUALIZATION DESIGN SOFTWARE**
 
 - Visualization Software Overview
@@ -57,7 +57,7 @@ This course is open to all undergraduate and graduate students.  There are no pr
 - Interaction & Animation
 - Visual Programming (aka node based programming)
 
-<a name="9"></a>
+<a name="9"></a><a name="10"></a><a name="11"></a><a name="12"></a><a name="13"></a><a name="14"></a><a name="15"></a>
 **Weeks 9-15: SPECIAL TOPICS & PROBLEMS**
 
 - Data Sonification
