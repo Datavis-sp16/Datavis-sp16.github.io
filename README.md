@@ -24,35 +24,35 @@ This course is open to all undergraduate and graduate students.  There are no pr
  
 **Weeks 1-3: THEORY & DESIGN**
 
--Data Perceptualization: Visualization, Sonification and multi-modal data representation
--Rationale for Data Visualization
--Data Models / Image Models, Semiology, Visual Encoding
--Visualization Design
--Exploratory Data Analysis
+- Data Perceptualization: Visualization, Sonification and multi-modal data representation
+- Rationale for Data Visualization
+- Data Models / Image Models, Semiology, Visual Encoding
+- Visualization Design
+- Exploratory Data Analysis
  
 **Weeks 4-6: THEORY & DESIGN**
 
--Multidimensional Data
--Psychophysics: Visual and Auditory Perception
--Color
--Space
--Time
--Grammar of Graphics
+- Multidimensional Data
+- Psychophysics: Visual and Auditory Perception
+- Color
+- Space
+- Time
+- Grammar of Graphics
  
 **Weeks 7-8: VISUALIZATION DESIGN SOFTWARE**
 
--Visualization Software Overview
--Declarative Visualization Design (Vega, Vega-lite, Lyra, ggplot2, etc.)
--Interaction & Animation
--Visual Programming (aka node based programming)
+- Visualization Software Overview
+- Declarative Visualization Design (Vega, Vega-lite, Lyra, ggplot2, etc.)
+- Interaction & Animation
+- Visual Programming (aka node based programming)
 
 **Weeks 9-15: SPECIAL TOPICS & PROBLEMS**
 
--Data Sonification
--Real world Interactivity
--Immersive Visualization
--Visualizing Time & Time Series
--introduction to Visualizing Networks
--Introduction to GIS (Mapping & Cartography)
--Narrative in Visualization: Digital Storytelling, Data Journalism
--Visual Analysis of Text
+- Data Sonification
+- Real world Interactivity
+- Immersive Visualization
+- Visualizing Time & Time Series
+- introduction to Visualizing Networks
+- Introduction to GIS (Mapping & Cartography)
+- Narrative in Visualization: Digital Storytelling, Data Journalism
+- Visual Analysis of Text
