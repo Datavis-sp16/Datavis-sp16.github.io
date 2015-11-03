@@ -9,6 +9,8 @@
 *[blog.ericmarty.com](http://blog.ericmarty.com)*  
 *twitter: @allopole*  
 
+**[Tools](#tools)**
+
 This course introduces students to the basic design concepts, terminology, methodologies, tools and applications of data visualization.  We also examine the related fields of data sonification and generalized data perceptualization.  The course covers digital workflows for creating visualizations and data representations using tools for data exploration and analysis, visualization design and interaction design. Student creative teams work collaboratively to solve design problems in data representation and communication. The goal of the course is the creation of visually powerful, well designed, data-accurate data visualizations of real research problems in the Humanities, Arts and Sciences.  (3.0 credits)
 
 This course is open to all undergraduate and graduate students.  There are no pre-requisites.  Previous experience with either graphic design, or coding for web or graphics is helpful but not essential.
