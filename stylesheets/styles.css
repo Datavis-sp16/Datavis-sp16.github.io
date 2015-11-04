@@ -250,6 +250,11 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+iframe {
+    border:none;
+    overflow:hidden;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
