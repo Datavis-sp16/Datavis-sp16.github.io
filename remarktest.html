@@ -113,13 +113,18 @@ $$ L^{A}T_{E}X $$  ... is copied and pasted from Grapher.  Use no spaces or spec
 units: kludge: escape from latex for units, space around units, then back into latex.  Will only work for units on the main line.
 
 $$ 
-f(x) = 1/2x + .345 
+f(x) = 1/2x + .345
 $$
+
+Use '\mathrm{}' for units in LaTeX
+        
+$$ 
+f(x) = 1/2x + .345 \mathrm{m.s^{-2}}
+$$        
 
 Inline: `\( 1+1 \)`  
 Inline integral: `\( \int_a^bf(x)dx \)`  
 More `\(x={a \over b}\)` formulae
-        
         
 Inline: `\(
         \int_a^bf(x)dx
