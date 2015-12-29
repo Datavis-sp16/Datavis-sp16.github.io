@@ -106,6 +106,9 @@ code block
         
 # math  
 
+        
+`\(\LaTeX{}\)` in remark
+        
 $$ L^{A}T_{E}X $$  is copied and pasted from Grapher.  Use no spaces or special characters.  Use only regular characters and/or actual $$ \LaTeX $$ commands.
 units: kludge: escape from latex for units, space around units, then back into latex.  Will only work for units on the main line.
 
@@ -141,8 +144,22 @@ thing | yup         | $1
     </textarea>
     <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
     </script>
-    <script>
+    <script type="text/javascript">
       var slideshow = remark.create();
+
+      // Setup MathJax
+      MathJax.Hub.Config({
+          tex2jax: {
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+      });
+      MathJax.Hub.Queue(function() {
+          $(MathJax.Hub.getAllJax()).map(function(index, elem) {
+              return(elem.SourceElement());
+          }).parent().addClass('has-jax');
+      });
+
+      MathJax.Hub.Configured();
     </script>
-  </body>
+</body>
 </html>
