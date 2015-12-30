@@ -12,6 +12,7 @@
       h1, h2, h3 {
         font-family: 'Muli';
         font-weight: 300;
+        margin-bottom: 0;
       }
       .remark-code, .remark-inline-code { font-family: 'Roboto Mono'; }
     </style>
@@ -58,7 +59,9 @@ super<sup>script</sup>
 [link text](https://wikipedia.com)
         
 ---
-- one (2 spaces for line breaks)  
+# Long content will run off the bottom.  No automatic overflow.  
+        
+- one   
 - two  
 - three  
 - 4  
@@ -192,9 +195,9 @@ thing | yup         | $1
 footnoting*  
 * no true footnoting. Kludge:
 
-Some text^[1][].
+Some text<sup>[1]</sup>
 
-[1]: # "Note."
+.footnote[1]: # "Note."
         
 ---        
         
