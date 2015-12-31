@@ -116,6 +116,7 @@ code block{}
 ~~~html
 <!-- code highlighting by language ID -->
 <meta charset="utf-8">
+* <whatever></whatever>
 ~~~
 (See http://macdown.uranusjr.com/features/ for list of supported language IDs)
         
