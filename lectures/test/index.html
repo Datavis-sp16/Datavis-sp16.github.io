@@ -27,14 +27,15 @@
     </style>
   </head>
   <body>
-    <textarea id="source">       
-    </textarea>
     <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script>
     <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript"></script>
     <script type="text/javascript">
         // Load Slides from markdown File
         var slideshow = remark.create({
-          sourceUrl: 'slides.md'
+          sourceUrl: 'slides.md',
+          ratio: '16:9',
+          slideNumberFormat: 'Slide %current% of %total%',
+
         });
 
         // Setup MathJax
