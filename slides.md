@@ -181,7 +181,13 @@ Some text<sup>1</sup>
 ---
         
 # iFrames
-        
+
+Use html: 
+
+~~~html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VTGQ_K0DBPo" frameborder="0" allowfullscreen></iframe>
+~~~
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VTGQ_K0DBPo" frameborder="0" allowfullscreen></iframe>
         
         
