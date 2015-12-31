@@ -34,8 +34,12 @@
         var slideshow = remark.create({
           sourceUrl: 'slides.md',
           ratio: '16:9',
-          slideNumberFormat: 'Slide %current% of %total%',
-
+          slideNumberFormat: '%current% / %total%',
+          countIncrementalSlides: true,
+          highlightStyle: default,
+          highlightLines: true,
+          highlightSpans: true,
+          navigation: { scroll: true, touch: true, click: false}
         });
 
         // Setup MathJax
