@@ -5,7 +5,14 @@ class: center, middle
 ### ARGD 4080 / ARGD 4090 / ARST 7980
         
 lkjhdfgh kjhskdjfghLKj ksdhfaeiwoihefln
-        
+
+
+???
+
+My notes!
+
+markup in notes? <http://google.com>
+
 ---
         
 # Formating
