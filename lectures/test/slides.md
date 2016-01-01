@@ -274,4 +274,19 @@ class: center, middle
 
 ---
 
+.left-column [ 
+# Two Column Layout 
+
+Text
+]
+
+.right-column [ 
+Some text 
+
+.width3[![alt text](http://media.nola.com/tpphotos/photo/2015/04/10/crab-ecogig-dive-2014jpg-f718ca66acea5040.jpg)]
+.width3[![alt text](http://media.nola.com/tpphotos/photo/2015/04/10/crab-ecogig-dive-2014jpg-f718ca66acea5040.jpg)]
+.width3[![alt text](http://media.nola.com/tpphotos/photo/2015/04/10/crab-ecogig-dive-2014jpg-f718ca66acea5040.jpg)]
+
+]
+
  
