@@ -107,7 +107,7 @@ Paragraph text Paragraph text Paragraph text Paragraph text Paragraph text Parag
 
 ---
 
-Some `inline code`
+Some ```inline code```
 
 ```
 code block{}
