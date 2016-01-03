@@ -14,7 +14,6 @@ class: left, top
         
 Why:1. Information gathering / recording  	Blueprints, photographs, seismographs2. Analysis   	Find patterns  	Discover errors in data   	Expand memory  	Context  	Support Reasoning: Develop and assess hypotheses  	Make Decision  3. Communication	Communicate findings efficiently 	Present Argument / Tell Story	Inspire
 
-Paragraph text 
 
 ---
 
