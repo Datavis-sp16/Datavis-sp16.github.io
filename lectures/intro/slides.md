@@ -7,6 +7,8 @@ class: center, middle
         
 ---
 name: start
+class: left, top
+
         
 # What is Data Visualization?
         
