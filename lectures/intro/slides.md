@@ -21,7 +21,7 @@ name: fields
 .left-column[
 ### A Few Related FieldsData Journalism  
 Data Visualization  Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
-Technical Illustration  Visual Analytics  ].right-column[\* Wikipedia articles claiming the following graphic as an example of the field:
+Technical Illustration  Visual Analytics  ].right-column[\* Fields for which the Wikipedia article gives the following graphic as an example of the field:
 
 .width1[
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Minard%27s_Map_%28vectorized%29.svg)  
