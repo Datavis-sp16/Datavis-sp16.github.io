@@ -137,7 +137,7 @@ Visual Analytics
 
 .right-column-fat[
 
-The use of graphic visual representations of information, data or knowledge intended to present information quickly and clearly.  Data visualization is one tool of infographics, however infographics do not require data accurate representations per se, as they are primarily intended to inform and not to suport rigorous analysis.
+The use of graphic visual representations of information, data or knowledge intended to present information quickly and clearly.  Data visualization is one tool of infographics, however infographics do not require data accurate representations *per se*, as they are primarily intended to inform and not to suport rigorous analysis.
 
 .width2[
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/DC_Metro_Map_2013.svg/220px-DC_Metro_Map_2013.svg.png)
@@ -213,7 +213,8 @@ Technical illustration of scientific principles, schemata, biology, etc.  Some o
 ---
 
 .left-column[
-<smal>WR Gardner. *Comparative Heights of the Principal Mountains and Lengths of the Principal Rivers of The World.*  1823. [More information](http://bibliodyssey.blogspot.com/2008/10/river-deep-mountain-high.html)</small>
+<br>
+<small>WR Gardner. *Comparative Heights of the Principal Mountains and Lengths of the Principal Rivers of The World.*  1823. [More information](http://bibliodyssey.blogspot.com/2008/10/river-deep-mountain-high.html)</small>
 ]
 
 .right-column-fat.width1[
