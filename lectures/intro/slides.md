@@ -32,10 +32,18 @@ Technical Illustration  Visual Analytics  ].right-column-fat[\* Fields for 
 
 .width1[
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Minard%27s_Map_%28vectorized%29.svg)  
-<small>Charles Joseph Minard's map (1869) showing the movements and the number of Napoleonic troops during the Russian campaign (1812-1813), with temperature on the return path. (see [full size image](https://upload.wikimedia.org/wikipedia/commons/5/5f/Minard%27s_Map_%28vectorized%29.svg))</small>
+<small>Charles Joseph Minard's map (1869) showing the movements and the number of Napoleonic troops during the Russian campaign (1812-1813), with temperature on the return path. Vecotrized by [Martin Grandjean](http://www.martingrandjean.ch/) (see [full size image](https://upload.wikimedia.org/wikipedia/commons/5/5f/Minard%27s_Map_%28vectorized%29.svg))</small>
 ]
 ]
 
 ---
-name: minard
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5f/Minard%27s_Map_%28vectorized%29.svg)
+name: minard2
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
+
+### Minard's original graphic
+
+---
+name: minard3
+background-image: url(https://datavizblog.files.wordpress.com/2013/06/minard-odt.jpg)
+
+### English translation
