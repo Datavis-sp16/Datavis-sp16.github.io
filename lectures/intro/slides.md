@@ -25,7 +25,8 @@ class: left, top
 ---
 name: fields
 
-### A Few Related FieldsData Journalism  
+### A Few Related  
+### FieldsData Journalism  
 Data Visualization  Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
 Technical Illustration  Visual Analytics  
 
