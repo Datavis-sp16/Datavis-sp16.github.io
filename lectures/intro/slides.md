@@ -10,7 +10,7 @@ background-image: url()
 name: purpose
 class: left, top
         
-# Purpose of Data Visualization?
+# Purpose of Data Visualization
         
 1. **Recording of Data**  	Collection of data in visual form  
 		(photographs, seismographs, etc.)2. **Analysis of Data**   	Pattern discovery  	Error identification     	Memory expansion  	_Context_  3.	**Reasoning**  
