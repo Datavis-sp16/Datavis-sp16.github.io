@@ -35,12 +35,21 @@ class: left, top
 .right-column-fat[
 .width2[
 ![](https://upload.wikimedia.org/wikipedia/commons/1/14/HD.6D.635_%2812000265314%29.jpg)  
-<small>Photograph of particle tracks in a bubble chamber, with explanitory diagram. [info](https://commons.wikimedia.org/wiki/File:HD.6D.635_(12000265314).jpg)</small>
+<small>Photograph of particle tracks in a bubble chamber, with explanitory diagram. [info](https://goo.gl/vmfUCf)</small>
 ]
 ]
 
 ---
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/14/HD.6D.635_%2812000265314%29.jpg)
+
+---
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0f/Kinemetrics_seismograph.jpg)
+
+---
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0f/Kinemetrics_seismograph.jpg)
+
+---
+background-image: url( http://payload168.cargocollective.com/1/12/386676/5678497/DarknessMapSF_900.jpg)
 
 ---
 name: fields
