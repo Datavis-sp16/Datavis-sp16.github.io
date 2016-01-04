@@ -90,6 +90,7 @@ Journalism making heavy use of design, computer science and statistics, particul
 http://www.nytimes.com/upshot
 
 http://www.theguardian.com/data
+]
 
 ---
 .left-column[
@@ -106,7 +107,7 @@ An interdisciplinary field concerned with systems for extracting knowledge or in
 
 ![](http://33.media.tumblr.com/0745cbfcc44f5600723f6339f24296ab/tumblr_inline_n3uhzjQAYX1sdd9ou.png)  
 <small>\- posted in [Data Science LA](http://data-science-la.tumblr.com/post/82349580838/data-science-toolbox-survey)</small>
-
+]
 
 ---
 name: fields2
