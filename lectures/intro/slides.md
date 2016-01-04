@@ -187,6 +187,8 @@ See https://flowingdata.com/2011/09/29/the-many-words-for-visualization/ for Nat
 ]
 
 ---
+class: center, middle
+
 <iframe width="1024" height="600" src="http://bl.ocks.org/aaizemberg/raw/95c140c8695ec339d0b7/5569283ea7b17fcc839cb1d2f55d62e590fd7bdb/" frameborder="0"></iframe>
 
 ---
