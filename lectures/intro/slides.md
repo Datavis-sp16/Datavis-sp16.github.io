@@ -200,11 +200,11 @@ Use of the term "Information Visualization" seems to be confined mostly to the U
 Data Visualization  Data Journalism  
 Data Science  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  <mark>Scientific Illustration</mark>  Scientific Visualization  Statistical Graphics  
 Technical Illustration  Visual Analytics
+
+Technical illustration of scientific principles, schemata, biology, etc.  Some overlap with information visualization and infographics.
 ]
 
 .right-column-fat[
-
-Technical illustration of scientific principles, schemata, biology, etc.  Some overlap with information visualization and infographics.
 
 .width1[
 ![](https://s-media-cache-ak0.pinimg.com/originals/f4/8b/30/f48b30eeb2606bd8a328b65832831bd2.gif)
