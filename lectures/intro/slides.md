@@ -19,7 +19,7 @@ class: left, top
 name: fields
 
 ### A Few Related Fields“genres” – venn diagramData Journalism  
-Data Visualization  Data Science  Exploratory Data Analysis+  Infographics\*  Information Design*  Information Visualization  Scientific/Biological/Technical Illustration  Scientific Visualization*  Statistical Graphics*  
+Data Visualization  Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific/Biological/Technical Illustration  Scientific Visualization\*  Statistical Graphics\*  
 Technical Illustration  Visual Analytics   \* Wikipedia articles claiming the following graphic as an example of the field:
 
 .width4[
