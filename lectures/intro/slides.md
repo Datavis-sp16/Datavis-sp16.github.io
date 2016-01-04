@@ -74,6 +74,7 @@ class: left, top
 ![](http://www.cse.iitk.ac.in/users/amit/books/img/sagan-eden_brain-mass-vs-body-mass.gif)  
 <small>Carl Sagan (*Dragons of Eden*)</small>
 ]
+]
 
 ---
 class: left, top
@@ -94,6 +95,7 @@ class: left, top
 .left-column[
 ### Purpose
 2. **Analysis of Data**   	Pattern discovery  	Error identification     	<mark>Memory expansion</mark>  	Contextualization ]	
+
 .right-column-fat[
 - maps  
 - What else?
