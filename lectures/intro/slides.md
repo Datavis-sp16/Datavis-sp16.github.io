@@ -420,6 +420,14 @@ name: minard3
 background-image: url(https://datavizblog.files.wordpress.com/2013/06/minard-odt.jpg)
 
 ---
+# Slide
+
+- bullet 1
+--
+
+- bullet 2
+
+---
 name: senses
 class: center, top
 
