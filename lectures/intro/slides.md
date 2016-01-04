@@ -255,9 +255,10 @@ Visual Analytics
 More or less synonymous with "data visualization," where the graphics are firmly grounded in rigorous statistics. 
 
 .width2[
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Playfair_TimeSeries-2.png/180px-Playfair_TimeSeries-2.png)
+![](https://upload.wikimedia.org/wikipedia/commons/5/52/Playfair_TimeSeries-2.png)
 ]
-.width2[ ![](http://www.public.iastate.edu/~dicook/Election/Home_files/tracking.png)
+.width2[
+![](http://www.public.iastate.edu/~dicook/Election/Home_files/tracking.png)
 ]
 
 <small>LEFT: William Playfair: trade-balance time-series chart, published in *Commercial and Political Atlas*, 1786.  [info](https://commons.wikimedia.org/wiki/File:Playfair_TimeSeries-2.png). RIGHT: Analysis of 2008 US Presidential Elections. Iowa State University Statistical Graphics Working Group. [full analysis](http://www.public.iastate.edu/~dicook/Election/Home.html).</small>
