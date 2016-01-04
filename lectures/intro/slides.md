@@ -13,13 +13,30 @@ class: left, top
 # Purpose of Data Visualization
         
 .left-column-50[1. **Recording of Data**  	Collection of data in visual form  
-	(photographs, seismographs, etc.)2. **Analysis of Data**   	Pattern discovery  	Error identification     	Memory expansion  	_Context_  ]
+	(photographs, seismographs, etc.)
+	2. **Analysis of Data**   	Pattern discovery  	Error identification     	Memory expansion  	_Context_  ]
 .right-column-50[3.	**Reasoning**  
 	Development and assessment of hypotheses  	Decision making  4. **Communication**  
 	Communicattion of findings  
 	(to the public or other researchers)  	Argument  
 	Storytelling  	Inspiration / Motivation  
 	Propaganda / Misinformation
+]
+
+---
+name: record
+class: left, top
+        
+# Purpose of Data Visualization
+        
+.left-column[1. **Recording of Data**  	Collection of data in visual form  
+	(photographs, seismographs, etc.)
+]	
+.right-column-fat[
+.width1[
+![](https://upload.wikimedia.org/wikipedia/commons/1/14/HD.6D.635_%2812000265314%29.jpg)  
+<small>Photograph of particle tracks in a bubble chamber, with explanitory diagram. [info](https://commons.wikimedia.org/wiki/File:HD.6D.635_(12000265314).jpg)</small>
+]
 ]
 
 ---
@@ -324,3 +341,5 @@ background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/29/Minard
 name: minard3
 background-image: url(https://datavizblog.files.wordpress.com/2013/06/minard-odt.jpg)
 
+---
+What about other senses?Sonification (audification, sonirization, auralization, etc.)and multi-modal data representation;
