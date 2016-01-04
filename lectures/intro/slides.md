@@ -263,6 +263,9 @@ More or less synonymous with "data visualization," where the graphics are firmly
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 .width2[
 ![](http://www.public.iastate.edu/~dicook/Election/Home_files/tracking.png)
 ]  
