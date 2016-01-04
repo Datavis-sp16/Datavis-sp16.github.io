@@ -80,7 +80,7 @@ name: data_journalism
 
 Data Visualization  <mark>Data Journalism </mark>  
 Data Science  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  Scientific Illustration  Scientific Visualization  Statistical Graphics  
-Technical Illustration  Visual Analytics
+Visual Analytics
 ]
 
 .right-column-fat[
@@ -98,7 +98,7 @@ http://www.theguardian.com/data
 
 Data Visualization  Data Journalism  
 <mark>Data Science</mark>  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  Scientific Illustration  Scientific Visualization  Statistical Graphics  
-Technical Illustration  Visual Analytics
+Visual Analytics
 ]
 
 .right-column-fat[
@@ -115,7 +115,7 @@ An interdisciplinary field concerned with systems for extracting knowledge or in
 
 Data Visualization  Data Journalism  
 Data Science  <mark>Exploratory Data Analysis</mark>  Infographics  Information Design  Information Visualization  Scientific Illustration  Scientific Visualization  Statistical Graphics  
-Technical Illustration  Visual Analytics
+Visual Analytics
 ]
 
 .right-column-fat[
@@ -132,7 +132,7 @@ Tukey, John W. (1977). *Exploratory Data Analysis*. Pearson. ISBN 978-0201076165
 
 Data Visualization  Data Journalism  
 Data Science  Exploratory Data Analysis  <mark>Infographics</mark>  Information Design  Information Visualization  Scientific Illustration  Scientific Visualization  Statistical Graphics  
-Technical Illustration  Visual Analytics
+Visual Analytics
 ]
 
 .right-column-fat[
@@ -153,7 +153,7 @@ The use of graphic visual representations of information, data or knowledge inte
 
 Data Visualization  Data Journalism  
 Data Science  Exploratory Data Analysis  Infographics  <mark>Information Design</mark>  Information Visualization  Scientific Illustration  Scientific Visualization  Statistical Graphics  
-Technical Illustration  Visual Analytics
+Visual Analytics
 ]
 
 .right-column-fat[
@@ -175,7 +175,7 @@ In Graphic Design, the practice of designing effective display of information (s
 
 Data Visualization  Data Journalism  
 Data Science  Exploratory Data Analysis  Infographics  Information Design  <mark>Information Visualization</mark>  Scientific Illustration  Scientific Visualization  Statistical Graphics  
-Technical Illustration  Visual Analytics
+Visual Analytics
 ]
 
 .right-column-fat[
@@ -199,7 +199,7 @@ Use of the term "Information Visualization" seems to be confined mostly to the U
 
 Data Visualization  Data Journalism  
 Data Science  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  <mark>Scientific Illustration</mark>  Scientific Visualization  Statistical Graphics  
-Technical Illustration  Visual Analytics
+Visual Analytics
 
 Technical illustration of scientific principles, schemata, biology, etc.  Some overlap with information visualization and infographics.
 ]
@@ -222,12 +222,38 @@ Technical illustration of scientific principles, schemata, biology, etc.  Some o
 ]
 
 ---
+.left-column[
+### Related Fields
+
+Data Visualization  Data Journalism  
+Data Science  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  Scientific Illustration  <mark>Scientific Visualization</mark>  Statistical Graphics  
+Visual Analytics
+]
+
+.right-column-fat[
+Primarily concerned with visualizing spatial data and other three-dimensional phenomena.  The emphasis is on rendering volume, surface, etc.
+
+.width3[
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PET-MIPS-anim.gif/220px-PET-MIPS-anim.gif)
+]
+.width3[
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2006-01-14_Surface_waves.jpg/220px-2006-01-14_Surface_waves.jpg)
+]
+.width3[
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rayleigh-Taylor_instability.jpg/280px-Rayleigh-Taylor_instability.jpg)
+]
+
+
+]
+
+
+---
 name: fields2
 
 .left-column[
 ### Related Fields  Data Visualization\*  Data Journalism  
 Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
-Technical Illustration  Visual Analytics  ].right-column-fat[\* Fields for which the Wikipedia article gives the following graphic as an example:
+Visual Analytics  ].right-column-fat[\* Fields for which the Wikipedia article gives the following graphic as an example:
 
 .width1[
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Minard%27s_Map_%28vectorized%29.svg)  
