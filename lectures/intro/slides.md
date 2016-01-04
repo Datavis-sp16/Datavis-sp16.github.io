@@ -12,13 +12,15 @@ class: left, top
         
 # Purpose of Data Visualization
         
-1. **Recording of Data**  	Collection of data in visual form  
-	(photographs, seismographs, etc.)2. **Analysis of Data**   	Pattern discovery  	Error identification     	Memory expansion  	_Context_  3.	**Reasoning**  
+.left-column-50[1. **Recording of Data**  	Collection of data in visual form  
+	(photographs, seismographs, etc.)2. **Analysis of Data**   	Pattern discovery  	Error identification     	Memory expansion  	_Context_  ]
+.right-column-50[3.	**Reasoning**  
 	Development and assessment of hypotheses  	Decision making  4. **Communication** 
 	Communicattion of findings  
 	(to the public or other researchers)	Argument  
 	Storytelling  	Inspiration / Motivation  
 	Propaganda / Misinformation
+]
 
 ---
 name: fields
