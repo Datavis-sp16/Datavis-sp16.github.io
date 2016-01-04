@@ -158,7 +158,7 @@ Technical Illustration  Visual Analytics
 
 .right-column-fat[
 
-In Graphic Design, the practice of designing effective display of information (see infographic).  Again, while ir may incorporate data visualization, information design is concerned with the effective communication of any specific information, not just tabular data.
+In Graphic Design, the practice of designing effective display of information (see infographic).  While it may incorporate data visualization, information design is concerned with the effective communication of any specific information, not just tabular data.
 
 .width2[
 ![](https://upload.wikimedia.org/wikipedia/commons/1/17/Nightingale-mortality.jpg)   
@@ -167,6 +167,26 @@ In Graphic Design, the practice of designing effective display of information (s
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Basic_by_Isotype.jpg/350px-Basic_by_Isotype.jpg)  
 ]
 <small>LEFT: Florence Nightingale's diagram of the causes of mortality in the military.  The diagram led directly to the understanding of sanitation in public health, and to drastically decreased mortality among soldiers. RIGHT: Otto Neurath's *International picture language*, 1936</small>
+]
+
+---
+.left-column[
+### Related Fields
+
+Data Visualization  Data Journalism  
+Data Science  Exploratory Data Analysis  Infographics  Information Design  <mark>Information Visualization</mark>  Scientific Illustration  Scientific Visualization  Statistical Graphics  
+Technical Illustration  Visual Analytics
+]
+
+.right-column-fat[
+
+More or less synonymous with "data visualization."
+
+.width1[
+<iframe height="315" src="http://bl.ocks.org/aaizemberg/raw/95c140c8695ec339d0b7/5569283ea7b17fcc839cb1d2f55d62e590fd7bdb/" frameborder="0"></iframe>
+]
+See https://flowingdata.com/2011/09/29/the-many-words-for-visualization/ for Nathan Yau's interpretation of the various terms...
+
 ]
 
 ---
