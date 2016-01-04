@@ -204,7 +204,7 @@ Technical Illustration  Visual Analytics
 
 .right-column-fat[
 
-The illustration of scientific principles, engineering schemata, technologies, biology, medical information, etc., applying the principles of technical illustration.  Scientific illustration can make use of data visualization, and can have some overlap with information visualization and infographics.
+Technical illustration of scientific principles, schemata, biology, etc.  Some overlap with information visualization and infographics.
 
 .width1[
 ![](https://s-media-cache-ak0.pinimg.com/originals/f4/8b/30/f48b30eeb2606bd8a328b65832831bd2.gif)
