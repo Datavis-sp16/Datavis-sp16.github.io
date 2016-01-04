@@ -280,15 +280,23 @@ Data Science  Exploratory Data Analysis  Infographics  Information Design  I
 
 .right-column-fat[
 The science of analytical reasoning supported by interactive visual interfaces. Overlaps with data science.
-<br><br>
-### ...we could go on...
+<br><br><br>
+**We could go on...**]
+]
+
+---
+.column-left[
+### We could go on...
 
 There are a host of fields and terms out there related to data visualizaiton. Together, they could be illustrated with a messy "venn diagram," which would probably resemble Dan Saffer's diagram of "User Experience Design" and related fields... ([full info](http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/))
+]
 
-.width2[
+.column-right-fat[
+.width1[
 ![](http://www.kickerstudio.com/wp-content/uploads/2013/03/ux.jpg)
 ]
 ]
+
 ---
 name: fields2
 
