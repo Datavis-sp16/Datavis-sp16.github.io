@@ -182,6 +182,8 @@ Technical Illustration  Visual Analytics
 
 More or less synonymous with "data visualization."
 
+<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=data+visualization,+information+visualization&cmpt=q&tz&tz&tz=Etc/GMT%2B5&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
+
 See https://flowingdata.com/2011/09/29/the-many-words-for-visualization/ for Nathan Yau's no B.S. interpretation of the various terms...
 
 ]
