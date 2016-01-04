@@ -189,7 +189,7 @@ See https://flowingdata.com/2011/09/29/the-many-words-for-visualization/ for Nat
 ---
 class: center, middle
 
-<iframe width="1024" height="400" src="http://bl.ocks.org/aaizemberg/raw/95c140c8695ec339d0b7/5569283ea7b17fcc839cb1d2f55d62e590fd7bdb/" frameborder="0"></iframe>
+<iframe width="1024" height="500" src="http://bl.ocks.org/aaizemberg/raw/95c140c8695ec339d0b7/5569283ea7b17fcc839cb1d2f55d62e590fd7bdb/" frameborder="0"></iframe>
 
 Use of the term "Information Visualization" seems to be confined mostly to the US (and South Korea).  Everywhere, "Data Visualization" is the more common term.  View the [full report](http://www.google.com/trends/explore?hl=en-US#q=data+visualization,+information+visualization&cmpt=q&tz&tz) on Google Trends to explore regional useage of the terms.
 
