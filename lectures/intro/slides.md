@@ -26,10 +26,10 @@ class: left, top
 ---
 name: record
 class: left, top
-        
+                
+.left-column[
 ### Purpose
-        
-.left-column[1. **Recording of Data**  	Collection of data in visual form  
+1. **Recording of Data**  	Collection of data in visual form  
 	(photographs, seismographs, etc.)
 ]	
 .right-column-fat[
