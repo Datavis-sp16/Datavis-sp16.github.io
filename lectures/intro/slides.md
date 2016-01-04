@@ -270,6 +270,25 @@ More or less synonymous with "data visualization," where the graphics are firmly
 ]
 
 ---
+.left-column[
+### Related Fields
+
+Data Visualization  Data Journalism  
+Data Science  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  Scientific Illustration  Scientific Visualization  Statistical Graphics  
+<mark>Visual Analytics</mark>
+]
+
+.right-column-fat[
+The science of analytical reasoning supported by interactive visual interfaces. Overlaps with data science.
+]
+
+### ...we could go on...
+
+There are a host of fields and terms out there related to data visualizaiton. Together, they could be illustrated with a messy "venn diagram" (which would probably resemble this one showing "User Experience Design" and related fields...)
+
+![](http://40.media.tumblr.com/tumblr_kv2oqmCdU31qaazpbo1_500.jpg)
+
+---
 name: fields2
 
 .left-column[
