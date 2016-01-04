@@ -433,17 +433,26 @@ class: left, top
 
 # What about our other senses?If we extend the idea of data representation to the other senses, we get analogs of data visualization.  
 
-- for **Hearing:** We get _**Sonification**_ (or audification, sonirization, auralization, etc.)  This is a well-established though young field.
---
+---
+class: left, top
 
+# What about our other senses?If we extend the idea of data representation to the other senses, we get analogs of data visualization. 
+
+- For **Hearing:** We get _**Sonification**_ (or audification, sonirization, auralization, etc.) This is a well-established though young field.
 - ...for **Touch:** We get the oxymoronic "Haptic Data Visualization" (or just _**Haptics**_).  A well established field in interface design; little used for pure data representation.
---
-
 - ...**For Smell ?!**
---
-
 - **And for multi-modal sensing** (or generalized data representation using any sense), we get _**Data Perceptualization**_
 
+---
+name: sonification
+class: left, top
+
+.left-column[
+### Sonification 
+]
+.right-column-fat[
+<iframe src="https://embed-ssl.ted.com/talks/honor_harger_a_history_of_the_universe_in_sound.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+]
 ---
 Now **THIS** is a venn diagram...
 
