@@ -423,14 +423,16 @@ background-image: url(https://datavizblog.files.wordpress.com/2013/06/minard-odt
 name: senses
 class: center, top
 
-# What about our other senses?If we extend the idea of data representation to the other senses, we get analogs of data visualization...--
+# What about our other senses?If we extend the idea of data representation to the other senses, we get analogs of data visualization...--
 
 ### ...For Sound...
-**Sonification** (or audification, sonirization, auralization, etc.)  This is a well-established though young field.--### ...Touch...
+**Sonification** (or audification, sonirization, auralization, etc.)  This is a well-established though young field.--### ...Touch...
 We get the oxymoronic "Haptic Data Visualization" (or just **Haptics**).  A well established field in interface design; little used for pure data representation.
+
 --
 
 ### Smell ?!
+
 --
 
 ### Multi-modal data representation
