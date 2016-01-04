@@ -238,6 +238,7 @@ Primarily concerned with visualizing spatial data and other three-dimensional ph
 ]
 .width2[ ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rayleigh-Taylor_instability.jpg/280px-Rayleigh-Taylor_instability.jpg)
 ]
+<small>LEFT: Maximum intensity projection (MIP) of a whole body PET scan. [info](https://commons.wikimedia.org/wiki/File:PET-MIPS-anim.gif). RIGHT: Simulation of a Rayleigh–Taylor instability in two mixing fluids. [info](https://commons.wikimedia.org/wiki/File:Rayleigh-Taylor_instability.jpg).</small>
 ]
 
 
