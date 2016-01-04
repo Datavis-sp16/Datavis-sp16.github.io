@@ -68,9 +68,10 @@ class: left, top
 .left-column[
 ### Purpose
 2. **Analysis of Data**   	<mark>Pattern discovery</mark>  	Error identification     	Memory expansion  	Contextualization ]	
+
 .right-column-fat[
 .width1[
-![](http://www.cse.iitk.ac.in/users/amit/books/img/sagan-eden_brain-mass-vs-body-mass.gif)
+![](http://www.cse.iitk.ac.in/users/amit/books/img/sagan-eden_brain-mass-vs-body-mass.gif)  
 <small>Carl Sagan (*Dragons of Eden*)</small>
 ]
 
@@ -80,9 +81,11 @@ class: left, top
 .left-column[
 ### Purpose
 2. **Analysis of Data**   	Pattern discovery  	<mark>Error identification</mark>     	Memory expansion  	Contextualization ]	
+
 .right-column-fat[
 .width1[
 ![](http://mathworld.wolfram.com/images/eps-gif/OutlierScatterplot_1000.gif)
+]
 ]
 
 ---
