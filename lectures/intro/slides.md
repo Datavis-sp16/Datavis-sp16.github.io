@@ -54,7 +54,7 @@ class: left, top
                 
 .left-column[
 ### Purpose
-2. **Analysis of Data**   	Pattern discovery  	Error identification     	Memory expansion  	Contextualization ]	
+2. **Analysis of Data**   	<mark>Pattern discovery</mark>  	Error identification     	Memory expansion  	Contextualization ]	
 .right-column-fat[
 .width1[
 ![](http://www.giss.nasa.gov/research/news/20140121/gistemp_nino_s.jpg)  
@@ -63,9 +63,54 @@ class: left, top
 ]
 
 ---
-background-image: url(http://www.cse.iitk.ac.in/users/amit/books/img/sagan-eden_brain-mass-vs-body-mass.gif)
-
+class: left, top
+                
+.left-column[
+### Purpose
+2. **Analysis of Data**   	<mark>Pattern discovery</mark>  	Error identification     	Memory expansion  	Contextualization ]	
+.right-column-fat[
+.width1[
+![](http://www.cse.iitk.ac.in/users/amit/books/img/sagan-eden_brain-mass-vs-body-mass.gif)
 <small>Carl Sagan (*Dragons of Eden*)</small>
+]
+
+---
+class: left, top
+                
+.left-column[
+### Purpose
+2. **Analysis of Data**   	Pattern discovery  	<mark>Error identification</mark>     	Memory expansion  	Contextualization ]	
+.right-column-fat[
+.width1[
+![](http://mathworld.wolfram.com/images/eps-gif/OutlierScatterplot_1000.gif)
+]
+
+---
+class: left, top
+                
+.left-column[
+### Purpose
+2. **Analysis of Data**   	Pattern discovery  	Error identification     	<mark>Memory expansion</mark>  	Contextualization ]	
+.right-column-fat[
+- maps  
+- What else?
+]
+
+---
+class: left, top
+                
+.left-column[
+### Purpose
+2. **Analysis of Data**   	Pattern discovery  	Error identification     	Memory expansion  	<mark>Contextualization</mark> 
+	
+	<br><br>
+	<small>John Snow: Mapped positions of deaths from cholera in London. The map revealed a cluster of cases around a water pump, with density of cases decreasing with distance from the pump. 1854.  [from Tufte 83]</small>
+	]	
+.right-column-fat[
+.width1[
+![](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
+]
+]
 
 ---
 name: fields
