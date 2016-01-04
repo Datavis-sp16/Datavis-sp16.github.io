@@ -429,7 +429,7 @@ background-image: url(https://datavizblog.files.wordpress.com/2013/06/minard-odt
 
 ---
 name: senses
-class: center, top
+class: left, top
 
 # What about our other senses?If we extend the idea of data representation to the other senses, we get analogs of data visualization...
 --
