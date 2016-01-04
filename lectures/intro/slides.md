@@ -213,13 +213,16 @@ Technical illustration of scientific principles, schemata, biology, etc.  Some o
 ---
 
 .left-column[
-<br>
-<small>WR Gardner. *Comparative Heights of the Principal Mountains and Lengths of the Principal Rivers of The World.*  1823. [More information](http://bibliodyssey.blogspot.com/2008/10/river-deep-mountain-high.html)</small>
+### Related Fields
+
+Data Visualization  Data Journalism  
+Data Science  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  <mark>Scientific Illustration</mark>  Scientific Visualization  Statistical Graphics  
+Visual Analytics
 ]
 
 .right-column-fat.width1[
 ![](gardner_rivers_mountains.jpg)
-<small>view [full resolution image](gardner_rivers_mountains.jpg)</small>
+<small><small>WR Gardner: *Comparative Heights of the Principal Mountains and Lengths of the Principal Rivers of The World.*  1823. [info](http://bibliodyssey.blogspot.com/2008/10/river-deep-mountain-high.html)</small> [hi res image](gardner_rivers_mountains.jpg)</small>
 ]
 
 ---
