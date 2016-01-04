@@ -236,14 +236,9 @@ Primarily concerned with visualizing spatial data and other three-dimensional ph
 .width3[
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PET-MIPS-anim.gif/220px-PET-MIPS-anim.gif)
 ]
-.width3[
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2006-01-14_Surface_waves.jpg/220px-2006-01-14_Surface_waves.jpg)
-]
-.width3[
+.width2[
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rayleigh-Taylor_instability.jpg/280px-Rayleigh-Taylor_instability.jpg)
 ]
-
-
 ]
 
 
