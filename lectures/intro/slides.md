@@ -258,13 +258,15 @@ More or less synonymous with "data visualization," where the graphics are firmly
 ![](https://upload.wikimedia.org/wikipedia/commons/5/52/Playfair_TimeSeries-2.png)
 ]
 .width2[
-<small>TOP: William Playfair: trade-balance time-series chart, published in *Commercial and Political Atlas*, 1786.  [info](https://commons.wikimedia.org/wiki/File:Playfair_TimeSeries-2.png). BOTTOM: Analysis of 2008 US Presidential Elections. Iowa State University Statistical Graphics Working Group. [full analysis](http://www.public.iastate.edu/~dicook/Election/Home.html).</small>
+<small>William Playfair: trade-balance time-series chart, published in *Commercial and Political Atlas*, 1786.  [info](https://commons.wikimedia.org/wiki/File:Playfair_TimeSeries-2.png).</small>
 ]  
 
 .width2[
 ![](http://www.public.iastate.edu/~dicook/Election/Home_files/tracking.png)
 ]  
-
+.width2[
+<small>Analysis of 2008 US Presidential Elections. Iowa State University Statistical Graphics Working Group. [full analysis](http://www.public.iastate.edu/~dicook/Election/Home.html).</small>
+]
 ]
 
 ---
