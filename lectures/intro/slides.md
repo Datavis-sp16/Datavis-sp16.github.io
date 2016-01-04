@@ -14,7 +14,7 @@ class: left, top
         
 .left-column-50[1. **Recording of Data**  	Collection of data in visual form  
 	(photographs, seismographs, etc.)
-	2. **Analysis of Data**   	Pattern discovery  	Error identification     	Memory expansion  	_Context_  ]
+	2. **Analysis of Data**   	Pattern discovery  	Error identification     	Memory expansion  	Contextualization ]
 .right-column-50[3.	**Reasoning**  
 	Development and assessment of hypotheses  	Decision making  4. **Communication**  
 	Communicattion of findings  
@@ -46,10 +46,26 @@ background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/14/HD.6D.
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0f/Kinemetrics_seismograph.jpg)
 
 ---
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0f/Kinemetrics_seismograph.jpg)
+background-image: url( http://payload168.cargocollective.com/1/12/386676/5678497/DarknessMapSF_900.jpg)
 
 ---
-background-image: url( http://payload168.cargocollective.com/1/12/386676/5678497/DarknessMapSF_900.jpg)
+name: analysis
+class: left, top
+                
+.left-column[
+### Purpose
+2. **Analysis of Data**   	Pattern discovery  	Error identification     	Memory expansion  	Contextualization ]	
+.right-column-fat[
+.width1[
+![](http://www.giss.nasa.gov/research/news/20140121/gistemp_nino_s.jpg)  
+<small>Photograph of particle tracks in a bubble chamber, with explanitory diagram. [NASA](http://www.giss.nasa.gov/research/news/20140121/)</small>
+]
+]
+
+---
+background-image: url(http://www.cse.iitk.ac.in/users/amit/books/img/sagan-eden_brain-mass-vs-body-mass.gif)
+
+<small>Carl Sagan (*Dragons of Eden*)</small>
 
 ---
 name: fields
