@@ -70,6 +70,7 @@ The *accurate* visual representation of data.  The field of data visualization h
 .width4[
 ![](https://camo.githubusercontent.com/cc8ad10f5975dff97a5d6801269f8203101b20b9/687474703a2f2f64336a732e6f72672f65782f63686f72642e706e67)
 ]
+]
 
 ---
 name: data_journalism
