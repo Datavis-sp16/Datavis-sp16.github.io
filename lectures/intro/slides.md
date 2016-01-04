@@ -37,6 +37,5 @@ Technical Illustration  Visual Analytics  ].right-column-fat[\* Fields for 
 ]
 
 ---
-name: whatever
-
-text
+name: minard
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5f/Minard%27s_Map_%28vectorized%29.svg)
