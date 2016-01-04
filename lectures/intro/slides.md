@@ -434,8 +434,8 @@ class: center, top
 # What about our other senses?If we extend the idea of data representation to the other senses, we get analogs of data visualization...
 --
 
-- **...Hearing...**
-_**Sonification**_ (or audification, sonirization, auralization, etc.)  This is a well-established though young field.--- **...Touch...**
+- **...for Hearing...**
+_**Sonification**_ (or audification, sonirization, auralization, etc.)  This is a well-established though young field.  --- **...for Touch:**
 We get the oxymoronic "Haptic Data Visualization" (or just _**Haptics**_).  A well established field in interface design; little used for pure data representation.
 --
 
