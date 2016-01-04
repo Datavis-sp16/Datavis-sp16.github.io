@@ -26,26 +26,93 @@ class: left, top
 name: fields
 
 .left-column[
-### Related FieldsData Journalism  
-Data Visualization  Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
+### Related FieldsData Visualization  Data Journalism  
+Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
 Technical Illustration  Visual Analytics
 ]
+
+---
+name: datavis
+
+.left-column[
+### Related Fields
+
+<mark>Data Visualization</mark>  Data Journalism  
+Data Science  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  Scientific Illustration  Scientific Visualization  Statistical Graphics  
+Technical Illustration  Visual Analytics
+]
+
+.right-column-fat[
+
+The *accurate* visual representation of data.  The field of data visualization has a well established theory and shared terminology.  
+
+.width4[
+![](http://bl.ocks.org/mbostock/3885304)
+]
+.width4[
+![](https://raw.githubusercontent.com/nbremer/thumbnails/master/D3%20Radar%20Chart%20Redesign.png)
+]
+.width4[
+![](https://camo.githubusercontent.com/be49e2d5950922a2b221d6578fb2fe0f84b69384/687474703a2f2f616e696d61746564646174612e636f2e756b2f696d672f64332d67616c6c6572792f756b74656d70657261747572656c696e6573332e6a7067)
+]
+.width4[
+![](https://camo.githubusercontent.com/fb70dfff84f2b442e89a6799e13343eda2387dc1/68747470733a2f2f676973742e6769746875622e636f6d2f746a6465636b652f353535383038342f7261772f7468756d626e61696c322e706e67)
+]
+.width4[
+![](https://camo.githubusercontent.com/0afefbc191693b8ecaea58cda0b587a908fc0174/687474703a2f2f64336a732e6f72672f65782f63686f726f706c6574682e706e67)
+]
+.width4[
+![](https://camo.githubusercontent.com/428c04c95f2a18ce7178d9d6135f1eab8df10ebd/687474703a2f2f64336a732e6f72672f65782f7061636b2e706e67)
+]
+.width4[
+![](https://camo.githubusercontent.com/d7b97d7c0873e949f827918763174efcca6c4a5f/687474703a2f2f64336a732e6f72672f65782f666f7263652e706e67)
+]
+.width4[
+![](https://camo.githubusercontent.com/cc8ad10f5975dff97a5d6801269f8203101b20b9/687474703a2f2f64336a732e6f72672f65782f63686f72642e706e67)
+]
+
+---
+name: data_journalism
+
+.left-column[
+### Related Fields
+
+Data Visualization  <mark>Data Journalism </mark>  
+Data Science  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  Scientific Illustration  Scientific Visualization  Statistical Graphics  
+Technical Illustration  Visual Analytics
+]
+
+.right-column-fat[
+
+Journalism making heavy use of design, computer science and statistics, particularly data visualization, to tell a story.
+
+http://www.nytimes.com/upshot
+
+http://www.theguardian.com/data
 
 ---
 .left-column[
 ### Related Fields
 
-* Data Journalism  
-Data Visualization  Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
+Data Visualization  Data Journalism  
+<mark>Data Science</mark>  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  Scientific Illustration  Scientific Visualization  Statistical Graphics  
 Technical Illustration  Visual Analytics
 ]
+
+.right-column-fat[
+
+An interdisciplinary field concerned with systems for extracting knowledge or insights from data.  Data visualization is an important tool of data science.
+
+![](http://33.media.tumblr.com/0745cbfcc44f5600723f6339f24296ab/tumblr_inline_n3uhzjQAYX1sdd9ou.png)  
+<small>\- posted in [Data Science LA](http://data-science-la.tumblr.com/post/82349580838/data-science-toolbox-survey)</small>
+
 
 ---
 name: fields2
 
 .left-column[
-### Related Fields  Data Journalism  
-Data Visualization  Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
+### Related Fields  Data Visualization\*  Data Journalism  
+Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
 Technical Illustration  Visual Analytics  ].right-column-fat[\* Fields for which the Wikipedia article gives the following graphic as an example:
 
 .width1[
