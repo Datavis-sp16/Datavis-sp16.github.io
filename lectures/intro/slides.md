@@ -33,7 +33,7 @@ class: left, top
 	(photographs, seismographs, etc.)
 ]	
 .right-column-fat[
-.width1[
+.width2[
 ![](https://upload.wikimedia.org/wikipedia/commons/1/14/HD.6D.635_%2812000265314%29.jpg)  
 <small>Photograph of particle tracks in a bubble chamber, with explanitory diagram. [info](https://commons.wikimedia.org/wiki/File:HD.6D.635_(12000265314).jpg)</small>
 ]
