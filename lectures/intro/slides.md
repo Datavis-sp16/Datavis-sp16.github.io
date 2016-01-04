@@ -142,6 +142,9 @@ The use of graphic visual representations of information, data or knowledge inte
 .width2[
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/DC_Metro_Map_2013.svg/220px-DC_Metro_Map_2013.svg.png)
 ]
+.width2[
+![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBF-1YVd49AeQYYzXhI56W07CK0-KfAZyl-YYAshUJJwdzVFQaIw)
+]
 ]
 
 ---
