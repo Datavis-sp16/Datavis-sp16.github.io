@@ -25,12 +25,23 @@ class: left, top
 ---
 name: fields
 
+.left-column[
 ### Related FieldsData Journalism  
 Data Visualization  Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
-Technical Illustration  Visual Analytics  
+Technical Illustration  Visual Analytics
+]
 
 ---
-name: fields
+.left-column[
+### Related Fields
+
+* Data Journalism  
+Data Visualization  Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
+Technical Illustration  Visual Analytics
+]
+
+---
+name: fields2
 
 .left-column[
 ### Related Fields  Data Journalism  
