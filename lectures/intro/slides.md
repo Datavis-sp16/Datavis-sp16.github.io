@@ -40,10 +40,8 @@ Technical Illustration  Visual Analytics  ].right-column-fat[\* Fields for 
 name: minard2
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 
-### Minard's original graphic
 
 ---
 name: minard3
 background-image: url(https://datavizblog.files.wordpress.com/2013/06/minard-odt.jpg)
 
-### English translation
