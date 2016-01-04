@@ -139,7 +139,7 @@ Technical Illustration  Visual Analytics
 
 The use of graphic visual representations of information, data or knowledge intended to present information quickly and clearly.  Data visualization is one tool of infographics, however infographics do not require data accurate representations per se, as they are primarily intended to inform and not to suport rigorous analysis.
 
-.width1[
+.width2[
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/DC_Metro_Map_2013.svg/220px-DC_Metro_Map_2013.svg.png)
 ]
 ]
