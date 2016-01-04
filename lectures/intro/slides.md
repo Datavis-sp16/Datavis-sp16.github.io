@@ -47,7 +47,7 @@ Technical Illustration  Visual Analytics
 The *accurate* visual representation of data.  The field of data visualization has a well established theory and shared terminology.  
 
 .width4[
-![](http://bl.ocks.org/mbostock/3885304)
+![](https://camo.githubusercontent.com/50b7a4e7dde966c373c0e4d24bd8ec9629600ad5/687474703a2f2f64336a732e6f72672f65782f706f70756c6174696f6e2e706e67)
 ]
 .width4[
 ![](https://raw.githubusercontent.com/nbremer/thumbnails/master/D3%20Radar%20Chart%20Redesign.png)
