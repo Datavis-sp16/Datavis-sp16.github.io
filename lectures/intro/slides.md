@@ -33,7 +33,8 @@ Technical Illustration  Visual Analytics
 name: fields
 
 ### Related Fields
-.left-column[Data Journalism  
+.left-column[
+Data Journalism  
 Data Visualization  Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
 Technical Illustration  Visual Analytics  ].right-column-fat[\* Fields for which the Wikipedia article gives the following graphic as an example:
 
