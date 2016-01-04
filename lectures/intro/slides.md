@@ -301,9 +301,9 @@ There are a host of fields and terms out there related to data visualizaiton. To
 name: fields2
 
 .left-column[
-### Related Fields  Data Visualization\*  Data Journalism  
-Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
-Visual Analytics  ].right-column-fat[\* Fields for which the Wikipedia article gives the following graphic as an example:
+### Related Fields  <mark>Data Visualization\*</mark>  Data Journalism  
+Data Science  Exploratory Data Analysis  <mark>Infographics\*</mark>  <mark>Information Design\*</mark>  Information Visualization  Scientific Illustration  <mark>Scientific Visualization\*</mark>  <mark>Statistical Graphics\*</mark>  
+Visual Analytics  ].right-column-fat[<mark>\* Fields for which the Wikipedia article gives the following graphic as an example:</mark>
 
 .width1[
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Minard%27s_Map_%28vectorized%29.svg)  
