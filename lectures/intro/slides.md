@@ -222,7 +222,7 @@ Visual Analytics
 
 .right-column-fat.width1[
 ![](gardner_rivers_mountains.jpg)
-<small><small>WR Gardner: *Comparative Heights of the Principal Mountains and Lengths of the Principal Rivers of The World.*  1823. [info](http://bibliodyssey.blogspot.com/2008/10/river-deep-mountain-high.html)</small> [hi res image](gardner_rivers_mountains.jpg)</small>
+<small><small>WR Gardner: *Comparative Heights of the Principal Mountains and Lengths of the Principal Rivers of The World.*  1823. [info](http://bibliodyssey.blogspot.com/2008/10/river-deep-mountain-high.html); [hi res image](gardner_rivers_mountains.jpg)</small>
 ]
 
 ---
