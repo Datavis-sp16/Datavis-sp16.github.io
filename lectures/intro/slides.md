@@ -238,9 +238,30 @@ Primarily concerned with visualizing spatial data and other three-dimensional ph
 ]
 .width2[ ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rayleigh-Taylor_instability.jpg/280px-Rayleigh-Taylor_instability.jpg)
 ]
+
 <small>LEFT: Maximum intensity projection (MIP) of a whole body PET scan. [info](https://commons.wikimedia.org/wiki/File:PET-MIPS-anim.gif). RIGHT: Simulation of a Rayleigh–Taylor instability in two mixing fluids. [info](https://commons.wikimedia.org/wiki/File:Rayleigh-Taylor_instability.jpg).</small>
 ]
 
+---
+.left-column[
+### Related Fields
+
+Data Visualization  Data Journalism  
+Data Science  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  Scientific Illustration  Scientific Visualization  <mark>Statistical Graphics</mark>  
+Visual Analytics
+]
+
+.right-column-fat[
+More or less synonymous with "data visualization," where the graphics are firmly grounded in rigorous statistics. 
+
+.width2[
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Playfair_TimeSeries-2.png/180px-Playfair_TimeSeries-2.png)
+]
+.width2[ ![](http://www.public.iastate.edu/~dicook/Election/Home_files/tracking.png)
+]
+
+<small>LEFT: William Playfair: trade-balance time-series chart, published in *Commercial and Political Atlas*, 1786.  [info](https://commons.wikimedia.org/wiki/File:Playfair_TimeSeries-2.png). RIGHT: Analysis of 2008 US Presidential Elections. Iowa State University Statistical Graphics Working Group. [full analysis](http://www.public.iastate.edu/~dicook/Election/Home.html).</small>
+]
 
 ---
 name: fields2
