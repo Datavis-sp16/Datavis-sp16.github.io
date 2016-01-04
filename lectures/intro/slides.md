@@ -285,13 +285,13 @@ The science of analytical reasoning supported by interactive visual interfaces. 
 ]
 
 ---
-.column-left[
+.left-column[
 ### We could go on...
 
 There are a host of fields and terms out there related to data visualizaiton. Together, they could be illustrated with a messy "venn diagram," which would probably resemble Dan Saffer's diagram of "User Experience Design" and related fields... ([full info](http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/))
 ]
 
-.column-right-fat[
+.right-column-fat[
 .width1[
 ![](http://www.kickerstudio.com/wp-content/uploads/2013/03/ux.jpg)
 ]
