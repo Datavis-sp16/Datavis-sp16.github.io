@@ -20,7 +20,7 @@ name: fields
 
 .left-column[
 ### A Few Related FieldsData Journalism  
-Data Visualization  Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific/Biological/Technical Illustration  Scientific Visualization\*  Statistical Graphics\*  
+Data Visualization  Data Science  Exploratory Data Analysis  Infographics\*  Information Design\*  Information Visualization  Scientific Illustration  Scientific Visualization\*  Statistical Graphics\*  
 Technical Illustration  Visual Analytics  ].right-column[\* Wikipedia articles claiming the following graphic as an example of the field:
 
 .width1[
