@@ -211,10 +211,14 @@ Technical illustration of scientific principles, schemata, biology, etc.  Some o
 ]
 
 ---
-.width1[
-![](gardner_rivers_mountains.jpg)]
 
-More information: http://bibliodyssey.blogspot.com/2008/10/river-deep-mountain-high.html
+.left-column[
+WR Gardner. *Comparative Heights of the Principal Mountains and Lengths of the Principal Rivers of The World.*  1823
+[More information](http://bibliodyssey.blogspot.com/2008/10/river-deep-mountain-high.html)
+]
+
+.right-column-fat.width1[
+![](gardner_rivers_mountains.jpg)]
 
 ---
 name: fields2
