@@ -182,9 +182,8 @@ Technical Illustration  Visual Analytics
 
 More or less synonymous with "data visualization."
 
-.width1[
-<iframe height="315" src="http://bl.ocks.org/aaizemberg/raw/95c140c8695ec339d0b7/5569283ea7b17fcc839cb1d2f55d62e590fd7bdb/" frameborder="0"></iframe>
-]
+<iframe width="100%" height="400" src="http://bl.ocks.org/aaizemberg/raw/95c140c8695ec339d0b7/5569283ea7b17fcc839cb1d2f55d62e590fd7bdb/" frameborder="0"></iframe>
+
 See https://flowingdata.com/2011/09/29/the-many-words-for-visualization/ for Nathan Yau's interpretation of the various terms...
 
 ]
