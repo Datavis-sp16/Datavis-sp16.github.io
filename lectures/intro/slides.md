@@ -218,7 +218,9 @@ WR Gardner. *Comparative Heights of the Principal Mountains and Lengths of the P
 ]
 
 .right-column-fat.width1[
-![](gardner_rivers_mountains.jpg)]
+![](gardner_rivers_mountains.jpg)
+[view full resolution image(gardner_rivers_mountains.jpg)]
+]
 
 ---
 name: fields2
