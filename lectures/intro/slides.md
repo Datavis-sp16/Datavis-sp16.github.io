@@ -10,7 +10,7 @@ background-image: url()
 name: purpose
 class: left, top
         
-# Purpose of Data Visualization
+### Purpose of Data Visualization<br><br>
         
 .left-column-50[1. **Recording of Data**  	Collection of data in visual form  
 	(photographs, seismographs, etc.)
@@ -27,7 +27,7 @@ class: left, top
 name: record
 class: left, top
         
-# Purpose of Data Visualization
+### Purpose
         
 .left-column[1. **Recording of Data**  	Collection of data in visual form  
 	(photographs, seismographs, etc.)
