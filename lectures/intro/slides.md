@@ -193,7 +193,29 @@ class: center, middle
 
 Use of the term "Information Visualization" seems to be confined mostly to the US (and South Korea).  Everywhere, "Data Visualization" is the more common term.  View the [full report](http://www.google.com/trends/explore?hl=en-US#q=data+visualization,+information+visualization&cmpt=q&tz&tz) on Google Trends to explore regional useage of the terms.
 
+---
+.left-column[
+### Related Fields
 
+Data Visualization  Data Journalism  
+Data Science  Exploratory Data Analysis  Infographics  Information Design  Information Visualization  <mark>Scientific Illustration</mark>  Scientific Visualization  Statistical Graphics  
+Technical Illustration  Visual Analytics
+]
+
+.right-column-fat[
+
+The illustration of scientific principles, engineering schemata, technologies, biology, medical information, etc., applying the principles of technical illustration.  Scientific illustration can make use of data visualization, and can have some overlap with information visualization and infographics.
+
+.width1[
+![](https://s-media-cache-ak0.pinimg.com/originals/f4/8b/30/f48b30eeb2606bd8a328b65832831bd2.gif)
+]
+
+]
+
+---
+background-image: url(gardner_rivers_mountains.jpg)
+
+http://bibliodyssey.blogspot.com/2008/10/river-deep-mountain-high.html
 ---
 name: fields2
 
