@@ -1,40 +1,31 @@
 name: start
 class: center, middle
+background-image: url()
 
 # Data Visualization
                 
 ### ARGD 4080 / ARGD 4090 / ARST 7980
         
 ---
-name: start
+name: purpose
 class: left, top
 
         
-# What is Data Visualization?
+# Purpose of Data Visualization?
         
-Why:1. Information gathering / recording  	Blueprints, photographs, seismographs2. Analysis   	Find patterns  	Discover errors in data   	Expand memory  	Context  	Support Reasoning: Develop and assess hypotheses  	Make Decision  3. Communication	Communicate findings efficiently 	Present Argument / Tell Story	Inspire
-
-
----
-
-Some `inline code`
-
-```
-code block{}
-```
-
-~~~html
-<!-- code highlighting by language ID -->
-<meta charset="utf-8">
-* <whatever></whatever>
-~~~
-(See http://macdown.uranusjr.com/features/ for list of supported language IDs)
-        
+1. Information gathering / recording  	(Blueprints, photographs, seismographs)2. Analysis   	Find patterns  	Discover errors in data   	Expand memory  	Context  	Support Reasoning: Develop and assess hypotheses  	Make Decision  3. Communication	Communicate findings efficiently  	Present Argument / Tell Story  	Inspire        
 
 ---
 name: fields
 
-#“genres” – venn diagramData VisualizationScientific VisualizationInfographicsData JournalismInformation VisualizationData ScienceInformation designVisual AnalyticsVisual ReasoningTechnical IllustrationScientific IllustrationInfographicsStatistical Graphics% of Wikipedia articles leading with this image:
+### A Few Related Fields“genres” – venn diagramData Journalism  
+Data Visualization*  Data Science  Exploratory Data Analysis+  Infographics*  Information Design*  Information Visualization  Scientific/Biological/Technical Illustration  Scientific Visualization*  Statistical Graphics*  
+Technical Illustration  Visual Analytics   \* Wikipedia articles claiming the following graphic as an example of the field:
+
+.width4[
+![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Minard%27s_Map_%28vectorized%29.svg)
+<small>Charles Joseph Minard's map (1869) showing the movements and the number of Napoleonic troops during the Russian campaign (1812-1813), with temperature on the return path.</small>
+]
 
 ---
 name: whatever
