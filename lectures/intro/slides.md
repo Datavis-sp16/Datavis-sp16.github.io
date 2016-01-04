@@ -161,12 +161,13 @@ Technical Illustration  Visual Analytics
 In Graphic Design, the practice of designing effective display of information (see infographic).  Again, while ir may incorporate data visualization, information design is concerned with the effective communication of any specific information, not just tabular data.
 
 .width2[
-![](https://en.wikipedia.org/wiki/Florence_Nightingale#/media/File:Nightingale-mortality.jpg)  
-Florence Nightingale's diagram of the causes of mortality in the military.  The diagram led directly to the understanding of sanitation in public health, and to drastically decreased mortality among soldiers. 
+![](https://upload.wikimedia.org/wikipedia/commons/1/17/Nightingale-mortality.jpg)  
+<small>Florence Nightingale's diagram of the causes of mortality in the military.  The diagram led directly to the understanding of sanitation in public health, and to drastically decreased mortality among soldiers.</small> 
 ]
 .width2[
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Basic_by_Isotype.jpg/350px-Basic_by_Isotype.jpg)  
-Otto Neurath's *International picture language*, 1936
+<small>Otto Neurath's *International picture language*, 1936</small>
+]
 ]
 
 ---
