@@ -420,4 +420,23 @@ name: minard3
 background-image: url(https://datavizblog.files.wordpress.com/2013/06/minard-odt.jpg)
 
 ---
-What about other senses?Sonification (audification, sonirization, auralization, etc.)and multi-modal data representation;
+name: senses
+class: center, middle
+
+# What about our other senses?If we extend the idea of data representation to the other senses, we get analogs of data visualization...### ...For Sound...
+Sonification (audification, sonirization, auralization, etc.)  This is a well-established though young field.### ...Touch...
+We get the oxymoronic "Haptic Data Visualization" (or just haptics).  Haptics is a well established field in interface design, though little used for pure data representation.
+
+### Smell ?!
+?
+
+### Multi-modal data representation
+(Or generalized representation of data using any sense)
+
+"Data Perceptualization"
+
+---
+Now **THIS** is a venn diagram...
+
+http://healthintelligence.drupalgardens.com/content/7-sets-venn-diagram
+
