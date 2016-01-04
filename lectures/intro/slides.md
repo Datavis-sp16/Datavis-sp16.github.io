@@ -281,7 +281,7 @@ Data Science  Exploratory Data Analysis  Infographics  Information Design  I
 .right-column-fat[
 The science of analytical reasoning supported by interactive visual interfaces. Overlaps with data science.
 <br><br><br>
-**We could go on...**]
+**We could go on...**
 ]
 
 ---
