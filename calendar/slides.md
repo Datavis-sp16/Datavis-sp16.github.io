@@ -13,14 +13,12 @@ Week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9
 name: w1
 class: left, top
         
-# Week 1<br><br>
-[back to calendar overview](#contents)        
-
-.left-column-50[### Tu 1/12: Introduction**[Slides](../lectures/intro)**
+## Week 1<br><br>
+[back to calendar overview](#contents)  
+.left-column-50[### Tu 1/12: Introduction**[Slides](../lectures/intro)**
 
 **Assignent #1 (due 1/21)**
 ]
-
 .right-column-50[### Th 1/14: Data & Image Models
 
 **[Slides](../lectures/datamodels)**
