@@ -11,11 +11,10 @@ name: w1
 class: left, top
 
 **Week 1**  | [back to calendar overview](#contents) | Use arrows to go forward or back.
-.left-column-50[**_Tu 1/12: Introduction[Slides](../lectures/intro)
+.left-column-50[**_Tu 1/12: Introduction_**[Slides](../lectures/intro)
 Assignent #1 (due 1/21)
 ]
-.right-column-50[**_Th 1/14: Data & Image Models_**
-
+.right-column-50[**_Th 1/14: Data & Image Models_**  
 [Slides](../lectures/datamodels)
 
 - Tufte: *The Visual Design of Quantitative Information* [Chapter 1: “Graphical Integrity”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16327865/View) & [Chapter 2: “Graphical Integrity”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340127/View)  
