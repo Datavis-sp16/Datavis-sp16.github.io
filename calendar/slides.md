@@ -1,18 +1,16 @@
 name: contents
 class: left, top
 
-# Data Visualization (ARGD 4080 / ARGD 4090 / ARST 7980)
-
+# Data Visualization  
 [home](http://datavis-sp16.github.io/)
 
-### Daily Calendar        
-
+### Daily Calendar  
 Week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)
 
 ---
 name: w1
 class: left, top
-        
+
 ## Week 1<br><br>
 [back to calendar overview](#contents)  
 .left-column-50[### Tu 1/12: Introduction**[Slides](../lectures/intro)**
