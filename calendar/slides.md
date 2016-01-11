@@ -3,7 +3,6 @@ class: left, top
 
 # Data Visualization  
 [home](http://datavis-sp16.github.io/)
-
 ### Daily Calendar  
 Week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)
 
@@ -11,12 +10,11 @@ Week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9
 name: w1
 class: left, top
 
-**Week 1**  | [back to calendar overview](#contents)  
-.left-column-50[### Tu 1/12: Introduction**[Slides](../lectures/intro)**
-
+**Week 1**  | [back to calendar overview](#contents) | Use arrows to go forward or back.
+.left-column-50[**_Tu 1/12: Introduction**[Slides](../lectures/intro)**  
 **Assignent #1 (due 1/21)**
 ]
-.right-column-50[### Th 1/14: Data & Image Models
+.right-column-50[**_Th 1/14: Data & Image Models_**
 
 **[Slides](../lectures/datamodels)**
 
