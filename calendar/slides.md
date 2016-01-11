@@ -11,24 +11,17 @@ name: w1
 class: left, top
 
 **Week 1**  | [back to calendar overview](#contents) | Use arrows to go forward or back.
-.left-column-50[**_Tu 1/12: Introduction**[Slides](../lectures/intro)**  
-**Assignent #1 (due 1/21)**
+.left-column-50[**_Tu 1/12: Introduction[Slides](../lectures/intro)
+Assignent #1 (due 1/21)
 ]
 .right-column-50[**_Th 1/14: Data & Image Models_**
 
-**[Slides](../lectures/datamodels)**
+[Slides](../lectures/datamodels)
 
-**Readings**  
-
-Tufte: *The Visual Design of Quantitative Information*   [Chapter 1: “Graphical Integrity”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16327865/View) (pdf; login with UGA myID required)  
-[Chapter 2: “Graphical Integrity”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340127/View) (pdf; login required)  
-OPTIONAL: c. 3: “Sources of Graphical Integrity”  
-
-OPTIONAL: [Shneiderman: “The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations.”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340893/View) Proc. IEEE Conference on Visual Languages, Boulder 1996. (pdf; login required) 
-
-OPTIONAL: [“Levels of Measurement.”](http://en.wikipedia.org/wiki/Level_of_measurement) Wikipedia
-
-OPTIONAL: [Lohse, et al: “A Classification of Vsual Representations.”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16342261/View) Communications of the ACM, v37n12, Dec 1994. (pdf; login required)
-
+- Tufte: *The Visual Design of Quantitative Information* [Chapter 1: “Graphical Integrity”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16327865/View) & [Chapter 2: “Graphical Integrity”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340127/View)  
+- OPTIONAL: c. 3: “Sources of Graphical Integrity”  
+- OPTIONAL: [Shneiderman: “The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations.”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340893/View) Proc. IEEE Conference on Visual Languages, Boulder 1996.  
+- OPTIONAL: [“Levels of Measurement.”](http://en.wikipedia.org/wiki/Level_of_measurement) Wikipedia  
+- OPTIONAL: [Lohse, et al: “A Classification of Vsual Representations.”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16342261/View) Communications of the ACM, v37n12, Dec 1994.
 ]
 
