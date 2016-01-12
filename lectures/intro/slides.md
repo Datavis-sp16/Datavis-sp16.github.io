@@ -14,7 +14,7 @@ class: left, top
         
 ### Purpose of Data Visualization<br><br>
         
-.left-column-50[1. **Recording of Data**  	Collection of data in visual form  
+.left-column-50[1. **Recording of Data**  	Collection of data in visual form  
 	(photographs, seismographs, etc.)
 	2. **Analysis of Data**   	Pattern discovery  	Error identification     	Memory expansion  	Contextualization ]
 .right-column-50[3.	**Reasoning**  
@@ -60,7 +60,7 @@ class: left, top
 .right-column-fat[
 .width1[
 ![](http://www.giss.nasa.gov/research/news/20140121/gistemp_nino_s.jpg)  
-<small>Photograph of particle tracks in a bubble chamber, with explanitory diagram. [NASA](http://www.giss.nasa.gov/research/news/20140121/)</small>
+<small>Chart of the temperature anomalies for 1950-2013, also showing the phase of the El Niño-La Niña cycle. [NASA](http://www.giss.nasa.gov/research/news/20140121/)</small>
 ]
 ]
 
@@ -118,6 +118,9 @@ class: left, top
 ![](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
 ]
 ]
+
+---
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
 
 ---
 name: fields
@@ -265,6 +268,12 @@ In Graphic Design, the practice of designing effective display of information (s
 ]
 <small>LEFT: Florence Nightingale's diagram of the causes of mortality in the military.  The diagram led directly to the understanding of sanitation in public health, and to drastically decreased mortality among soldiers. RIGHT: Otto Neurath's *International picture language*, 1936</small>
 ]
+
+---
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/17/Nightingale-mortality.jpg)
+
+---
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Basic_by_Isotype.jpg/350px-Basic_by_Isotype.jpg)
 
 ---
 .left-column[
