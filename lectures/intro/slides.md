@@ -6,7 +6,7 @@ background-image: url()
                 
 ### ARGD 4080 / ARGD 4090 / ARST 7980
 
-<https://github.com/Datavis-sp16>
+<https://Datavis-sp16.github.io/>
 
 ---
 name: purpose
