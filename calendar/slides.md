@@ -12,7 +12,7 @@ class: left, top
 
 **Week 1**  | [back to calendar overview](#contents) | Use arrows to go forward or back.
 .left-column-50[###Tu 1/12: Introduction  [Slides](../lectures/intro)  
-[Assignent #1](../docs/A1.md) (due 1/21)
+[Assignent #1](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A1.md) (due 1/21)
 ]
 .right-column-50[###Th 1/14: Data & Image Models  
 [Slides](../lectures/datamodels)
