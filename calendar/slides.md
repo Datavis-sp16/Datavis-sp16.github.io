@@ -17,7 +17,7 @@ class: left, top
 .right-column-50[###Th 1/14: Data & Image Models  
 [Slides](../lectures/datamodels)
 
-- Tufte: *The Visual Design of Quantitative Information* [Chapter 1: “Graphical Integrity”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16327865/View) & [Chapter 2: “Graphical Integrity”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340127/View)  
+- Tufte: *The Visual Design of Quantitative Information* [Chapter 1: “Graphical Excellence”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16327865/View) & [Chapter 2: “Graphical Integrity”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340127/View)  
 - OPTIONAL: c. 3: “Sources of Graphical Integrity”  
 - OPTIONAL: [Shneiderman: “The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations.”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340893/View) Proc. IEEE Conference on Visual Languages, Boulder 1996.  
 - OPTIONAL: [“Levels of Measurement.”](http://en.wikipedia.org/wiki/Level_of_measurement) Wikipedia  
