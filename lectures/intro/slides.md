@@ -5,7 +5,9 @@ background-image: url()
 # Data Visualization
                 
 ### ARGD 4080 / ARGD 4090 / ARST 7980
-        
+
+<https://github.com/Datavis-sp16>
+
 ---
 name: purpose
 class: left, top
