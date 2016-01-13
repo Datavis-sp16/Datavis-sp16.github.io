@@ -13,7 +13,9 @@ name: start
 
 # DATA <mark>&rarr;</mark> IMAGE
 
-DATA <mark>&rarr; MAPPING &rarr;</mark> IMAGE
+---
+
+# DATA <mark>&rarr; MAPPING &rarr;</mark> IMAGE
 
 ---
 layout: false
