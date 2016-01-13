@@ -2,10 +2,21 @@ name: start
 class: center, middle
 background-image: url()
 
-# Data Models
+## Visualization = 
 
-# Visual Encoding
+# DATA &rarr; IMAGE
 
+---
+count: false
+
+## Visualization = 
+
+# DATA &rarr; IMAGE
+
+DATA &rarr; MAPPING &rarr; IMAGE
+
+
+---
 ### Deconstructions (Case Studies)
 
 
