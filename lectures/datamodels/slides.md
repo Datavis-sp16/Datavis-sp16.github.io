@@ -1,5 +1,5 @@
 layout: true
-class: center, middle
+class: center, top
 background-image: url()
 
 ## Visualization = 
