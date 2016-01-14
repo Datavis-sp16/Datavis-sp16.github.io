@@ -115,23 +115,26 @@ Data Type
 ]
 
 ---
-layout: true
-
 .left-column[
-### DATA
+### DATA  
 Data Model  
 Conceptual Model  
 <mark>Data Type</mark>  
 ]
----
 .right-column-fat[
 ### **N**ominal, **O**rdinal and **Q**uantitative
 
 N: Nominal (labels or categories) 
 
 - *Fruits: apples, oranges, ...*  
-
+]
 ---
+.left-column[
+### DATA  
+Data Model  
+Conceptual Model  
+<mark>Data Type</mark>  
+]
 .right-column-fat[
 ### **N**ominal, **O**rdinal and **Q**uantitative
 
@@ -140,8 +143,14 @@ N: Nominal (labels or categories)
 - *Fruits: apples, oranges, ...*  
 
 O: Ordered- *Letter Grades: A, A-, B+, B, B-, ...*  
-
+]
 ---
+.left-column[
+### DATA  
+Data Model  
+Conceptual Model  
+<mark>Data Type</mark>  
+]
 .right-column-fat[
 ### **N**ominal, **O**rdinal and **Q**uantitative
 
@@ -158,7 +167,7 @@ Q: Quantitative (2 types:)
 
 - Ratio (zero is fixed)	- *Physical measurements: Length, Mass, Temperature, ...* 
 	- *Counts and amounts*
-
+]
 ---
 
 ### Deconstructions (Case Studies)
