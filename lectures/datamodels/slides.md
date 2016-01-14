@@ -52,12 +52,12 @@ conventions | |
 ---
 count: false
 name: heermodel
-class: left, top
+class: center, middle
         
 ### Jeff Heer's Model of the Visualization Process  
 <br><br>
 
-DATA &rarr;  | | MAPPING &rarr;  | | IMAGE
+DATA &rarr;&rarr;&rarr;  | | MAPPING &rarr;&rarr;&rarr;  | | IMAGE
 ----------|---|------|---|----------
 **task**  | | **Data Transforms** | | **Visual Channel**questions, goals | | | | 
 assumptions | | | |
