@@ -69,7 +69,7 @@ DATA &rarr;&rarr;&rarr;&rarr;&rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;&ra
 name: datamodel
 
 .left-column[
-<mark>### DATA</mark>  
+### <mark>DATA</mark>  
 Data Model  
 Conceptual Model  
 Data Type  
