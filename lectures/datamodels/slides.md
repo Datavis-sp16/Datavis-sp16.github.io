@@ -232,6 +232,7 @@ When a dimension is **Quantitative** it is often called a **"measure."**
 ]
 
 ---
+
 .left-column[
 ### DATA  
 <mark>Data Model  
@@ -243,6 +244,7 @@ Data Type</mark>
 1D (sets and sequences)  
 1D (time)  2D (maps)  3D (shapes)  nD ("relational")  Trees (hierarchies)  Networks (graphs)  Others...  See [Shneiderman: “The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations.”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340893/View) Proc. IEEE Conference on Visual Languages, Boulder 1996.
 ]---
+
 name: census
 
 .left-column[
