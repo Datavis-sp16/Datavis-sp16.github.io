@@ -197,12 +197,12 @@ Q: Quantitative (2 types:)
 ---
 .left-column[
 ### DATA  
-Data Model  
+<mark>Data Model  
 Conceptual Model  
-<mark>Data Type</mark>  
+Data Type</mark>  
 ]
 .right-column-fat[
-### Example
+### *Example*
 
 **Data Model**  Floating point numbers (32.5, 54.0, -17.3, ... )**Conceptual Model**Temperature (°C)
 **Data Type**N: Burned vs. Not-Burned  
@@ -210,8 +210,53 @@ O: Hot, Warm, Cold
 Q: Temperature Value
 
 *Note: Temperature is either relative or absolute, depending on your view of temperature. A physicist would say absolute.*
+]
+---
+.left-column[
+### DATA  
+<mark>Data Model  
+Conceptual Model  
+Data Type</mark>  
+]
+.right-column-fat[
+### Dimensionality
 
+It takes 2 or 3 dimensions (2 or 3 numbers or independent variables) to describe a point on a map.  
 
+One **data point** can have many **dimensions**.
+
+When a dimension is **Quantitative** it is often called a **"measure."**
+]
+---
+.left-column[
+### DATA  
+<mark>Data Model  
+Conceptual Model  
+Data Type</mark>  
+]
+.right-column-fat[
+
+### Taxonomy
+1D (sets and sequences)  
+1D (time)  2D (maps)  3D (shapes)  nD ("relational")  Trees (hierarchies)  Networks (graphs)  Others...  <small>See [Shneiderman: “The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations.”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340893/View) Proc. IEEE Conference on Visual Languages, Boulder 1996.
+</small>
+]---
+.left-column[
+### DATA  
+<mark>Data Model  
+Conceptual Model  
+Data Type</mark>  
+]
+.right-column-fat[
+
+### *Example: Census Data*  
+
+.width3[
+![]￼(census.png)
+]
+]
+
+
 ---
 ### Deconstructions (Case Studies)
 
