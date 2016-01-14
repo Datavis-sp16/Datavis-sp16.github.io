@@ -69,16 +69,17 @@ DATA &rarr;&rarr;&rarr;&rarr;&rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;&ra
 name: datamodel
 
 .left-column[
-<mark>### DATA</mark>
+<mark>### DATA</mark>  
 Data Model  
 Conceptual Model  
 Data Type  
 ]
-.right-column-fat[]
+.right-column-fat[
+]
 
 ---
 .left-column[
-### DATA
+### DATA  
 <mark>Data Model</mark>  
 Conceptual Model  
 Data Type  
@@ -89,7 +90,7 @@ Data Type
 
 ---
 .left-column[
-### DATA
+### DATA  
 Data Model  
 <mark>Conceptual Model</mark> 
 Data Type  
@@ -100,7 +101,7 @@ Data Type
 
 ---
 .left-column[
-### DATA
+### DATA  
 <mark>Data Model  
 Conceptual Model</mark> 
 Data Type  
