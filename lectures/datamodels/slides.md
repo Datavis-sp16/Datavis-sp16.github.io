@@ -52,7 +52,7 @@ conventions | |
 ---
 count: false
 name: heermodel
-class: center, middle
+class: top, left
         
 ### Jeff Heer's Model of the Visualization Process  
 <br><br>
@@ -61,7 +61,7 @@ DATA &rarr;&rarr;&rarr;  | | MAPPING &rarr;&rarr;&rarr;  | | IMAGE
 ----------|---|------|---|----------
 **task**  | | **Data Transforms** | | **Visual Channel**questions, goals | | | | 
 assumptions | | | |
- | | | |<mark>**data models**</mark> | | **Visual Encoding** | | **Graphical Marks**conceptual data type | | | | physical data type | | | | | | | |**domain** | | | |metadata | | | |
+ | | | |<mark>**data models**</mark> | | **Visual Encoding** | | **Graphical Marks**conceptual | | | | physical | | | | | | | |**domain** | | | |metadata | | | |
 semantics | | | |
 conventions | | | |
 
