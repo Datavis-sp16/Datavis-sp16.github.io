@@ -42,7 +42,7 @@ class: left, top
 ### Jeff Heer's Model of the Visualization Process  
 <br><br>
 
-DATA &rarr;&rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;&rarr;  | IMAGE
+DATA &rarr;&rarr;&rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;&rarr;&rarr;  | IMAGE
 ----------|---------|-------------
 **Task**  | **Data Transforms** | **Visual Channel**• Questions, goals  | **Visual Encoding** | **Graphical Marks**
 • Assumptions | |**Data models** | | • Conceptual | |  • Physical | |**Domain** | |• Metadata | |
@@ -52,15 +52,17 @@ DATA &rarr;&rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;&rarr;  | IMAGE
 ---
 count: false
 name: heermodel
-class: top, left
+class: left, top
         
 ### Jeff Heer's Model of the Visualization Process  
 <br><br>
 
-DATA &rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;  | IMAGE
+DATA &rarr;&rarr;&rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;&rarr;&rarr;  | IMAGE
 ----------|---------|-------------
-**Task**  |  **Data Transforms** |  **Visual Channel**
-<mark>**Data Models**<br>conceptual<br>physical</mark> |  **Visual Encoding** |  **Graphical Marks****Domain**<br>metadata<br>semantics<br>conventions | | 
+**Task**  | **Data Transforms** | **Visual Channel**• Questions, goals  | **Visual Encoding** | **Graphical Marks**
+• Assumptions | |<mark>**Data models**<mark> | | • Conceptual | |  • Physical | |**Domain** | |• Metadata | |
+• Semantics | |
+• Conventions | |
 ---
 ### Deconstructions (Case Studies)
 
