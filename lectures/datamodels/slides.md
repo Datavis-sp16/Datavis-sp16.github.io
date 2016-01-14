@@ -41,12 +41,13 @@ class: left, top
         
 ### Jeff Heer's Model of the Visualization Process  
 
-DATA &rarr;  | MAPPING &rarr;  | IMAGE
----: |:------:| :-------------
+
+### DATA &rarr;  | MAPPING &rarr;  | IMAGE
+----------|------|-------------
 **task**  | **Data Transofrmations** | **Visual Channel**questions, goals  | **Visual Encoding** | **Graphical Marks**
-assumptions  **data model**  conceptual data type  physical data type  **domain**  metadata  
-semantics  
-conventions  
+assumptions | |**data model** | | conceptual data type | |  physical data type | |**domain** | |metadata | |
+semantics | |
+conventions | |
 
 ---
 ### Deconstructions (Case Studies)
