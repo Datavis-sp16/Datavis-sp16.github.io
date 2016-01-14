@@ -59,11 +59,7 @@ class: top, left
 
 DATA &rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;  | IMAGE
 ----------|---------|-------------
-**task**<br>questions, goals<br>assumptions  |  **Data Transforms** |  **Visual Channel**questions, goals | | 
-assumptions | | <mark>**data models**</mark> |  **Visual Encoding** |  **Graphical Marks**conceptual | | physical | | **domain** | | metadata | | 
-semantics | | 
-conventions | | 
-
+**task**<br>questions, goals<br>assumptions  |  **Data Transforms** |  **Visual Channel**<mark>**data models**<br>conceptual<br>physical</mark> |  **Visual Encoding** |  **Graphical Marks****domain**<br>metadata<br>semantics<br>conventions | | 
 ---
 ### Deconstructions (Case Studies)
 
