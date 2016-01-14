@@ -36,20 +36,14 @@ name: start
 
 ---
 layout: false
-
----
 name: heermodel
 class: left, top
         
-### Model of the Visualization Process  
-(Based on Jeff Heer's)
-        
-.left-column-50[### DATA &rarr;  **task**questions, goals assumptions**data**conceptual data typephysical data type  
-**domain**metadata  
+### Jeff Heer's Model of the Visualization Process  
+.left-column-50[### DATA &rarr;  **task**  questions, goals assumptions  **data model**  conceptual data type  physical data type  **domain**  metadata  
 semantics  
-conventions
-
-### MAPPING &rarr;  **Data Transofrmations**  **Visual Encoding**  ]
+conventions  
+### MAPPING &rarr;  **Data Transofrmations**  **Visual Encoding**  ### IMAGE  **Visual Channel**  **Graphical Marks**  ]
 .right
 
 ---
