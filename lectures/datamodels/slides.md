@@ -42,12 +42,12 @@ class: left, top
 ### Jeff Heer's Model of the Visualization Process  
 
 
-### DATA &rarr;  | MAPPING &rarr;  | IMAGE
-----------|------|-------------
-**task**  | **Data Transofrmations** | **Visual Channel**questions, goals  | **Visual Encoding** | **Graphical Marks**
-assumptions | |**data models** | | conceptual data type | |  physical data type | |**domain** | |metadata | |
-semantics | |
-conventions | |
+**DATA &rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;  | IMAGE**
+----------|---------|-------------
+**task**  | **Data Transofrmations** | **Visual Channel**• questions, goals  | **Visual Encoding** | **Graphical Marks**
+• assumptions | |**data models** | | • conceptual data type | |  • physical data type | |**domain** | |• metadata | |
+• semantics | |
+• conventions | |
 
 ---
 count: false
@@ -59,7 +59,8 @@ class: top, left
 
 DATA &rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;  | IMAGE
 ----------|---------|-------------
-**task**<br>questions, goals<br>assumptions  |  **Data Transforms**<br><br> |  **Visual Channel**<br><br><mark>**data models**<br>conceptual<br>physical</mark> |  **Visual Encoding** |  **Graphical Marks****domain**<br>metadata<br>semantics<br>conventions | | 
+**Task**  |  **Data Transforms** |  **Visual Channel**
+<mark>**Data Models**<br>conceptual<br>physical</mark> |  **Visual Encoding** |  **Graphical Marks****Domain**<br>metadata<br>semantics<br>conventions | | 
 ---
 ### Deconstructions (Case Studies)
 
