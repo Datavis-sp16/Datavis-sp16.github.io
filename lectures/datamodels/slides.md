@@ -169,7 +169,9 @@ Q: Quantitative (2 types:)
 - Ratio (zero is fixed)	- *Physical measurements: Length, Mass, Temperature, ...* 
 	- *Counts and amounts*
 ]
+
 ---
+
 .left-column[
 ### DATA  
 Data Model  
@@ -195,6 +197,7 @@ Q: Quantitative (2 types:)
 ]
 
 ---
+
 .left-column[
 ### DATA  
 <mark>Data Model  
@@ -211,7 +214,9 @@ Q: Temperature Value
 
 *Note: Temperature is either relative or absolute, depending on your view of temperature. A physicist would say absolute.*
 ]
+
 ---
+
 .left-column[
 ### DATA  
 <mark>Data Model  
@@ -227,7 +232,9 @@ One **data point** can have many **dimensions**.
 
 When a dimension is **Quantitative** it is often called a **"measure."**
 ]
+
 ---
+
 .left-column[
 ### DATA  
 <mark>Data Model  
@@ -240,7 +247,8 @@ Data Type</mark>
 1D (sets and sequences)  
 1D (time)  2D (maps)  3D (shapes)  nD ("relational")  Trees (hierarchies)  Networks (graphs)  Others...  <small>See [Shneiderman: “The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations.”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340893/View) Proc. IEEE Conference on Visual Languages, Boulder 1996.
 </small>
-]---
+]---
+
 .left-column[
 ### DATA  
 <mark>Data Model  
@@ -258,6 +266,7 @@ Data Type</mark>
 
 
 ---
+
 ### Deconstructions (Case Studies)
 
 
