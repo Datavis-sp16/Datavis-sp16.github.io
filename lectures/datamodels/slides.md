@@ -205,12 +205,10 @@ Conceptual Model
 Data Type</mark>  
 ]
 .right-column-fat[
-### *Example*
-
-**Data Model**  Floating point numbers (32.5, 54.0, -17.3, ... )**Conceptual Model**Temperature (°C)
-**Data Type**N: Burned vs. Not-Burned  
-O: Hot, Warm, Cold
-Q: Temperature Value
+### *Example*  
+**Data Model**  Floating point numbers (32.5, 54.0, -17.3, ... )  **Conceptual Model**  Temperature (°C)  **Data Type**  N: Burned vs. Not-Burned  
+O: Hot, Warm, Cold  
+Q: Temperature Value  
 
 *Note: Temperature is either relative or absolute, depending on your view of temperature. A physicist would say absolute.*
 ]
@@ -243,8 +241,7 @@ Data Type</mark>
 .right-column-fat[
 ### Taxonomy
 1D (sets and sequences)  
-1D (time)  2D (maps)  3D (shapes)  nD ("relational")  Trees (hierarchies)  Networks (graphs)  Others...  <small>See [Shneiderman: “The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations.”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340893/View) Proc. IEEE Conference on Visual Languages, Boulder 1996.
-</small>
+1D (time)  2D (maps)  3D (shapes)  nD ("relational")  Trees (hierarchies)  Networks (graphs)  Others...  See [Shneiderman: “The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations.”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340893/View) Proc. IEEE Conference on Visual Languages, Boulder 1996.
 ]---
 name: census
 
