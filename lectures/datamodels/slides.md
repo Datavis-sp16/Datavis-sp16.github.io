@@ -45,7 +45,8 @@ class: left, top
 DATA &rarr;&rarr;&rarr;&rarr;&rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;&rarr;&rarr;&rarr;&rarr;  | IMAGE
 ----------|---------|-------------
 **Task**  | **Data Transforms** | **Visual Channel**• Questions, goals  | **Visual Encoding** | **Graphical Marks**
-• Assumptions | |**Data models** | | • Conceptual | |  • Physical | |**Domain** | |• Metadata | |
+• Assumptions | |**Data** | | • Data model | |  • Conceptual model | |
+• Data type | |**Domain** | |• Metadata | |
 • Semantics | |
 • Conventions | |
 
@@ -60,10 +61,106 @@ class: left, top
 DATA &rarr;&rarr;&rarr;&rarr;&rarr;&rarr;&rarr;  | MAPPING &rarr;&rarr;&rarr;&rarr;&rarr;&rarr;&rarr;  | IMAGE
 ----------|---------|-------------
 **Task**  | **Data Transforms** | **Visual Channel**• Questions, goals  | **Visual Encoding** | **Graphical Marks**
-• Assumptions | |<mark>**Data models**<mark> | | • Conceptual | |  • Physical | |**Domain** | |• Metadata | |
+• Assumptions | |<mark>**Data**</mark> | | • Data model | |  • Conceptual model | |
+• Data type | |**Domain** | |• Metadata | |
 • Semantics | |
 • Conventions | |
 ---
+name: datamodel
+
+.left-column[
+<mark>### DATA</mark>
+Data Model  
+Conceptual Model  
+Data Type  
+]
+.right-column-fat[]
+
+---
+.left-column[
+### DATA
+<mark>Data Model</mark>  
+Conceptual Model  
+Data Type  
+]
+.right-column-fat[
+**Data models** are numerical descriptions of the data. In math terms, data models are "sets" with "operations"  **Example:** "integers, with + and x operators"
+]
+
+---
+.left-column[
+### DATA
+Data Model  
+<mark>Conceptual Model</mark> 
+Data Type  
+]
+.right-column-fat[
+**Conceptual models** are mental constructions (mental images), including semantics and support reasoning. In math terms, data models are "sets" with "operations"  **Example:** "integers, with + and x operators"
+]
+
+---
+.left-column[
+### DATA
+<mark>Data Model  
+Conceptual Model</mark> 
+Data Type  
+]
+.right-column-fat[
+**Conceptual Model** vs. **Data Model**
+
+"Integers" vs. "Day of week"  
+
+"tripplets of *floats* (decimal numbers)" vs. "spatial location (xyz)"
+
+]
+
+---
+layout: true
+
+.left-column[
+### DATA
+Data Model  
+Conceptual Model  
+<mark>Data Type</mark>  
+]
+---
+.right-column-fat[
+### **N**ominal, **O**rdinal and **Q**uantitative
+
+N: Nominal (labels or categories) 
+
+- *Fruits: apples, oranges, ...*  
+
+---
+.right-column-fat[
+### **N**ominal, **O**rdinal and **Q**uantitative
+
+N: Nominal (labels or categories) 
+
+- *Fruits: apples, oranges, ...*  
+
+O: Ordered- *Letter Grades: A, A-, B+, B, B-, ...*  
+
+---
+.right-column-fat[
+### **N**ominal, **O**rdinal and **Q**uantitative
+
+N: Nominal (labels or categories) 
+
+- *Fruits: apples, oranges, ...*  
+
+O: Ordered- *Letter Grades: A, A-, B+, B, B-, ...*  
+
+Q: Quantitative (2 types:)
+
+- Interval (location of zero arbitrary; only *differences* can be compared)  	- *Dates: Jan, 19, 2006*
+	- *Location: (LAT 33.98, LONG -118.45)*  
+
+- Ratio (zero is fixed)	- *Physical measurements: Length, Mass, Temperature, ...* 
+	- *Counts and amounts*
+
+---
+
 ### Deconstructions (Case Studies)
 
 
