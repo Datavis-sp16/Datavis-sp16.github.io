@@ -92,7 +92,7 @@ Data Type
 .left-column[
 ### DATA  
 Data Model  
-<mark>Conceptual Model</mark> 
+<mark>Conceptual Model</mark>  
 Data Type  
 ]
 .right-column-fat[
@@ -103,7 +103,7 @@ Data Type
 .left-column[
 ### DATA  
 <mark>Data Model  
-Conceptual Model</mark> 
+Conceptual Model</mark>  
 Data Type  
 ]
 .right-column-fat[
