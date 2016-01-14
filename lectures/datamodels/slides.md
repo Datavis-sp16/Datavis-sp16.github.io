@@ -170,7 +170,49 @@ Q: Quantitative (2 types:)
 	- *Counts and amounts*
 ]
 ---
+.left-column[
+### DATA  
+Data Model  
+Conceptual Model  
+<mark>Data Type</mark>  
+]
+.right-column-fat[
+### **N**ominal, **O**rdinal and **Q**uantitative
 
+N: Nominal (labels or categories) 
+
+- Operations: = ≠ *("An apple is not a pear")*  
+
+O: Ordered- Operations: = ≠ < > *("A grade of C is higher than a grade of D")*  
+
+Q: Quantitative (2 types:)
+
+- Interval (zero is arbitrary)  	- Operations: = ≠ < > - *("March 1 is 2 days before March 3")*  
+	- Uses relative scales of measure
+
+- Ratio (zero is fixed)	- Operations: = ≠ < > - % *("3kg is 1/2 of 6kg")*
+	- Uses absolute scales of measure
+]
+
+---
+.left-column[
+### DATA  
+Data Model  
+Conceptual Model  
+<mark>Data Type</mark>  
+]
+.right-column-fat[
+### Example
+
+**Data Model**  Floating point numbers (32.5, 54.0, -17.3, ... )**Conceptual Model**Temperature (°C)
+**Data Type**N: Burned vs. Not-Burned  
+O: Hot, Warm, Cold
+Q: Temperature Value
+
+*Note: Temperature is either relative or absolute, depending on your view of temperature. A physicist would say absolute.*
+
+
+---
 ### Deconstructions (Case Studies)
 
 
