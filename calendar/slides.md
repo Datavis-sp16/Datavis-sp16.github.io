@@ -11,7 +11,7 @@ class: left, top
 ]
 .right-column-50[
 ###Th 1/14: Data & Image Models  
-Slides
+[Slides](../lectures/datamodels)
 
 - Tufte: *The Visual Design of Quantitative Information.*  
 	[Chapter 1: “Graphical Excellence”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16327865/View) & [Chapter 2: “Graphical Integrity”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16340127/View)  
