@@ -96,11 +96,11 @@ Planned parenthood graphs (this year)
 
 **Tufte's "Lie Factor" (LF)**
 
-$$
+$$  
 \%\; Change\; in\; Data\; =\; \frac{d_{2}}{d_{1}}-1
 $$
 
-$$
+$$  
 \%\; Change\; in\; Graphic\; =\; \frac{g_{2}}{g_{1}}-1 $$
 
 
