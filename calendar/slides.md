@@ -1,4 +1,4 @@
-name: w1
+name: w1  
 class: left, top
 
 **Week 1**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)
@@ -21,3 +21,22 @@ class: left, top
 - OPTIONAL: [Lohse, et al: “A Classification of Visual Representations.”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16342261/View) Communications of the ACM, v37n12, Dec 1994.
 ]
 
+---
+name: w2
+class: left, top
+
+**Week 2**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)
+  
+.left-column-50[
+###Tu 1/19: Graphical Integrity  
+[Slides](../lectures/integrity)  
+
+]
+.right-column-50[
+###Th 1/21: Image Models, Visualization Design  
+[Assignent #1](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A1.md) (due 1/21)
+
+- Tufte: *The Visual Design of Quantitative Information.*  
+	- [Chapters 4-5: “Data-Ink...” and "Chartjunk..."](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16466009/View) 
+	- [Chapter 6: “Maximizing Data-Ink”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16467070/View)  
+]
