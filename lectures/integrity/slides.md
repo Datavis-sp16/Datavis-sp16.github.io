@@ -159,4 +159,4 @@ Lies of equal magnitude produce equal EF
 background-image: url(perspective_distortion.png)
 
 ---
-background-image: url(LieDetector.pdf)
+background-image: url(LieDetector.png)
