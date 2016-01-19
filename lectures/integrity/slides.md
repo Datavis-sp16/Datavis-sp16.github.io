@@ -98,6 +98,7 @@ Planned parenthood graphs (this year)
 
 ![](LieFactor.png)
 --
+
 LF = 1 = Truth (no lie)
 
 ---
@@ -109,8 +110,10 @@ LF = 1 = Truth (no lie)
 ![](ExFactor.png)
 
 --
+
 EF = 1 = Truth (no lie)  
 --
+
 Lies of equal magnitude produce equal EF
 
 ---
