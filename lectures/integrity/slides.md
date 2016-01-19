@@ -117,6 +117,11 @@ $$
 \%\; Change\; in\; Data\; =\; \frac{d_{2}}{d_{1}}-1 
 $$
 
+---
+### Measuring Graphical Integrity
+
+**Tufte's "Lie Factor" (LF)**
+
 $$
 \%\; Change\; in\; Graphic\; =\; \frac{g_{2}}{g_{1}}-1 $$
 
