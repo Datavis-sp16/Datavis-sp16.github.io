@@ -97,6 +97,7 @@ Planned parenthood graphs (this year)
 **Tufte's "Lie Factor" (LF)**
 
 ![](LieFactor.png)
+
 --
 
 LF = 1 = Truth (no lie)
