@@ -130,6 +130,9 @@ EF = 1 = Truth (no lie)
 Lies of equal magnitude produce equal EF
 
 ---
+background-image: url(barrel.png)
+
+---
 background-image: url(perspective_distortion.png)
 
 ---
