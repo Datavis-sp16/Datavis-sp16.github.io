@@ -53,10 +53,22 @@ class: left, top
 ]
 
 ---
-p. 54(top) - lack of zero
-p. 54(bottom) - partial data
-Planned parenthood graphs (this year)
+background-image: url(p54top.png)
 
+---
+background-image: url(p54bottom.png)
+
+---
+background-image: url(http://static.politifact.com.s3.amazonaws.com/politifact%2Fphotos%2Fmega-center-release-graphic.jpg)
+
+---
+background-image: url(http://www.autostraddle.com/wp-content/uploads/2015/09/PPgraph-640x561.jpeg)
+
+---
+background-image: url(http://cloudfront.mediamatters.org/static/uploader/image/2015/09/30/kevin_drum_ppfa.jpg)
+
+---
+background-image: url(http://cloudfront.mediamatters.org/static/uploader/image/2015/09/30/kevin_drum_ppfa_all_services.jpg)
 
 ---
 ### Principles of Integrity
