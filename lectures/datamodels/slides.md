@@ -247,7 +247,7 @@ Data Type</mark>
 ---
 background-image: url(census.png)
 ---
-![](rollup.png)
+background-image: url(rollup.png)
 
 
 

@@ -96,9 +96,12 @@ Planned parenthood graphs (this year)
 
 **Tufte's "Lie Factor" (LF)**
 
-% Change in Data $$=\; \frac{d_{2}}{d_{1}}-1 $$
+$$
+\%\; Change\; in\; Data\; =\; \frac{d_{2}}{d_{1}}-1
+$$
 
-% Change in Graphic $$=\; \frac{g_{2}}{g_{1}}-1 $$
+$$
+\%\; Change\; in\; Graphic\; =\; \frac{g_{2}}{g_{1}}-1 $$
 
 
 $$
@@ -110,9 +113,12 @@ $$
 
 **Tufte's "Lie Factor" (LF)**
 
-% Change in Data $$=\; \frac{d_{2}}{d_{1}}-1 $$
+$$
+\%\; Change\; in\; Data\; =\; \frac{d_{2}}{d_{1}}-1 
+$$
 
-% Change in Graphic $$=\; \frac{g_{2}}{g_{1}}-1 $$
+$$
+\%\; Change\; in\; Graphic\; =\; \frac{g_{2}}{g_{1}}-1 $$
 
 
 $$
@@ -128,9 +134,13 @@ LF = 1 = Truth (no lie)
 **Improved "Exaggeration Factor" (EF)**  
 *(I am officially coining this term here. You heard it first.)*
 
-Change in Data (as a ratio) $$=\; \frac{d_{2}}{d_{1}} $$
+$$
+Data\; Ratio =\; \frac{d_{2}}{d_{1}} 
+$$
 
-Change in Graphic (as a ratio) $$=\; \frac{g_{2}}{g_{1}} $$
+$$
+Graphic\; Ratio =\; \frac{g_{2}}{g_{1}} 
+$$
 
 
 $$
@@ -143,10 +153,13 @@ $$
 **Improved "Exaggeration Factor" (EF)**  
 *(I am officially coining this term here. You heard it first.)*
 
-Change in Data (as a ratio) $$=\; \frac{d_{2}}{d_{1}} $$
+$$
+Data\; Ratio =\; \frac{d_{2}}{d_{1}} 
+$$  
 
-Change in Graphic (as a ratio) $$=\; \frac{g_{2}}{g_{1}} $$
-
+$$
+Data\; Ratio =\; \frac{g_{2}}{g_{1}}
+$$  
 
 $$
 EF\; =\; \frac{Graphic\; Ratio}{Data\; Ratio} =\;  \frac{g_{2}}{g_{1}}\cdot\frac{d_{1}}{d_{2}}
