@@ -98,17 +98,17 @@ Planned parenthood graphs (this year)
 
 
 $$  
-\%\; Change\; in\; Data\; =\; \frac{d_{2}}{d_{1}}-1
+\%\; Change\; in\; Data\; =\; \frac{d_{2}}{d_{1}}-1  
 $$
 
 
 $$
-\%\; Change\; in\; Graphic\; =\; \frac{g_{2}}{g_{1}}-1 $$
+\%\; Change\; in\; Graphic\; =\; \frac{g_{2}}{g_{1}}-1   $$
 
 ---
 
 $$
-LF\; =\; \frac{\%\; Change\; in\; Graphic}{\%\; Change\; in\; Data}
+LF\; =\; \frac{\%\; Change\; in\; Graphic}{\%\; Change\; in\; Data}  
 $$
 
 ---
