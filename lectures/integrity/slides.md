@@ -96,84 +96,21 @@ Planned parenthood graphs (this year)
 
 **Tufte's "Lie Factor" (LF)**
 
-
-$$  
-\%\; Change\; in\; Data\; =\; \frac{d_{2}}{d_{1}}-1  
-$$
-
-
-$$
-\%\; Change\; in\; Graphic\; =\; \frac{g_{2}}{g_{1}}-1   $$
-
----
-
-$$
-LF\; =\; \frac{\%\; Change\; in\; Graphic}{\%\; Change\; in\; Data}  
-$$
-
----
-### Measuring Graphical Integrity
-
-**Tufte's "Lie Factor" (LF)**
-
-$$
-\%\; Change\; in\; Data\; =\; \frac{d_{2}}{d_{1}}-1 
-$$
-
----
-### Measuring Graphical Integrity
-
-**Tufte's "Lie Factor" (LF)**
-
-$$
-\%\; Change\; in\; Graphic\; =\; \frac{g_{2}}{g_{1}}-1 $$
-
-
-$$
-LF\; =\; \frac{\%\; Change\; in\; Graphic}{\%\; Change\; in\; Data} =\; \frac{\frac{g_{2}}{g_{1}}-1}{\frac{d_{2}}{d_{1}}-1}
-$$
-
+![](LieFactor.png)
+--
 LF = 1 = Truth (no lie)
 
-
 ---
 ### Measuring Graphical Integrity
 
 **Improved "Exaggeration Factor" (EF)**  
 *(I am officially coining this term here. You heard it first.)*
 
-$$
-Data\; Ratio =\; \frac{d_{2}}{d_{1}} 
-$$
+![](ExFactor.png)
 
-$$
-Graphic\; Ratio =\; \frac{g_{2}}{g_{1}} 
-$$
-
-
-$$
-EF\; =\; \frac{Graphic\; Ratio}{Data\; Ratio} =\; \frac{\frac{g_{2}}{g_{1}}}{\frac{d_{2}}{d_{1}}}
-$$
-
----
-### Measuring Graphical Integrity
-
-**Improved "Exaggeration Factor" (EF)**  
-*(I am officially coining this term here. You heard it first.)*
-
-$$
-Data\; Ratio =\; \frac{d_{2}}{d_{1}} 
-$$  
-
-$$
-Data\; Ratio =\; \frac{g_{2}}{g_{1}}
-$$  
-
-$$
-EF\; =\; \frac{Graphic\; Ratio}{Data\; Ratio} =\;  \frac{g_{2}}{g_{1}}\cdot\frac{d_{1}}{d_{2}}
-$$
-
+--
 EF = 1 = Truth (no lie)  
+--
 Lies of equal magnitude produce equal EF
 
 ---
