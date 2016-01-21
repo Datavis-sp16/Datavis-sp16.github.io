@@ -6,6 +6,7 @@ class: center, middle
 class: left, top
 
 ### Data and Original Visualization:  <br>![](http://www.journalism.org/files/2014/10/PJ_14.10.21_mediaPolarization-00.png)---
+
 ### Tables
 .width2[![](Table/386994-801233.jpg)]
 .width2[![](Table/238574-801233.jpg)]
