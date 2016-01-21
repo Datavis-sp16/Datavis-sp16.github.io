@@ -9,8 +9,7 @@ background-image: url(http://www.journalism.org/files/2014/10/PJ_14.10.21_mediaP
 ---
 class: left, top
 
-### Tables---
-
+### Tables
 .width2[![](Table/386994-801233.jpg)]
 .width2[![](Table/238574-801233.jpg)]
 
@@ -23,12 +22,13 @@ background-image: url(Table/238574-801233.jpg)
 ---
 ### Small Multiples
 
-.width3[![](Multiples/a-326102-801233.jpg)]
-.width3[![](Multiples/b-236472-801233.png)]
-.width3[![](Multiples/c-316029-801233.jpg)]
-.width3[![](Multiples/d-237709-801233.png)]
-.width3[![](Multiples/e-405940-801233.png)]
-.width3[![](Multiples/f-240118-801233.png)]
+.width4[![](Multiples/a-326102-801233.jpg)]
+.width4[![](Multiples/b-236472-801233.png)]
+.width4[![](Multiples/c-316029-801233.jpg)]  
+
+.width4[![](Multiples/d-237709-801233.png)]
+.width4[![](Multiples/e-405940-801233.png)]
+.width4[![](Multiples/f-240118-801233.png)]
 
 ---
 background-image: url(Multiples/a-326102-801233.jpg)
