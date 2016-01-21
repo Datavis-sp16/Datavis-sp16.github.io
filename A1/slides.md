@@ -4,9 +4,9 @@ class: center, middle
 
 ---
 class: left, top
+background-image: url(http://www.journalism.org/files/2014/10/PJ_14.10.21_mediaPolarization-00.png)  
 
-### Data and Original Visualization:  <br>![](http://www.journalism.org/files/2014/10/PJ_14.10.21_mediaPolarization-00.png)
---- 
+---
 class: left, top
 
 ### Tables---
