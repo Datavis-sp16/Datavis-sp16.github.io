@@ -48,14 +48,14 @@ class: left, top
 **Week 3**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)
   
 .left-column-50[
-###Tu 1/19: Image Models, Visualization Design  
+###Tu 1/26: Image Models, Visualization Design  
 [Slides](../lectures/imagemodels/)  
 
 [Assignment 1 slides](../A1/)
 
 ]
 .right-column-50[
-###Th 1/21: Exploratory Data Analysis  
+###Th 1/28: Exploratory Data Analysis  
 
 - Tufte: *The Visual Design of Quantitative Information.*  
 	- Chapter 8: “Data Density and Small Multiples" 
