@@ -192,4 +192,13 @@ Visual language expresses facts not in the data.
 .
 ---
 background-image: url(country.png)
+---
+class: left, top
 
+### Data-Ink Ratio (-Tufte)  
+
+- Show the Data
+- Maximize the data-ink ratio
+- Erase non-data ink
+- Erase redundant data-ink
+- Revise / Edit
