@@ -186,6 +186,6 @@ class: left, top
 Visual language cannot express all the facts in the data.
 ]
 .right-column-50[
-.width1[![](country.png)]  
+.width2[![](country.png)]  
 Visual language expresses facts not in the data.
 ]
