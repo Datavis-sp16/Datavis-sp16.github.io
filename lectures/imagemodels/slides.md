@@ -163,20 +163,22 @@ Color &larr; Time (N, O)
 X-axis &larr; Longitude (Q); Time (O)  Y-axis &larr; Temperature (Q)  
 
 ---
-class: left, top
+class: center, middle
 
 # Design Criteria
 
+---
+class: left, top
+
 ### Consistency (-Heer)  
-The **properties of the image** (visual variables) should match the **properties of the data**.   TRANSLATION: Don't lie (even by ommission).
+The **image properties** (visual variables) should match the **data properties**. TRANSLATION: Don't lie (even by ommission).
 ### Ordering (-Heer)  
 Encode the **most important information** in the **most effective way**.
 
-### Effectiveness (-Mackinlay)  An *effective* visualization conveys information in readily **perceivable** way. Use encodings that can be decoded the fastest and most accurately.
+### Effectiveness (-Mackinlay)  The most *effective* visualization conveys information in the most **perceivable** way. (Can be decoded the fastest and most accurately.)
 
 ### Expressiveness (-Mackinlay)Data is *expressible* in a visual language if the signs express **all the facts and only the facts** in the data.
-### Effectiveness (-Mackinlay)  An *effective* visualization conveys information in readily **perceivable** way. Use encodings that can be decoded the fastest and most accurately.
----
+---
 class: left, top
 ### Expressiveness
 .left-column-50[
