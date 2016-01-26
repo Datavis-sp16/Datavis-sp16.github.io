@@ -177,8 +177,10 @@ Encode the **most important information** in the **most effective way**.
 
 ### Effectiveness (-Mackinlay)  The most *effective* visualization conveys information in the most **perceivable** way. (Can be decoded the fastest and most accurately.)
 
-### Expressiveness (-Mackinlay)  Data is *expressible* in a visual language if the signs express **all the facts and only the facts** in the data.  .---
-class: left, top
+### Expressiveness (-Mackinlay)  Data is *expressible* in a visual language if the signs express **all the facts and only the facts** in the data.  .
+---
+# Slide 2
+This is slide 2
 
 ### Expressiveness
 .left-column-50[
