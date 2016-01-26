@@ -179,9 +179,6 @@ Encode the **most important information** in the **most effective way**.
 
 ### Expressiveness (-Mackinlay)  Data is *expressible* in a visual language if the signs express **all the facts and only the facts** in the data.  .
 ---
-# Slide 2
-This is slide 2
-
 ### Expressiveness
 .left-column-50[
 .width1[![](sepal.png)]  
