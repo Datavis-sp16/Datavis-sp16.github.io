@@ -187,7 +187,9 @@ Visual language cannot express all the facts in the data.
 .width1[![](country.png)]  
 Visual language expresses facts not in the data.
 ]---
-class: left, top### Effectiveness (-Mackinlay)  An *effective* visualization conveys information in readily **perceivable** way.
+
+class: left, top
+### Effectiveness (-Mackinlay)  An *effective* visualization conveys information in readily **perceivable** way.
 
 Use encodings that can be decoded the fastest and most accurately.
 
