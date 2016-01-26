@@ -44,8 +44,7 @@ class: left, top
 
 Jaques Bertin, *Sémiologie Graphique,* 1967
 
-<quote>*Resemblance, order and proportion are the three signfields in graphics.*</quote> 
-- Bertin
+<quote>*"Resemblance, order and proportion are the three signfields in graphics."*</quote> -Bertin
 
 Nominal Data &rarr; Resemblance  
 Ordinal Data &rarr; Order  
@@ -61,9 +60,6 @@ class: left, top
 1. A, B, C are distinguishable;  
 2. B is between A and C;  3. BC is twice as long as AB;  Therefore, the graphic can encode quantitative variables.
 ]
-
----
-background-image: url(imagevariables.png)
 
 ---
 class: left, top
@@ -183,9 +179,14 @@ Encode the **most important information** in the **most effective way**.
 ---
 class: left, top
 
-### Expressiveness (-Mackinlay)Data is *expressible* in a visual language if the signs express **all the facts and only the facts** in the data.---
-class: left, top**Visual language cannot express all the facts in the data**![](sepal.png)---
-class: left, top**Visual language expresses facts not in the data**![](country.png)---
+### Expressiveness (-Mackinlay)Data is *expressible* in a visual language if the signs express **all the facts and only the facts** in the data..left-column-50[
+.width1[![](sepal.png)]  
+Visual language cannot express all the facts in the data.
+]
+.right-column-50[
+.width1[![](country.png)]  
+Visual language expresses facts not in the data.
+]---
 class: left, top### Effectiveness (-Mackinlay)  An *effective* visualization conveys information in readily **perceivable** way.
 
 Use encodings that can be decoded the fastest and most accurately.
