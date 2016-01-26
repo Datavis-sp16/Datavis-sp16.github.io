@@ -191,5 +191,7 @@ Visual language expresses facts not in the data.
 ]
 .
 ---
+background-image: url(country.png)
+
 # Slide 2
 This is slide 2
