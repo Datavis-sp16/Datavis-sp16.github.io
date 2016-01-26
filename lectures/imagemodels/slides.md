@@ -188,4 +188,16 @@ Visual language cannot express all the facts in the data.
 .right-column-50[
 .width2[![](country.png)]  
 Visual language expresses facts not in the data.
+]---
+class: left, top
+### Effectiveness (-Mackinlay)  An *effective* visualization conveys information in readily **perceivable** way. Use encodings that can be decoded the fastest and most accurately.
+
+### Expressiveness (-Mackinlay)Data is *expressible* in a visual language if the signs express **all the facts and only the facts** in the data.
+.left-column-50[
+.width1[![](sepal.png)]  
+Visual language cannot express all the facts in the data.
+]
+.right-column-50[
+.width2[![](country.png)]  
+Visual language expresses facts not in the data.
 ]
