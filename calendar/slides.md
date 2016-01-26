@@ -40,3 +40,29 @@ class: left, top
 	- [Chapters 4-5: “Data-Ink...” and "Chartjunk..."](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16466009/View) 
 	- [Chapter 6: “Maximizing Data-Ink”](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16467070/View)  
 ]
+
+---
+name: w3
+class: left, top
+
+**Week 3**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)
+  
+.left-column-50[
+###Tu 1/19: Image Models, Visualization Design  
+[Slides](../lectures/imagemodels/)  
+
+[Assignment 1 slides](../A1/)
+
+]
+.right-column-50[
+###Th 1/21: Exploratory Data Analysis  
+
+- Tufte: *The Visual Design of Quantitative Information.*  
+	- Chapter 8: “Data Density and Small Multiples" 
+- Tufte: [*Envisioning Information.*](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16335283/View?ou=1011508)  
+	- Chapter 2: “Macro/Micro Readings”
+	- Chapter 4: "Small Multiples"
+- OPTIONAL: ["Exploratory Data Analysis," Wikipedia.](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+]
+
+
