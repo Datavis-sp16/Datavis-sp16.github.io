@@ -24,6 +24,9 @@ Data often needs to be manipulated before doing any analysis or visualizing. Tas
 - quality assessment  
 - integration
 
+---
+### Issues:
+
 **Missing Data**  
 no measurements, redacted, ...?
 
