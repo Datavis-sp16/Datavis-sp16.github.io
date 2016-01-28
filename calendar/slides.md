@@ -56,6 +56,7 @@ class: left, top
 ]
 .right-column-50[
 ###Th 1/28: Exploratory Data Analysis  
+[Slides](../lectures/eda)  
 
 - Tufte: *The Visual Design of Quantitative Information.*  
 	- Chapter 8: “Data Density and Small Multiples" 
