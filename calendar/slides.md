@@ -89,6 +89,4 @@ class: left, top
     	- Learning CSS (3 min)
     	- Learning JavaScript (4 1/2 min)
 
-If you're ambitious, you can tackle the 3 hour "HTML Essential Training" and 3 hour "CSS Fundamentals" courses.  These skills aren't essential for Assignment #2, but will be useful later.
-
-If you are a coder, know some javascript, and want to dive into D3, you can do the 3 1/2 hour course "Data Visualization with D3."  But this will be a distraction from assignment #2.
+If you're ambitious: OPTIONAL "HTML Essential Training" and "CSS Fundamentals" courses. If you know some javascript: OPTIONAL "Data Visualization with D3."  (These skills aren't needed for Assignment 2.)
