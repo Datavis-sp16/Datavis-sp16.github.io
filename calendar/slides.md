@@ -74,4 +74,26 @@ class: left, top
   
 [Assignent #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due 2/16)
 
-Self-Paced online tutorials TBA.
+**Self Paced Online Tutorials**
+
+Go to [this Lynda.com playlist](http://www.lynda.com/SharedPlaylist/d3093c04bf8d48149ccd2aded2197389?org=uga.edu) (login with UGA ID required). If you have trouble logging in, go to the [UGA Portal for Lynda.com](https://www.google.com/url?q=https%3A%2F%2Fcas.uga.edu%2Fcas%2Flogin%3Fservice%3Dhttps%3A%2F%2Fwww.lynda.com%2Fportal%2Fuga&sa=D&sntz=1&usg=AFrqEzciQx1UjuJ4HxgaYL-QqtNRLcRiDg), then return to the playlist.  From the playlist, do the following:
+
+- "Data Visualization Fundamentals"  
+	- c. 1 "Big Ideas" (40 min)  
+	- c. 2 "Information Hierarchy" (45 min)
+	- OPTIONAL: c. 3 & 4 (20 min total)
+
+- Data-Analysis Fundamentals with Excel
+	- OPTIONAL: c. 1 "Foundational Concepts of Data Analysis" (30 min) 
+	- OPTIONAL: c. 2 "Visualizing Data" (25 min)
+
+- "Web Design Fundamentals with James Williamson"
+	- ch. 1. "Exploring Web Design" (50 min)
+	- from ch. 5:
+		- Learning HTML (4 min)
+    	- Learning CSS (3 min)
+    	- Learning JavaScript (4 1/2 min)
+
+If you're ambitious, you can tackle the 3 hour "HTML Essential Training" and 3 hour "CSS Fundamentals" courses.  These skills aren't essential for Assignment #2, but will be useful later.
+
+If you are a coder, know some javascript, and want to dive into D3, you can do the 3 1/2 hour course "Data Visualization with D3."  But this will be a distraction from assignment #2.
