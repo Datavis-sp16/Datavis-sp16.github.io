@@ -17,7 +17,8 @@ class: center, middle
 ---
 ## variables = dimensions = columns  
 
-![](table.png) 2 dimensional (bivariate) data: ![](xy.png)
+![](table.png)  
+2 dimensional (bivariate) data: ![](xy.png)
 
 ---
 ## Encoding Univariate (1D) Data  
@@ -26,15 +27,19 @@ class: center, middle
 
 - bar chart  
 - area chart  
-![](http://www.datavizcatalogue.com/methods/images/top_images/area_chart.png)
 - line graph (xy) / area graph  
-![](http://www.datavizcatalogue.com/methods/images/top_images/area_graph.png)  
 - single stacked bar  
-![](http://www.datavizcatalogue.com/methods/images/anatomy/stacked_bar_graph.png)
 - pie chart (single stacked bar in circular form)  
 - single box plot (statistical summary)  
-![](http://www.datavizcatalogue.com/methods/images/anatomy/box_plot.png)  
 - etc.
+
+---
+background-image: url(http://www.datavizcatalogue.com/methods/images/top_images/area_chart.png)
+
+---
+![](http://www.datavizcatalogue.com/methods/images/top_images/area_graph.png)  
+![](http://www.datavizcatalogue.com/methods/images/anatomy/stacked_bar_graph.png)
+![](http://www.datavizcatalogue.com/methods/images/anatomy/box_plot.png)  
 
 ---
 ## Encoding Bivariate (2D) Data  
