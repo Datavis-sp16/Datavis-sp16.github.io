@@ -172,3 +172,21 @@ background-image: url(http://www.jessefagan.com/linksviz/gestalt.png)
 
 [more on betwork visualization](http://www.jessefagan.com/linksviz/)
 
+---
+# Dimensionality Reduction
+
+### Statistical Techniques:
+
+- Principal Components Analysis (PCA)  
+- Multidimensional Scaling (MDS)  - Locally Linear Embedding (LLE)- t-Dist. Stochastic Neighbor Embedding (t-SNE)  
+- Isomap- Auto-Encoder Neural Networks Topological methods...
+
+---
+background-image: url(https://upload.wikimedia.org/wikipedia/en/f/f5/GaussianScatterPCA.svg)
+
+### Principal Components Analysis (PCA)
+[wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)
+
+---
+# Strategies for nD visualization:- Avoid encoding too many dimensions  - Reduce the problem space- Use small multiples established nD techniques  
+- Use interaction, linked views, multiple views, etc.Rarely does a single visualization answer all questions. Instead, the ability to generate appropriate visualizations quickly is key. 
