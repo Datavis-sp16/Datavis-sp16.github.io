@@ -69,12 +69,20 @@ background-image: url(http://www.datavizcatalogue.com/methods/images/top_images/
 ## Encoding Trivariate (3D) Data (3D spatial encodins)
 
 - 3D scatterplot (hard to see)  
-![](http://www.statmethods.net/graphs/images/s3d1.png)
-
 - 3D surface plot   
-![](http://i.stack.imgur.com/0hVjA.png)
 
-### Other 3D encodings
+---
+background-image: url(http://www.statmethods.net/graphs/images/s3d1.png)
+
+### 3D Scatterplot
+
+---
+background-image: url(http://i.stack.imgur.com/0hVjA.png)
+
+### Surface Plot (with added color for redunancy)
+
+---
+### Non-spatial 3D encodings
 
 Plotting 3D space on a 2D surface makes it hard to read data accurtely.  
 
@@ -84,27 +92,28 @@ Therefore, we give the 3rd variable (z) a non-spatial visual encoding:
 - shape (Nominal)  
 -  etc.
 
-![](imagevariables.png)
+---
+background-image: url(imagevariables.png)
 
 ---
-## Encoding Multivariate (nD) Data
+## Encoding Multivariate (nD) Data: Non-spatial encodings
 
-![](drinks.png)  
+---
+background-image: url(drinks.png)  
+
 *Image credit: Jeff Heer*
 
 ---
+background-image: url(trellis.png) 
+
 ### Trellis Plots 
-
-A trellis plot subdivides the design space to compare multiple plots, usually with a nominal or ordinal variable used as the basis for subdividing the space.
-
-![](trellis.png) 
-*Image credit: Jeff Heer*
+Subdivide the design space to compare multiple plots, usually with a nominal or ordinal variable used as the basis for subdividing the space. *Image credit: Jeff Heer*
 
 ---
 ### Small Multiples
 
 A generalization of the idea of a trellis plot:
-![](mult.png)
+background-image: url(mult.png)
 
 *MacEachren '95, Figure 2.11, p. 38*
 
