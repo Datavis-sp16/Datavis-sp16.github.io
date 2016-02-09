@@ -122,9 +122,10 @@ all pairs of variables
 against each other.
 
 ---
-### Scatterplot matrix + extra dimensions
+background-image: url(https://stanford.edu/~mwaskom/software/seaborn/_images/scatterplot_matrix.png)
 
-![](https://stanford.edu/~mwaskom/software/seaborn/_images/scatterplot_matrix.png)
+### Scatterplot matrix  
++ extra dimensions
 
 ---
 background-image: url(views.png)
