@@ -171,7 +171,7 @@ background-image: url(http://flowingdata.com/wp-content/uploads/2011/07/When-cri
 ---
 background-image: url(http://www.jessefagan.com/linksviz/gestalt.png)
 
-[more on betwork visualization](http://www.jessefagan.com/linksviz/)
+[network visualization](http://www.jessefagan.com/linksviz/)
 
 ---
 # Dimensionality Reduction
