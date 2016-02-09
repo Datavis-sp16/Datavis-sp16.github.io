@@ -110,18 +110,16 @@ background-image: url(trellis.png)
 Subdivide the design space to compare multiple plots, usually with a nominal or ordinal variable used as the basis for subdividing the space. *Image credit: Jeff Heer*
 
 ---
-### Small Multiples
-
-A generalization of the idea of a trellis plot:
 background-image: url(mult.png)
 
-*MacEachren '95, Figure 2.11, p. 38*
+### Small Multiples
+A generalization of the idea of a trellis plot. *MacEachren '95, Figure 2.11, p. 38*
 
 ---
-### Scatterplot Matrix
+background-image: url(https://3.bp.blogspot.com/-c5bDhQx8Y-w/TisWWy8s4kI/AAAAAAAAjkY/k-Af-OWK1t0/s1600/Rplot01.png)
 
-Systematically plot all pairs of variables against each other:
-![](https://3.bp.blogspot.com/-c5bDhQx8Y-w/TisWWy8s4kI/AAAAAAAAjkY/k-Af-OWK1t0/s1600/Rplot01.png)
+### Scatterplot Matrix
+Systematically plot all pairs of variables against each other.
 
 ---
 ### Scatterplot matrix + extra dimensions
