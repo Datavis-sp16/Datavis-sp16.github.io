@@ -110,9 +110,9 @@ background-image: url(trellis.png)
 Subdivide the design space to compare multiple plots, usually with a nominal or ordinal variable used as the basis for subdividing the space. *Image credit: Jeff Heer*
 
 ---
-background-image: url(mult.png)
+background-image: url(mult.png) 
 
-### Small Multiples
+### Small Multples 
 A generalization of the idea of a trellis plot. *MacEachren '95, Figure 2.11, p. 38*
 
 ---
