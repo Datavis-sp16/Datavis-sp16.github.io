@@ -90,3 +90,20 @@ class: left, top
     	- Learning JavaScript (4 1/2 min)
 
 If you're ambitious: OPTIONAL "HTML Essential Training" and "CSS Fundamentals" courses. If you know some javascript: OPTIONAL "Data Visualization with D3."  (These skills aren't needed for Assignment 2.)
+
+---
+name: w4
+class: left, top
+
+**Week 5**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)  
+[Assignent #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due 2/16)
+
+
+[Plot.ly](http://plot.ly)  
+Web interface for D3 (see below). Free. Can export to SVG.  Powerful.  tutorials: [http://help.plot.ly/tutorials/](http://help.plot.ly/tutorials/)
+
+[Dashboards.ly](https://dashboards.ly/)  
+Layout multiple Plotly charts on a single page and publish.
+
+[Tableau](http://www.tableausoftware.com/) - desktop + online drag/drop visualization editor. Publish to web. Free (academic) 
+
