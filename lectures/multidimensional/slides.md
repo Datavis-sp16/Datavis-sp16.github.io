@@ -114,4 +114,21 @@ Systematically plot all pairs of variables against each other:
 ![](http://homes.cs.washington.edu/~jheer/files/zoo/parallel.png)
 
 ---
-### 
+### Radar Plot
+
+![](http://www.goldensoftware.com/newsletter_imgs/61/radar_graph_11.jpg)
+
+---
+![](http://www.visualcinnamon.com/wp-content/uploads/2015/09/D3-radar-chart-New-version.png)
+
+---
+![](http://tulip.labri.fr/TulipDrupal/sites/default/files/uploadedFiles/images/parallel_coordinates_circular_straight.preview.png)
+
+---
+### 3D parallel coordinates from series of scatterplots
+
+![](http://bdtnp.lbl.gov/Fly-Net/content/bid/pcx/ParallelCoordinates/3DParallelCoordinates_Illustration.png)
+
+---
+background-image: url(http://www.excelcharts.com/blog/wp-content/uploads/2012/06/walmart-growth-micromaps1.png)
+
