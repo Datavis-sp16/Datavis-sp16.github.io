@@ -36,6 +36,8 @@ class: center, middle
 ---
 background-image: url(http://www.datavizcatalogue.com/methods/images/top_images/area_chart.png)
 
+### area chart
+
 ---
 ![](http://www.datavizcatalogue.com/methods/images/top_images/area_graph.png)  
 ![](http://www.datavizcatalogue.com/methods/images/anatomy/stacked_bar_graph.png)
