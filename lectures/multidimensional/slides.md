@@ -101,8 +101,6 @@ background-image: url(imagevariables.png)
 ---
 background-image: url(drinks.png)  
 
-*Image credit: Jeff Heer*
-
 ---
 background-image: url(trellis.png) 
 
@@ -119,7 +117,9 @@ A generalization of the idea of a trellis plot. *MacEachren '95, Figure 2.11, p.
 background-image: url(https://3.bp.blogspot.com/-c5bDhQx8Y-w/TisWWy8s4kI/AAAAAAAAjkY/k-Af-OWK1t0/s1600/Rplot01.png)
 
 ### Scatterplot Matrix
-Systematically plot all pairs of variables against each other.
+Systematically plot  
+all pairs of variables  
+against each other.
 
 ---
 ### Scatterplot matrix + extra dimensions
@@ -127,34 +127,48 @@ Systematically plot all pairs of variables against each other.
 ![](https://stanford.edu/~mwaskom/software/seaborn/_images/scatterplot_matrix.png)
 
 ---
+background-image: url(views.png)
+
 ### multiple coordinated views
 
-![](views.png)
-
 ---
+background-image: url(http://sdk.gooddata.com/gooddata-js/images/posts/parallel-coordinates.png)
+
 ### parallel coordinates
 
-![](http://sdk.gooddata.com/gooddata-js/images/posts/parallel-coordinates.png)
+---
+background-image: url(http://homes.cs.washington.edu/~jheer/files/zoo/parallel.png)
 
 ---
-![](http://homes.cs.washington.edu/~jheer/files/zoo/parallel.png)
+background-image: url(http://www.goldensoftware.com/newsletter_imgs/61/radar_graph_11.jpg)
 
----
 ### Radar Plot
 
-![](http://www.goldensoftware.com/newsletter_imgs/61/radar_graph_11.jpg)
+---
+background-image: url(http://www.visualcinnamon.com/wp-content/uploads/2015/09/D3-radar-chart-New-version.png)
 
 ---
-![](http://www.visualcinnamon.com/wp-content/uploads/2015/09/D3-radar-chart-New-version.png)
+background-image: url(http://tulip.labri.fr/TulipDrupal/sites/default/files/uploadedFiles/images/parallel_coordinates_circular_straight.preview.png)
 
 ---
-![](http://tulip.labri.fr/TulipDrupal/sites/default/files/uploadedFiles/images/parallel_coordinates_circular_straight.preview.png)
-
----
-### 3D parallel coordinates from series of scatterplots
-
-![](http://bdtnp.lbl.gov/Fly-Net/content/bid/pcx/ParallelCoordinates/3DParallelCoordinates_Illustration.png)
+background-image: url(http://bdtnp.lbl.gov/Fly-Net/content/bid/pcx/ParallelCoordinates/3DParallelCoordinates_Illustration.png)
 
 ---
 background-image: url(http://www.excelcharts.com/blog/wp-content/uploads/2012/06/walmart-growth-micromaps1.png)
+
+### More Small Multiples
+
+---
+background-image: url(http://blog.dominodatalab.com/content/images/2015/01/home_ownership.png)
+
+---
+background-image: url(http://sachi.cs.st-andrews.ac.uk/wp-content/uploads/2011/05/SmallMultiplesACHI_BEST_Paper.png)
+
+---
+background-image: url(http://flowingdata.com/wp-content/uploads/2011/07/When-crime-happens-625x330.png)
+
+---
+background-image: url(http://www.jessefagan.com/linksviz/gestalt.png)
+
+[more on betwork visualization](http://www.jessefagan.com/linksviz/)
 
