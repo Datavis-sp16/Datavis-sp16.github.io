@@ -39,22 +39,34 @@ background-image: url(http://www.datavizcatalogue.com/methods/images/top_images/
 ### area chart
 
 ---
-![](http://www.datavizcatalogue.com/methods/images/top_images/area_graph.png)  
-![](http://www.datavizcatalogue.com/methods/images/anatomy/stacked_bar_graph.png)
-![](http://www.datavizcatalogue.com/methods/images/anatomy/box_plot.png)  
+background-image: url(http://www.datavizcatalogue.com/methods/images/top_images/area_graph.png) 
+
+### area graph
+ 
+---
+background-image: url(http://www.datavizcatalogue.com/methods/images/anatomy/stacked_bar_graph.png)
+
+### stacked bar chart
+
+---
+background-image: url(http://www.datavizcatalogue.com/methods/images/anatomy/box_plot.png)  
+
+### Box Plot
 
 ---
 ## Encoding Bivariate (2D) Data  
 
 - scatter plot  
-![](http://www.datavizcatalogue.com/methods/images/top_images/scatterplot.png)
 - Clustered bar chart
 - etc.
 
 ---
-## Encoding Trivariate (3D) Data  
+background-image: url(http://www.datavizcatalogue.com/methods/images/top_images/scatterplot.png)
 
-### Purely Spatial 3D encodings
+### Scatterplot
+
+---
+## Encoding Trivariate (3D) Data (3D spatial encodins)
 
 - 3D scatterplot (hard to see)  
 ![](http://www.statmethods.net/graphs/images/s3d1.png)
