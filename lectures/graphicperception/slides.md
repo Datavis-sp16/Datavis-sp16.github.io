@@ -506,6 +506,7 @@ Change Blindness
 | Smell | 0.55 - 0.6 |
 | Taste | 0.6 - 1.3 |
 | Temperature | 1.0 (cold) - 1.6 (warm) |
+| Length | 1.0 |
 | Duration | 1.1 |
 | Pressure | 1.1 |
 | Heaviness | 1.45 |
