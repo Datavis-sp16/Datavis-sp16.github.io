@@ -412,3 +412,6 @@ So, to find the smallest perceivable difference in brightness, you can multiply 
 Tools exist to automatically generate perceptually uniform color and brightness scales, and color pallets.  The best visualization software has these scales or tools built in.
 ]
 
+---
+<iframe src="http://gka.github.io/palettes/#colors=black,white|steps=7|bez=1|coL=1"><iframe>
+
