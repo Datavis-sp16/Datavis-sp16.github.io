@@ -413,5 +413,6 @@ Tools exist to automatically generate perceptually uniform color and brightness 
 ]
 
 ---
-<iframe src="http://gka.github.io/palettes/#colors=black,white|steps=7|bez=1|coL=1"><iframe>
+Chroma.js [http://gka.github.io/palettes/](http://gka.github.io/palettes/)
 
+<iframe width="800" height="600" frameborder="0" src="http://gka.github.io/palettes/#colors=black,white|steps=7|bez=1|coL=1"><iframe>
