@@ -500,7 +500,7 @@ Change Blindness
 .right-column-fat[
 
 | SENSATION   |  EXPONENT  | 
-|:----------:|:-------------:|
+| ----------:|:-------------|
 | Loudness |  0.6 |
 | Brightness |    0.33   |
 | Smell | 0.55 - 0.6 |
