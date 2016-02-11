@@ -230,6 +230,22 @@ Change Blindness
 
 .right-column-fat[
 ### Detecting Brightness  
+]
+
+---
+.left-column[
+### Graphical Perception
+
+<mark>Signal Detection</mark>  
+Magnitude Estimation  
+Pre-Attentive Processing  
+Multiple Visual Encodings  
+Gestalt  
+Change Blindness  
+]
+
+.right-column-fat[
+### Detecting Brightness  
 <svg x="0px" y="0px" width="630.6px" height="466.3px" viewBox="0 0 630.6 466.3" enable-background="new 0 0 630.6 466.3" xml:space="preserve">
 <rect x="105.7" y="148.2" fill="#868686" width="169.9" height="169.9"/>
 <rect x="364.6" y="148.2" fill="#808080" width="169.9" height="169.9"/>
