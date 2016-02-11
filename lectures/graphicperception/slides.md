@@ -82,11 +82,10 @@ Change Blindness
 ]
 
 .right-column-fat[
-<svg 
-x="0px" y="0px" width="393.2px" height="169.9px"
-viewBox="0 0 393.2 169.9" enable-background="new 0 0 393.2 169.9"
-xml:space="preserve">
-<rect x="0" y="0" fill="#808080" width="169.9" height="169.9"/>
-<rect x="223.3" y="0" fill="#909090" width="169.9" height="169.9"/>
+<svg x="0px" y="0px" width="630.6px" height="466.3px" viewBox="0 0 630.6 466.3" enable-background="new 0 0 630.6 466.3" xml:space="preserve">
+<rect x="105.7" y="148.2" fill="#808080" width="169.9" height="169.9"/>
+<rect x="364.6" y="148.2" fill="#909090" width="169.9" height="169.9"/>
+<rect x="0.3" y="0.3" fill="none" stroke="#E6E6E6" stroke-width="0.5" stroke-miterlimit="10" width="630.1" height="465.8"/>
 </svg>
+
 ]
