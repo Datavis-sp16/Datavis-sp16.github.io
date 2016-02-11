@@ -485,4 +485,31 @@ $$
 ]
 ]
 
+---
+.left-column[
+### Graphical Perception
+
+Signal Detection  
+<mark>Magnitude Estimation</mark>  
+Pre-Attentive Processing  
+Multiple Visual Encodings  
+Gestalt  
+Change Blindness  
+]
+
+.right-column-fat[
+
+| SENSATION   |  EXPONENT  | 
+|:----------:|:-------------:|
+| Loudness |  0.6 |
+| Brightness |    0.33   |
+| Smell | 0.55 - 0.6 |
+| Taste | 0.6 - 1.3 |
+| Temperature | 1.0 (cold) - 1.6 (warm) |
+| Duration | 1.1 |
+| Pressure | 1.1 |
+| Heaviness | 1.45 |
+| Shock | 3.5 |
+
+]
 
