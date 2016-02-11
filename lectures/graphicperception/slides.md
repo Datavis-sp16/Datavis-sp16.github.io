@@ -829,3 +829,9 @@ Change Blindness
 <line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="119.6" y1="92.7" x2="119.6" y2="367.9"/>
 </svg>
 ]
+
+---
+### Mackinlay's effectiveness rankings
+
+|	Q	|	O	|	N	||	------	|	------	|	------	||	Position	|	Position	|	Position	||	Length	|	Value	|	Hue	||	Angle	|	Saturation	|	Texture	||	Slope	|	Hue	|	Connection	||	Area (Size)	|	Texture	|	Containmen ||	Volume	|	Connection	|	Value	||	Value	|	Containment	|	Saturation ||	Saturation	|	Length	|	Shape	||	Hue	|	Angle	|	Length	||	Texture	|	Slope	|	Angle	||	Connection	|	Area (Size)	|	Slope ||	Containment	|	Volume	|	Area (Size) ||	Shape	|	Shape	|	Volume	|
+
