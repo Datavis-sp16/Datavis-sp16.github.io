@@ -1,6 +1,6 @@
 name: w1  
 class: left, top
-
+ 
 **Week 1**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)
   
 .left-column-50[
