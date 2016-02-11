@@ -416,3 +416,69 @@ Tools exist to automatically generate perceptually uniform color and brightness 
 Chroma.js [http://gka.github.io/palettes/](http://gka.github.io/palettes/)
 
 <iframe width="1000" height="600" frameborder="0" src="http://gka.github.io/palettes/#colors=black,white|steps=7|bez=1|coL=1"><iframe>
+
+---
+.left-column[
+### Graphical Perception
+
+Signal Detection  
+<mark>Magnitude Estimation</mark>  
+Pre-Attentive Processing  
+Multiple Visual Encodings  
+Gestalt  
+Change Blindness  
+]
+
+.right-column-fat[
+### Compare the Areas
+
+<svg x="0px" y="0px" width="630.6px" height="466.3px" viewBox="0 0 630.6 466.3" enable-background="new 0 0 630.6 466.3" xml:space="preserve">
+<rect x="0.3" y="0.3" fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="630.1" height="465.8"/>
+<circle fill="#808184" cx="134.5" cy="233.1" r="67.8"/>
+<circle fill="#808184" cx="426.1" cy="233.1" r="135.6"/>
+</svg>
+]  
+
+---
+.left-column[
+### Graphical Perception
+
+Signal Detection  
+<mark>Magnitude Estimation</mark>  
+Pre-Attentive Processing  
+Multiple Visual Encodings  
+Gestalt  
+Change Blindness  
+]
+
+.right-column-fat[
+### Compare the Lengths
+
+<svg x="0px" y="0px" width="630.6px" height="466.3px" viewBox="0 0 630.6 466.3" enable-background="new 0 0 630.6 466.3" xml:space="preserve">
+<rect x="0.3" y="0.3" fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="630.1" height="465.8"/>
+<rect x="59.2" y="193.4" fill="#808184" width="61" height="21.9"/>
+<rect x="59.2" y="266" fill="#808184" width="488" height="21.9"/>
+</svg>
+]  
+
+---
+.left-column[
+### Graphical Perception
+
+Signal Detection  
+<mark>Magnitude Estimation</mark>  
+Pre-Attentive Processing  
+Multiple Visual Encodings  
+Gestalt  
+Change Blindness  
+]
+
+.right-column-fat[
+### Steven's Power Law
+
+$$
+Sensation = I^p
+$$
+
+]
+
