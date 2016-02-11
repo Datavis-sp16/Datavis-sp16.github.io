@@ -480,7 +480,7 @@ $$
 Sensation = I^p
 $$
 
-.width1[
+.width2[
 ![](http://www.dnacoil.com/wp-content/uploads/2014/03/05_powerlaw-300x272.png)
 ]
 ]
