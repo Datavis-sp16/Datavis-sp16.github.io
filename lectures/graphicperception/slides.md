@@ -80,7 +80,7 @@ Change Blindness
 ]
 
 .right-column-fat[
-### Detecting Brightness  
+### JND for Brightness  
 <svg x="0px" y="0px" width="630.6px" height="466.3px" viewBox="0 0 630.6 466.3" enable-background="new 0 0 630.6 466.3" xml:space="preserve">
 <rect x="105.7" y="148.2" fill="#808080" width="169.9" height="169.9"/>
 <rect x="364.6" y="148.2" fill="#909090" width="169.9" height="169.9"/>
@@ -101,7 +101,7 @@ Change Blindness
 ]
 
 .right-column-fat[
-### Detecting Brightness  
+### JND for Brightness  
 <svg
 	 x="0px" y="0px" width="630.6px" height="466.3px" viewBox="0 0 630.6 466.3" enable-background="new 0 0 630.6 466.3"
 	 xml:space="preserve">
@@ -207,7 +207,7 @@ Change Blindness
 ]
 
 .right-column-fat[
-### Detecting Brightness  
+### JND for Brightness  
 ]
 
 ---
@@ -223,7 +223,7 @@ Change Blindness
 ]
 
 .right-column-fat[
-### Detecting Brightness  
+### JND for Brightness  
 <svg x="0px" y="0px" width="630.6px" height="466.3px" viewBox="0 0 630.6 466.3" enable-background="new 0 0 630.6 466.3" xml:space="preserve">
 <rect x="105.7" y="148.2" fill="#868686" width="169.9" height="169.9"/>
 <rect x="364.6" y="148.2" fill="#808080" width="169.9" height="169.9"/>
@@ -245,7 +245,7 @@ Change Blindness
 ]
 
 .right-column-fat[
-### Detecting Brightness  
+### JND for Brightness  
 <svg x="0px" y="0px" width="630.6px" height="466.3px" viewBox="0 0 630.6 466.3" enable-background="new 0 0 630.6 466.3" xml:space="preserve">
 <rect x="105.7" y="148.2" fill="#868686" width="169.9" height="169.9"/>
 <rect x="364.6" y="148.2" fill="#808080" width="169.9" height="169.9"/>
@@ -342,3 +342,71 @@ Change Blindness
 </svg>
 
 ]
+
+---
+.left-column[
+### Graphical Perception
+
+<mark>Signal Detection</mark>  
+Magnitude Estimation  
+Pre-Attentive Processing  
+Multiple Visual Encodings  
+Gestalt  
+Change Blindness  
+]
+
+.right-column-fat[
+### JND for Brightness  
+
+**Weber's Law:**
+
+$$
+JND = \Delta I = Change\;in\;Intensity
+$$
+
+$$
+k = \frac{\Delta I}{I} = \frac{JND\;(Change\;in\;Intensity)}{Original\; Intensity}
+$$
+
+k is some constant.  This means that the bigger the original intensity, the bigger the increase needs to be to detect a change.  
+
+In other words, it's the *ratio* of intensities that matters.
+
+Weber's Law holds for most perceptual phenomena, including visual, aural, tactile, etc., **but each has it's own value k.**  Perception in general is *logarithmic* (depends on ratios).
+
+For Brightness (Intensity of Light), k = 0.08  
+
+For Loudenss (Intensity of Sound), k = 0.05
+
+]
+
+---
+.left-column[
+### Graphical Perception
+
+<mark>Signal Detection</mark>  
+Magnitude Estimation  
+Pre-Attentive Processing  
+Multiple Visual Encodings  
+Gestalt  
+Change Blindness  
+]
+
+.right-column-fat[
+### JND for Brightness  
+
+**Weber's Law:**
+
+So,
+
+$$
+0.08 = \frac{\Delta I}{I} = \frac{JND\;(Change\;in\;Brightness)}{Original\; Brightness}
+$$
+
+So, to find the smallest perceivable difference in brightness, you can multiply the original by 0.08 (if you have a light meter).
+
+**PROBLEM:** You can't do that with normal RGB, CMYK or Hex color values!  Those color spaces are lonlinear, and so is our perception, but in different ways.  So you can't just multiply.  You can only multiply light intensity values measured with a light meter!
+
+**SOLUTION:** Use a "perceptually uniform" colorspace (like CIE-LAB), which has been designed based on empirical study of human perception.  
+
+Tools exist to automatically generate perceptually uniform color and brightness scales, and color pallets.  The best visualization software has these scales or tools built in.
