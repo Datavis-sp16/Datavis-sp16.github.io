@@ -68,8 +68,6 @@ Change Blindness
 ]
 
 ---
-name: topics
-
 .left-column[
 ### Graphical Perception
 
@@ -88,5 +86,5 @@ Change Blindness
 <rect x="364.6" y="148.2" fill="#909090" width="169.9" height="169.9"/>
 <rect x="0.3" y="0.3" fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="630.1" height="465.8"/>
 </svg>
-
+128 128 128
 ]
