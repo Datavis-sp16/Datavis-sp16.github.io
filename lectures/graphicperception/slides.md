@@ -410,3 +410,5 @@ So, to find the smallest perceivable difference in brightness, you can multiply 
 **SOLUTION:** Use a "perceptually uniform" colorspace (like CIE-LAB), which has been designed based on empirical study of human perception.  
 
 Tools exist to automatically generate perceptually uniform color and brightness scales, and color pallets.  The best visualization software has these scales or tools built in.
+]
+
