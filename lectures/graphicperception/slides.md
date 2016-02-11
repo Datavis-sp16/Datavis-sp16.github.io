@@ -575,13 +575,7 @@ Change Blindness
 
 .right-column-fat[
 
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In  -->
-<svg version="1.1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="630.6px" height="466.3px" viewBox="0 0 630.6 466.3" enable-background="new 0 0 630.6 466.3"
-	 xml:space="preserve">
-<defs>
-</defs>
+<svg x="0px" y="0px" width="630.6px" height="466.3px" viewBox="0 0 630.6 466.3" enable-background="new 0 0 630.6 466.3" xml:space="preserve">
 <rect x="0.3" y="0.3" fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="630.1" height="465.8"/>
 <rect x="261.3" y="33.8" fill="none" stroke="#808184" stroke-width="0.5" stroke-miterlimit="10" width="45.2" height="45.2"/>
 <rect x="261.3" y="92.7" fill="none" stroke="#808184" stroke-width="0.5" stroke-miterlimit="10" width="45.2" height="45.2"/>
@@ -817,7 +811,6 @@ Change Blindness
 <circle cx="268.8" cy="290.4" r="1.7"/>
 <circle cx="289.1" cy="290.4" r="7"/>
 <g>
-	
 		<rect x="265.6" y="338.2" fill="#EFEFEF" stroke="#231F20" stroke-width="1.000000e-03" stroke-miterlimit="10" width="9" height="9"/>
 	<polygon stroke="#231F20" stroke-width="1.000000e-03" stroke-miterlimit="10" points="274.6,347.2 278.7,343.1 278.7,334.1 
 		274.6,338.2 	"/>
@@ -825,7 +818,6 @@ Change Blindness
 		269.7,334.1 265.6,338.2 	"/>
 </g>
 <g>
-	
 		<rect x="279.9" y="351.2" fill="#EFEFEF" stroke="#231F20" stroke-width="1.000000e-03" stroke-miterlimit="10" width="16.7" height="16.7"/>
 	<polygon stroke="#231F20" stroke-width="1.000000e-03" stroke-miterlimit="10" points="296.6,367.9 304.1,360.4 304.1,343.7 
 		296.6,351.2 	"/>
