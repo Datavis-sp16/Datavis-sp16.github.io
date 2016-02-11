@@ -104,7 +104,7 @@ class: left, top
 ]
 .right-column-50[
 ###Th 2/11: Perception  
-[Slides](../lectures/perception)  
+[Slides](../lectures/graphicperception)  
 
 - Tufte: [*Envisioning Information.*](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16335283/View?ou=1011508)  
 	- Chapter 3: “Layering and Separation”
