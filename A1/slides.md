@@ -46,6 +46,9 @@ background-image: url(Multiples/b-236472-801233.png)
 background-image: url(Multiples/c-316029-801233.jpg)
 
 ---
+<embed width="800" height="600" src="text/226137-801233 - Gerda Mostonaite.txt">
+
+---
 background-image: url(Multiples/d-237709-801233.png)
 
 ---
@@ -91,5 +94,3 @@ background-image: url(StackedBar/c-244397-801233.png)
 ---
 background-image: url(StackedBar/d-234337-801233.png)
 
----
-<embed width="800" height="600" src="text/226137-801233 - Gerda Mostonaite.txt">
