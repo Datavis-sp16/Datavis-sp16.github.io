@@ -92,4 +92,4 @@ background-image: url(StackedBar/c-244397-801233.png)
 background-image: url(StackedBar/d-234337-801233.png)
 
 ---
-<embed src="../text/226137-801233 - Gerda Mostonaite.txt">
+<embed width="800" height="600" src="text/226137-801233 - Gerda Mostonaite.txt">
