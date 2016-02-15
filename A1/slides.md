@@ -2,8 +2,6 @@ class: center, middle
 
 # Assignment 1
 
-### Visualization Redesign
-
 ---
 class: left, top
 background-image: url(http://www.journalism.org/files/2014/10/PJ_14.10.21_mediaPolarization-00.png)  
@@ -17,15 +15,9 @@ class: left, top
 .width3[![](Table/c-381135-801233.jpg)]
 
 ---
-.width2[![](http://www.journalism.org/files/2014/10/PJ_14.10.21_mediaPolarization-00.png)]
-.width2[![](Table/386994-801233.jpg)]
-
-Nicole Kim  
-> The original chart is tough to see how the popularity compares across the ideological groups. To improve this chart, I use the rows differently, so that instead of arranging by rank, I give each outlet it’s own row. I also use different colors to make each row can relative, showing how many outlets there are in total as well.---
 background-image: url(Table/386994-801233.jpg)
 
 ---
-Nicole Kim> The original chart is tough to see how the popularity compares across the ideological groups. To improve this chart, I use the rows differently, so that instead of arranging by rank, I give each outlet it’s own row. I also use different colors to make each row can relative, showing how many outlets there are in total as well.  ---
 background-image: url(Table/238574-801233.jpg)
 
 ---
