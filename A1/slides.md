@@ -2,6 +2,8 @@ class: center, middle
 
 # Assignment 1
 
+
+
 ---
 class: left, top
 background-image: url(http://www.journalism.org/files/2014/10/PJ_14.10.21_mediaPolarization-00.png)  
@@ -88,3 +90,6 @@ background-image: url(StackedBar/c-244397-801233.png)
 
 ---
 background-image: url(StackedBar/d-234337-801233.png)
+
+---
+<embed src="../text/226137-801233 - Gerda Mostonaite.txt">

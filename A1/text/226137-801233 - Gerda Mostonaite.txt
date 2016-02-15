@@ -1,0 +1,7 @@
+﻿Gerda Mostonaite
+
+
+The original Pew design was difficult to read as it did not show much distinction between the different outlets. The row dividers make the data appear to be categorized by the top 5 outlets. The lack of column separations seems like each row’s maroon percentages are added to obtain the percentage in the ‘total’ column. The original design mainly highlights the variety of outlets, though it still visually points out the large number of consistently conservative and mostly conservative politically-aligned respondents that watch Fox as their main source for news. 
+
+
+My redesign attempts to more clearly show the popularity of each news outlet with each political ideology. The colours used are on a spectrum from blue (consistently liberal) to red (consistently conservative) for the viewer to more quickly associate the data to the political ideology based on their previous knowledge of colour associations in politics. The total amounts are more separated, but also visually encompassing each smaller political ideology. This bar graph allows the viewer to more immediately see the popularity of Fox for conservatives as well as the overall popularity of each news outlet across all political groups.
