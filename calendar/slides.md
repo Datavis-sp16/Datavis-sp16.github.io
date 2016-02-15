@@ -71,7 +71,7 @@ name: w4
 class: left, top
 
 **Week 4**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)  
-[Assignent #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due 2/16)
+[Assignent #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due Thursday, 2/18)
 
 **Self Paced Online Tutorials.** Go to [this Lynda.com playlist](http://www.lynda.com/SharedPlaylist/d3093c04bf8d48149ccd2aded2197389?org=uga.edu) (login with UGA ID required). If you have trouble logging in, go to the [UGA Portal for Lynda.com](https://www.google.com/url?q=https%3A%2F%2Fcas.uga.edu%2Fcas%2Flogin%3Fservice%3Dhttps%3A%2F%2Fwww.lynda.com%2Fportal%2Fuga&sa=D&sntz=1&usg=AFrqEzciQx1UjuJ4HxgaYL-QqtNRLcRiDg), then return to the playlist.  From the playlist, do the following:
 
@@ -96,7 +96,7 @@ name: w5
 class: left, top
 
 **Week 5**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)  
-[Assignent #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due 2/16)
+[Assignent #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due Thursday, 2/18)
 
 .left-column-50[
 ###Tu 2/9: Multidimensional Data  
