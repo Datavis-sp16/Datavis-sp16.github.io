@@ -18,6 +18,7 @@ class: left, top
 background-image: url(Table/386994-801233.jpg)
 
 ---
+Nicole Kim> The original chart is tough to see how the popularity compares across the ideological groups. To improve this chart, I use the rows differently, so that instead of arranging by rank, I give each outlet it’s own row. I also use different colors to make each row can relative, showing how many outlets there are in total as well. ---
 background-image: url(Table/238574-801233.jpg)
 
 ---
