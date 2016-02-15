@@ -92,7 +92,7 @@ background-image: url(StackedBar/b-244303-801233.jpg)
 background-image: url(StackedBar/c-244397-801233.png)
 
 ---
-<embed width="800" height="600" src="244397-801233 - Lansing Ca.md">
+<embed width="800" height="600" src="text/244397-801233 - Lansing Cai.md">
 
 ---
 background-image: url(StackedBar/d-234337-801233.png)
