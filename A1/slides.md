@@ -46,9 +46,6 @@ background-image: url(Multiples/b-236472-801233.png)
 background-image: url(Multiples/c-316029-801233.jpg)
 
 ---
-<embed width="800" height="600" src="text/226137-801233 - Gerda Mostonaite.txt">
-
----
 background-image: url(Multiples/d-237709-801233.png)
 
 ---
@@ -72,6 +69,9 @@ background-image: url(ClusteredBar/b-226378-801233.png)
 
 ---
 background-image: url(ClusteredBar/c-226137-801233.png)
+
+---
+<embed width="800" height="600" src="text/226137-801233 - Gerda Mostonaite.txt">
 
 ---
 background-image: url(ClusteredBar/d-230371-801233.png)
