@@ -36,10 +36,17 @@ Marie Porterfield, painted ceramic tile from Fullbright project in Turkey, 2011-
 Marie Porterfield, Marie Porterfield, studio view, Kutahya, Turkey, 2011-2012
 
 ---
-https://honors.uga.edu/news/s_p/fulbright/porterfield.html
+[https://honors.uga.edu/news/s_p/fulbright/porterfield.html](https://honors.uga.edu/news/s_p/fulbright/porterfield.html)
+
+<iframe width="1000" height="600" frameborder="0" src="https://honors.uga.edu/news/s_p/fulbright/porterfield.html"><iframe>
 
 ---
-https://kutahyailluminated.wordpress.com
+[]()
+<iframe width="1000" height="600" frameborder="0" src=""><iframe>
+
+---
+[https://kutahyailluminated.wordpress.com](https://kutahyailluminated.wordpress.com)
+<iframe width="1000" height="600" frameborder="0" src="https://kutahyailluminated.wordpress.com"><iframe>
 
 ---
 # Individual Artist Grants with direct application process:## Grants from National Private Foundations:
@@ -51,7 +58,8 @@ Pollack-Krasner application:
 Artists can apply to The Pollock-Krasner Foundation by submitting an online application. Requirements for consideration are the application form, a cover letter, a current resume including an exhibition record, and ten digital images of current work with a corresponding identification list.  
 
 ---
-http://www.pkf.org/grant.html
+[http://www.pkf.org/grant.html](http://www.pkf.org/grant.html)
+<iframe width="1000" height="600" frameborder="0" src="http://www.pkf.org/grant.html"><iframe>
 
 ---
 # Regional and City-wide Private Foundations:
@@ -65,15 +73,19 @@ http://www.pkf.org/grant.html
 - Flux Projects - $100-30,000
 
 ---
+[]()
+<iframe width="1000" height="600" frameborder="0" src=""><iframe>
+
 http://thehudgens.org/the-hudgens-prize/hudgens-prize-finalists/
 
 ---
-http://gyunhur.com/artwork/2258938_Spring_Hiatus.html
+[http://gyunhur.com/artwork/2258938_Spring_Hiatus.html](http://gyunhur.com/artwork/2258938_Spring_Hiatus.html)
+<iframe width="1000" height="600" frameborder="0" src="http://gyunhur.com/artwork/2258938_Spring_Hiatus.html"><iframe>
 
 ---
 # 32 States Give Grants to Individual Artists
 
-Alabama - $5000, Arizona,  Colorado - $2500, Connecticut,  District of Columbia, Delaware, Florida, Idaho, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland - $1,000 & $3,000 & $5,000, Massachusetts - $5,000; Minnesota -$2,000 to $10,000, Mississippi - $2,000 to $10,000, Montana, Nebraska, Nevada- $5,000, New Jersey, New York - $7,000, North Dakota, $2,500, Ohio, Pennsylvania - $10,000, Rhode Island, South Carolina, South Dakota, Texas  (Houston) -$2,000 & $5000, Wyoming,  Wisconsin - $8,000, West Virginia – $3,500, Virginia – $5,000
+Alabama: \$5000, Arizona,  Colorado: \$2500, Connecticut, D.C., Delaware, Florida, Idaho, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland: $1,000 & $3,000 & $5,000, Massachusetts - $5,000; Minnesota -$2,000 to $10,000, Mississippi - $2,000 to $10,000, Montana, Nebraska, Nevada- $5,000, New Jersey, New York - $7,000, North Dakota, $2,500, Ohio, Pennsylvania - $10,000, Rhode Island, South Carolina, South Dakota, Texas  (Houston) -$2,000 & $5000, Wyoming,  Wisconsin - $8,000, West Virginia – $3,500, Virginia – $5,000
 
 ---
 # Maryland Arts Council Application Form
@@ -98,7 +110,10 @@ Alabama - $5000, Arizona,  Colorado - $2500, Connecticut,  District of Columbia,
 - Lots of disagreement – a different panel would result in different finalists
 
 ---
-http://kayhwang.com/sclp_1.html
+[http://kayhwang.com/sclp_1.html](http://kayhwang.com/sclp_1.html) 
+
+<iframe width="1000" height="600" frameborder="0" src=""><iframe>
+
 ---
 # Institutional Grants and Awards:
 
@@ -109,4 +124,5 @@ http://kayhwang.com/sclp_1.html
 - CURO Undergraduate Research Assistantships, $1,000
 
 ---
-http://curo.uga.edu/CURO_Research_Assistantship
+[http://curo.uga.edu/CURO_Research_Assistantship](http://curo.uga.edu/CURO_Research_Assistantship)
+<iframe width="1000" height="600" frameborder="0" src="http://curo.uga.edu/CURO_Research_Assistantship"><iframe>
