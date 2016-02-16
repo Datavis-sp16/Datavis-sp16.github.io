@@ -196,6 +196,34 @@ Signal Detection
 Magnitude Estimation  
 Pre-Attentive Processing  
 Multiple Visual Encodings  
+<mark>Gestalt</mark>  
+Change Blindness  
+]
+
+.right-column-fat[
+
+### Principles  
+
+.width4[![](http://vignette3.wikia.nocookie.net/optical-illusions/images/5/5b/Gestalt_Dalmatian.jpg/revision/latest?cb=20140417124054)]
+.width4[![](https://upload.wikimedia.org/wikipedia/commons/6/63/Reification.jpg)]
+.width4[![](https://upload.wikimedia.org/wikipedia/commons/4/46/Multistability.svg)]
+.width4[![](https://upload.wikimedia.org/wikipedia/commons/9/9d/Invariance.jpg)]
+
+- Emergence: Recognition occurs all at once, holistically.  (We don't build up a percept or mental image of an object consciously.)
+- Reification: The percept (mental image) can contains more information than the stimuli on which it is based.  (We fill in missing pieces of a whole.)
+- Multistability: Ambiguous perceptual experiences pop back and forth between interpretations. (We don't know why.)
+- Invariance: Simple geometrical objects are recognized independent of rotation, translation, scale and several other variations. 
+
+]
+
+---
+.left-column[
+### Graphical Perception
+
+Signal Detection  
+Magnitude Estimation  
+Pre-Attentive Processing  
+Multiple Visual Encodings  
 Gestalt  
 <mark>Change Blindness</mark>  
 ]
