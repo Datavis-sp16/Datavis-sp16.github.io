@@ -231,6 +231,7 @@ Change Blindness
 .width4[![](http://peace.saumag.edu/faculty/kardas/Images/Web%20Images/Lecture/continuity.GIF)]
 .width4[![](http://z.about.com/d/psychology/1/5/B/1/Pragnanz.jpg)]
 
+]
 
 ---
 .left-column[
