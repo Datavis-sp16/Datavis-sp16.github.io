@@ -29,12 +29,20 @@ For an application or additional information, please contact:
 <iframe width="1000" height="600" frameborder="0" src="http://us.fulbrightonline.org/about/fulbright-us-student-program"><iframe>
 
 ---
-![](porterfield.png)
+class: center, middle
+
+.width2[
+![](porterfield.png)  
 Marie Porterfield, painted ceramic tile from Fullbright project in Turkey, 2011-2012
+]
 
 ---
-![](porterfield-studio.png)
+class: center, middle
+
+.width2[
+![](porterfield-studio.png)  
 Marie Porterfield, Marie Porterfield, studio view, Kutahya, Turkey, 2011-2012
+]
 
 ---
 [https://honors.uga.edu/news/s_p/fulbright/porterfield.html](https://honors.uga.edu/news/s_p/fulbright/porterfield.html)
