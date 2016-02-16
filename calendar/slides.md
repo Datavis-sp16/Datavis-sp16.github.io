@@ -96,7 +96,7 @@ name: w5
 class: left, top
 
 **Week 5**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)  
-[Assignent #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due Thursday, 2/18)
+[Assigmnent #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due Thursday, 2/18)
 
 .left-column-50[
 ###Tu 2/9: Multidimensional Data  
@@ -109,4 +109,22 @@ class: left, top
 - Tufte: [*Envisioning Information.*](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16335283/View?ou=1011508)  
 	- Chapter 3: “Layering and Separation”
 - OPTIONAL: Healy: *[Perception in visualization.](http://www.csc.ncsu.edu/faculty/healey/PP/index.html)*  
+]
+
+---
+name: w6
+class: left, top
+
+**Week 6**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)  
+[Assignment #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due Thursday, 2/18)
+
+.left-column-50[
+###Tu 2/9: Perception (continued)  
+[Slides](../lectures/graphicperception2)  
+]
+.right-column-50[
+###Th 2/11: Assignment 2 Critique  
+
+Be sure you have handed in your assignment on time in order for your assignment to be critiqued.
+
 ]
