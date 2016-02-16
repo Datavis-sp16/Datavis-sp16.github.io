@@ -90,25 +90,6 @@ Change Blindness
 
 Signal Detection  
 Magnitude Estimation  
-<mark>Pre-Attentive Processing</mark>  
-Multiple Visual Encodings  
-Gestalt  
-Change Blindness  
-]
-
-.right-column-fat[
-
-**Unique single features** are detected preattentively more easily than combinations of features.
-
-![](http://www.infovis-wiki.net/images/6/6a/Preattentive_4.JPG)
-]
-
----
-.left-column[
-### Graphical Perception
-
-Signal Detection  
-Magnitude Estimation  
 Pre-Attentive Processing  
 <mark>Multiple Visual Encodings</mark>  
 Gestalt  
