@@ -50,10 +50,6 @@ Marie Porterfield, Marie Porterfield, studio view, Kutahya, Turkey, 2011-2012
 <iframe width="1000" height="600" frameborder="0" src="https://honors.uga.edu/news/s_p/fulbright/porterfield.html"><iframe>
 
 ---
-[]()
-<iframe width="1000" height="600" frameborder="0" src=""><iframe>
-
----
 [https://kutahyailluminated.wordpress.com](https://kutahyailluminated.wordpress.com)
 <iframe width="1000" height="600" frameborder="0" src="https://kutahyailluminated.wordpress.com"><iframe>
 
