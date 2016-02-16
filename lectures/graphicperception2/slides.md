@@ -225,7 +225,7 @@ Change Blindness
 
 .width4[![](https://upload.wikimedia.org/wikipedia/commons/2/22/Gestalt_proximity.svg)]
 .width4[![](https://upload.wikimedia.org/wikipedia/commons/8/8f/Gestalt_similarity.svg)]
-.width4[![](https://upload.wikimedia.org/wikipedia/commons/2/22/Gestalt_closure.svg)]
+.width4[![](https://upload.wikimedia.org/wikipedia/commons/3/30/Gestalt_closure.svg)]
 .width4[![](https://upload.wikimedia.org/wikipedia/en/1/1c/Law_of_Symmetry.jpg)]  
 
 .width4[![](http://peace.saumag.edu/faculty/kardas/Images/Web%20Images/Lecture/continuity.GIF)]
