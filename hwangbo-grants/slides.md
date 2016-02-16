@@ -125,7 +125,7 @@ Artists can apply to The Pollock-Krasner Foundation by submitting an online appl
 ---
 [http://kayhwang.com/sclp_1.html](http://kayhwang.com/sclp_1.html) 
 
-<iframe width="1000" height="600" frameborder="0" src=""><iframe>
+<iframe width="1000" height="600" frameborder="0" src="http://kayhwang.com/sclp_1.html"><iframe>
 
 ---
 # Institutional Grants and Awards:
