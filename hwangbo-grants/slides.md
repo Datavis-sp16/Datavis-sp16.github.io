@@ -17,15 +17,16 @@ State Arts Councils, Institutional Grants
 - The Fulbright U.S. Student Program offers fellowships for U.S. graduating seniors, recent graduates, graduate students, young professionals and artists to research, study, or teach English abroad for one academic year.
 
 ---
-# UGA Fullbright Assistance
+# UGA Fullbright Assistance
 Fulbright student grants are designed to give recent B.S./B.A. graduates, masters and doctoral candidates, and young professionals and artists opportunities for personal development and international experience. Grantees plan their own programs. Projects may include university coursework, independent library or field research, classes in a music conservatory or art school, special projects in the social or life sciences, or a combination of these areas. A limited number of travel grants are available to selected countries as well as grants for teaching English in secondary schools.
 
 For an application or additional information, please contact:
 **Maria A. De Rocher, derocher@uga.edu**
 
 ---
+[http://us.fulbrightonline.org/about/fulbright-us-student-program](http://us.fulbrightonline.org/about/fulbright-us-student-program)
 
-http://us.fulbrightonline.org/about/fulbright-us-student-program
+<iframe width="1000" height="600" frameborder="0" src="http://us.fulbrightonline.org/about/fulbright-us-student-program"><iframe>
 
 ---
 ![](porterfield.png)
@@ -49,7 +50,8 @@ Marie Porterfield, Marie Porterfield, studio view, Kutahya, Turkey, 2011-2012
 <iframe width="1000" height="600" frameborder="0" src="https://kutahyailluminated.wordpress.com"><iframe>
 
 ---
-# Individual Artist Grants with direct application process:## Grants from National Private Foundations:
+# Individual Artist Grants with direct application process:
+## Grants from National Private Foundations:
 - Creative Capital Foundation, $10,000 and up
 - Pollack-Krasner Foundation, $10,000 and up
 
