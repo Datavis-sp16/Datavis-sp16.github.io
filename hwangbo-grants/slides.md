@@ -85,7 +85,20 @@ Artists can apply to The Pollock-Krasner Foundation by submitting an online appl
 ---
 # 32 States Give Grants to Individual Artists
 
-Alabama: \$5000, Arizona,  Colorado: \$2500, Connecticut, D.C., Delaware, Florida, Idaho, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland: $1,000 & $3,000 & $5,000, Massachusetts - $5,000; Minnesota -$2,000 to $10,000, Mississippi - $2,000 to $10,000, Montana, Nebraska, Nevada- $5,000, New Jersey, New York - $7,000, North Dakota, $2,500, Ohio, Pennsylvania - $10,000, Rhode Island, South Carolina, South Dakota, Texas  (Houston) -$2,000 & $5000, Wyoming,  Wisconsin - $8,000, West Virginia – $3,500, Virginia – $5,000
+- Alabama: $5000  
+- Arizona,  Colorado: $2500  
+- Connecticut, D.C., Delaware, Florida, Idaho, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland: $1,000 & $3,000 & $5,000,  
+- Massachusetts: $5,000  
+- Minnesota: $2,000 to $10,000
+- Mississippi $2,000 to $10,000  
+- Montana, Nebraska, Nevada: $5,000  
+- New Jersey, New York: $7,000  
+- North Dakota: $2,500  
+- Ohio, Pennsylvania: $10,000  
+- Rhode Island, South Carolina, South Dakota, Texas (Houston): $2,000 & $5000  
+- Wyoming, Wisconsin: $8,000  
+- West Virginia: $3,500  
+- Virginia: $5,000
 
 ---
 # Maryland Arts Council Application Form
