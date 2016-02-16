@@ -75,10 +75,8 @@ Artists can apply to The Pollock-Krasner Foundation by submitting an online appl
 - Flux Projects - $100-30,000
 
 ---
-[]()
-<iframe width="1000" height="600" frameborder="0" src=""><iframe>
-
-http://thehudgens.org/the-hudgens-prize/hudgens-prize-finalists/
+[http://thehudgens.org/the-hudgens-prize/hudgens-prize-finalists/](http://thehudgens.org/the-hudgens-prize/hudgens-prize-finalists/)
+<iframe width="1000" height="600" frameborder="0" src="http://thehudgens.org/the-hudgens-prize/hudgens-prize-finalists/"><iframe>
 
 ---
 [http://gyunhur.com/artwork/2258938_Spring_Hiatus.html](http://gyunhur.com/artwork/2258938_Spring_Hiatus.html)
