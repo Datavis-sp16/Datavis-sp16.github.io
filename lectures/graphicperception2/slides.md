@@ -185,17 +185,52 @@ Change Blindness
 
 ### Principles  
 
+- **Emergence:** Recognition occurs all at once, holistically.  (We don't build up a percept or mental image of an object consciously.)  
+- **Reification:** The percept (mental image) can contains more information than the stimuli on which it is based.  (We fill in missing pieces of a whole.)
+- **Multistability:** Ambiguous perceptual experiences pop back and forth between interpretations. (We don't know why.)
+- **Invariance:** Simple geometrical objects are recognized independent of rotation, translation, scale and several other variations. 
+
 .width4[![](http://vignette3.wikia.nocookie.net/optical-illusions/images/5/5b/Gestalt_Dalmatian.jpg/revision/latest?cb=20140417124054)]
 .width4[![](https://upload.wikimedia.org/wikipedia/commons/6/63/Reification.jpg)]
 .width4[![](https://upload.wikimedia.org/wikipedia/commons/4/46/Multistability.svg)]
 .width4[![](https://upload.wikimedia.org/wikipedia/commons/9/9d/Invariance.jpg)]
-
-- Emergence: Recognition occurs all at once, holistically.  (We don't build up a percept or mental image of an object consciously.)
-- Reification: The percept (mental image) can contains more information than the stimuli on which it is based.  (We fill in missing pieces of a whole.)
-- Multistability: Ambiguous perceptual experiences pop back and forth between interpretations. (We don't know why.)
-- Invariance: Simple geometrical objects are recognized independent of rotation, translation, scale and several other variations. 
-
 ]
+
+---
+.left-column[
+### Graphical Perception
+
+Signal Detection  
+Magnitude Estimation  
+Pre-Attentive Processing  
+Multiple Visual Encodings  
+<mark>Gestalt</mark>  
+Change Blindness  
+]
+
+.right-column-fat[
+
+### Grouping  
+
+- Proximity  
+- Similarity  
+- Closure  
+- Symmetry  
+- Common Fate  
+- Continuity  
+- "Good Gestalt" / Prägnaz ("pithiness")
+	- Simplest forms, rhythm, pattern, etc. leads to grouping
+- Past Experience
+	- a z b c y x
+
+.width4[![](https://upload.wikimedia.org/wikipedia/commons/2/22/Gestalt_proximity.svg)]
+.width4[![](https://upload.wikimedia.org/wikipedia/commons/8/8f/Gestalt_similarity.svg)]
+.width4[![](https://upload.wikimedia.org/wikipedia/commons/2/22/Gestalt_closure.svg)]
+.width4[![](https://upload.wikimedia.org/wikipedia/en/1/1c/Law_of_Symmetry.jpg)]  
+
+.width4[![](http://peace.saumag.edu/faculty/kardas/Images/Web%20Images/Lecture/continuity.GIF)]
+.width4[![](http://z.about.com/d/psychology/1/5/B/1/Pragnanz.jpg)]
+
 
 ---
 .left-column[
