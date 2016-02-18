@@ -6,6 +6,8 @@ Data: [here](https://public.tableau.com/s/sites/default/files/media/EMSI_Milleni
 
 [Process Notebook](a2-Cai.pdf)
 
+.width4[![](a2-Cai.jpg)]
+
 ---
 
 background-image: url(a2-Cai.jpg)
@@ -15,12 +17,17 @@ background-image: url(a2-Cai.jpg)
 This graph shows a comparison of the most popular occupations for Baby Boomers and Millennials from 2007-2013, and which occupations increased in popularity and decreased in popularity for each generation. This graph also shows the fields that most people are employed in, whether or not they belong to a specific generation. The top 3 occupations that showed an increase in growth in Baby Boomers were Healthcare Support (26%), Healthcare Practitioners and Technical (22%), and tied between Computer & Mathematical (20%) and Food Prep & Serving Related (20%). The top 3 occupations that showed an increase in growth in Millennials were Food Prep (18%), Healthcare Support (16%), and Personal Care & Service (14%). The common trend from 2007-2013 between the two generations is an increase in Healthcare jobs.
 ---
 ### Ella Ferguson  Assignment 2  Data: [Raw Movie Dataset][Process Notebook](a2-Ferguson.pdf)
+
+.width4[![](a2-Ferguson.jpg)]
+
 ---
 background-image: url(a2-Ferguson.jpg)
 ---
 *IMDB ratings vs Box Office Totals*This graph shows the correlation between box office totals and IMDB ratings. Usually, the higher the box office total, the higher the rating on IMDB is.  It does show that a few movies had lower ratings even though they had large box office returns.
 ---
 ### Betty HuynhAssignment 2Data:[here](https://public.tableau.com/s/sites/default/files/media/HollywoodsMostProfitableStories.csv)  [Process Notebook](a2-Huynh.pdf)
+
+.width4[![](a2-Huynh.jpg)]
 ---
 background-image: url(a2-Huynh.jpg)
 ---
@@ -34,6 +41,7 @@ Data: [here](https://public.tableau.com/s/resources?qt-overview_resources=1https
 or name of built-in dataset
 
 [Process Notebook](a2-Mostonaite.pdf)
+.width4[![](a2-Mostonaite.jpg)]
 ---
 background-image: url(a2-Mostonaite.jpg)
 ---
@@ -45,12 +53,14 @@ Findings: While it seems the winners generally have the better quality songs, th
 However, the major finding was that the data was incorrect. Many countries were listed multiple times per year and received different scores. It also listed multiple winners for several different years.
 ---
 Megan RobertsonAssignment 2Data: Cocktails (correlations) [here](http://app.raw.densitydesign.org)[Process Notebook](a2-Robertson.pdf)
+.width4[![](a2-Robertson.png)]
 ---
 background-image: url(a2-Robertson.png)
 ---
 *Popular cocktails broken down by the proportion of their ingredients.*A majority of the most popular cocktails use only three ingredients. No matter how inexperienced with mixed drinks one might be, the simplicity of only three ingredients for most cocktails (with the glaring exception of the Long Island Iced Tea) presents beer aficionados with a wonderfully simple task to undertake. In fact, only two of the twenty cocktails in the data used more than three ingredients. Now the only question is... shaken or stirred?
 ---
 ### Teressa Ross Assignment 2Data: Titanic [here](http://www.tableau.com/public/community/sample-data-sets)[Process Notebook](a2-Ross.pdf)
+.width4[![](a2-Ross2-06.png)].width4[![](a2-Ross-08.png)]
 ---
 .width2[![](a2-Ross2-06.png)]
 .width2[![](a2-Ross-08.png)]
@@ -70,6 +80,7 @@ Assignment 2
 Data: [here](https://www.quandl.com/data/NUFORC/SIGHTINGS-UFO-Sightings)  
 
 [Process Notebook](a2-eddy.pdf)
+.width4[![](a2-eddy.jpg)]
 ---
 background-image: url(a2-eddy.jpg)
 ---
@@ -78,12 +89,14 @@ background-image: url(a2-eddy.jpg)
 The visualization is showing 3 years of data, plotting it month by month. The X axis shows the frequency of reports of UFO sightings in the United States, and the  Y axis shows the dates. The yellow colored bars show the times with the most fireworks across the United States.
 ---
 ### Chelsea JayAssignment 2Data: movies [here](http://vega.github.io/voyager/)[Process Notebook](a2-jay.pdf)
+.width4[![](a2-jay-01.png)]
 ---
 background-image: url(a2-jay-01.png)
 ---
 *DVD sales decrease as MPAA rating increase.*The inital question that was raised when reviewing data was if DVD sales were either impacted or not by DVD MPAA rating. Through research and inserting different data, I narrowed it down to these data sets. When looking at this visual, one can deduce that as US movie genre’s increase in MPAA ratings, US DVD sales decrease. I wonder if Directors should start rethinking things when approaching the big screen.
 ---
 ### Nicole KimAssignment 2Data: [Tableau](https://public.tableau.com/s/resources?qt-overview_resources=1)Tool: [Voyager and Illustrator][Process Notebook](a2-kim.pdf)
+.width4[![](a2-kim.jpg)]
 ---
 background-image: url(a2-kim.jpg)
 ---
@@ -98,6 +111,7 @@ Assignment 2
 Data: [here](https://public.tableau.com/s/resources?qt-overview_resources=1)  
 
 [Process Notebook](a2-lukens.pdf)
+.width4[![](a2-lukens.jpg)]
 ---
 background-image: url(a2-lukens.jpg)
 ---
@@ -112,6 +126,7 @@ Assignment 2
 Data: [here](http://vincentarelbundock.github.io/Rdatasets/csv/datasets/warpbreaks.csv)  
 
 [Process Notebook](a2-martin.pdf)
+.width4[![](a2-martin.jpg)]
 ---
 background-image: url(a2-martin.jpg)
 ---
@@ -121,6 +136,7 @@ This graphic shows the relationship between wool type and tension to the amount 
 ---
 ### Ariel LockshawAssignment #2Data: [here](public.surfrider.org/files/surfrider_report_v13.pdf)
 [Proess Notebook](a2-Lockshaw.pdf)
+.width4[![](a2-Lockshaw.png)]
 ---
 background-image: url(a2-Lockshaw.png)
 ---
