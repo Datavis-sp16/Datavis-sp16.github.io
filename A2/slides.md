@@ -139,4 +139,34 @@ This graphic shows the relationship between wool type and tension to the amount 
 ---
 background-image: url(a2-Lockshaw.png)
 ---
-*2009 California Surf Break Demographic Comparison*The surfers that responded to the surveys earn in the middle to middle-high income range for California. In specific surf breaks, there was more variation in the demographic and economic characterstics. Median income and age are higher at San Onofre and Bolsa Chica with a median individual income of $100,00. On the other side of this scale is 54th & 56th streets in Newport Beach with a median age of 27 and median income of $50,000, the lowest on the sample. 
+*2009 California Surf Break Demographic Comparison*The surfers that responded to the surveys earn in the middle to middle-high income range for California. In specific surf breaks, there was more variation in the demographic and economic characterstics. Median income and age are higher at San Onofre and Bolsa Chica with a median individual income of $100,00. On the other side of this scale is 54th & 56th streets in Newport Beach with a median age of 27 and median income of $50,000, the lowest on the sample.
+---
+### Juweek Adolphe
+
+Assignment 2
+
+Data: [pokemon.csv](pokemon.csv) (link broken)
+
+[Process Notebook](a2-adolphe.pdf)
+
+.width4[![](a2-adolphe.jpg)]
+---
+.background-imag: url(a2-adolphe.jpg)
+---
+*Range of base stats for each pokemon type*  
+
+After looking at the data, it is shown clearly that psychic type seem to be the overall strongest, for the end of their range is the highest out of all the types. Ice types seem to have the lowest standard deviation for its line is quite short. This chart shows that the strongest pokemon in the game is a psychic type pokemon, while the absolute weakest pokemon are both poison and bug.
+---
+### Hanna Stephens
+
+Assignment 2
+
+Data: [missing]()
+
+[Process Notebook](a2-Stephens.pdf)
+
+.width4[![](a2-Stephens.png)]
+---
+.background-imag: url(a2-Stephens.png)
+---
+*Is there is a relationship between a movie’s Rotten Tomatoes rating and the film’s overall profitability?*Rotten Tomatoes is a trusted website devoted to film reviews where people can access publications from a variety of film critics in the U.S. The website has become trusted measurement of quality for movies and TV. In my visualization, I will be exploring if there is a relationship between a movie’s Rotten Tomatoes Tomatometer rating and the film’s overall profitability. 
