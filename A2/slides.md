@@ -38,7 +38,6 @@ background-image: url(a2-Huynh.jpg)
 Assignment 2
 
 Data: [here](https://public.tableau.com/s/resources?qt-overview_resources=1https://public.tableau.com/s/resources?qt-overview_resources=1)  
-or name of built-in dataset
 
 [Process Notebook](a2-Mostonaite.pdf)
 .width4[![](a2-Mostonaite.jpg)]
@@ -101,7 +100,7 @@ background-image: url(a2-jay-01.png)
 background-image: url(a2-kim.jpg)
 ---
 *Ownership by household of dogs and cats*The dataset is about Percentage of Households with Pets that broken down state via American Veterinary Medical Association. - Percentage of Cats VS Percentage of Dogs- Percentage of Dog and Cat Owners VS Percentage of Pet Households in Different StatesResults are drawn from a survey of more than 60,000 households in the United States.
----
+
 By the graph, six-out-of-ten pet owners, or 63.2%, considered their pets to be family members. One thing that they track are rates of cat and dog ownership among different states. Top ten pet-owning states are Vermont (70.8%), New Mexico (67.6%), South Dakota (65.6%), Oregon (63.6%), Maine (62.9%), Washington (62.7%), Arkansas (62.4%), West Virginia (62.1%), Idaho (62%) and Wyoming (61.8%) in order. The state of Arkansas has the highest percentage of households that own a dog (47.9%) and Vermont the highest that own a cat (49.5%). In contrast, the state of Illinois has the lowest percentage of households that own a dog (32.4%) and California the lowest that own a cat (28.3%). New York and Delaware are evenly split: in New York, 29% of households own cats, and about the same proportion own dogs, and in Delaware, cat owning and dog owning households are tied at about 33.7% each. The South is much more favorable to dogs than to cats. In Arkansas, 48% of households own dogs, but just 31% own cats. One final observation is that neither cats nor dogs are overly common in Washington, DC. Only 13% of households in the capital own dogs, and just 12% own cats.
 ---
 ### Leah Lukens
