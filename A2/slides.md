@@ -16,7 +16,7 @@ This graph shows a comparison of the most popular occupations for Baby Boomers a
 ---
 ### Ella Ferguson  Assignment 2  Data: [Raw Movie Dataset][Process Notebook](a2-Ferguson.pdf)
 ---
-background-image: url (a2-Ferguson.jpg)
+background-image: url(a2-Ferguson.jpg)
 ---
 *IMDB ratings vs Box Office Totals*This graph shows the correlation between box office totals and IMDB ratings. Usually, the higher the box office total, the higher the rating on IMDB is.  It does show that a few movies had lower ratings even though they had large box office returns.
 ---
