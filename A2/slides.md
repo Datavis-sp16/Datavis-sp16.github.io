@@ -151,7 +151,7 @@ Data: [pokemon.csv](pokemon.csv) (link broken)
 
 .width4[![](a2-adolphe.jpg)]
 ---
-.background-imag: url(a2-adolphe.jpg)
+.background-image: url(a2-adolphe.jpg)
 ---
 *Range of base stats for each pokemon type*  
 
@@ -167,6 +167,6 @@ Data: [missing]()
 
 .width4[![](a2-Stephens.png)]
 ---
-.background-imag: url(a2-Stephens.png)
+.background-image: url(a2-Stephens.png)
 ---
 *Is there is a relationship between a movie’s Rotten Tomatoes rating and the film’s overall profitability?*Rotten Tomatoes is a trusted website devoted to film reviews where people can access publications from a variety of film critics in the U.S. The website has become trusted measurement of quality for movies and TV. In my visualization, I will be exploring if there is a relationship between a movie’s Rotten Tomatoes Tomatometer rating and the film’s overall profitability. 
