@@ -46,7 +46,7 @@ background-image: url(a2-Mostonaite.jpg)
 ---
 .width2[![](a2-Mostonaite.jpg)]
 .width2[
-This plot shows the relationship between where countries placed in Eurovision compared to the "Estimated Song Quality" score. The size of the bubble indicates how many points were received and the colour shows the year.
+*This plot shows the relationship between where countries placed in Eurovision compared to the "Estimated Song Quality" score. The size of the bubble indicates how many points were received and the colour shows the year.*
 ---
 Final Question: Do the better quality songs always place higher? 
 Findings: While it seems the winners generally have the better quality songs, there are some with higher quality scores that placed lower in the competition.  
