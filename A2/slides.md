@@ -52,7 +52,8 @@ background-image: url(a2-Robertson.png)
 ---
 ### Teressa Ross Assignment 2Data: Titanic [here](http://www.tableau.com/public/community/sample-data-sets)[Process Notebook](a2-Ross.pdf)
 ---
-background-image: url(a2-Ross.jpg)
+.width2[![](a2-Ross2-06.png)]
+.width2[![](a2-Ross-08.png)]
 ---
 *The Titanic the night of its sinking held a total of 2,223 passengers and of those 1,517 died. This data represents 1309 of those passengers and the survivors within each class.*
 ---
