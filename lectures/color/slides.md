@@ -39,6 +39,7 @@ background-image: url(retina.jpg)
 
 <mark>Light &rarr; Cone cell response</mark> &rarr; Openent processing &rarr; Perception
 
+<br><br>
 .width1[![](coneresponse.png)]
 
 [Maureen Stone. *A Field Huide to Digital Color.* Peters, 2003.](http://www.amazon.com/gp/product/1568811616/qid=1137018573/sr=2-1/ref=pd_bbs_b_2_1/102-3650979-5932915?s=books&v=glance&n=283155)
