@@ -35,6 +35,15 @@ background-image: url(retina.jpg)
 
 .width2[![](https://upload.wikimedia.org/wikipedia/commons/0/04/Cone-fundamentals-with-srgb-spectrum.svg)]
 
+3 kinds of cone cells:  
+
+- "Red" = **Long** wavelengths  
+	- most sensitive to yellow (565 nm), also sensitive to red and green
+- "Green" = **Mid** wavelengths  
+	- very close to "red" cones, but most sensitive to green (540 nm), less to yellow and red)  
+- "Blue" = **Short** wavelength   
+	- most sensitive to blue (445 nm)
+
 ---
 
 <mark>Light &rarr; Cone cell response</mark> &rarr; Openent processing &rarr; Perception
@@ -56,7 +65,9 @@ Two different light spectra can produce the same cone response, and therefore pr
 
 Light &rarr; <mark>Cone cell response &rarr; Openent processing</mark> &rarr; Perception
 
+.width2![](oponent.svg)]
 
+Responses of cone cells are combined by the ganglial cells to produce these three signals: Lightness, Red-Green (or magenta-green), and Yellow-Blue.  These are the signals sent to the brain.
 
 ---
 
