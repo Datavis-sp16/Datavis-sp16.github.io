@@ -34,9 +34,9 @@ background-image: url(retina.jpg)
 
 ---
 
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/04/Cone-fundamentals-with-srgb-spectrum.svg)
-
 <mark>Light &rarr; Cone cell response</mark> &rarr; Openent processing &rarr; Perception
+
+.width1[![](https://upload.wikimedia.org/wikipedia/commons/0/04/Cone-fundamentals-with-srgb-spectrum.svg)]
 
 ---
 
