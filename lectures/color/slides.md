@@ -65,7 +65,7 @@ Two different light spectra can produce the same cone response, and therefore pr
 
 Light &rarr; <mark>Cone cell response &rarr; Openent processing</mark> &rarr; Perception
 
-.width2![](oponent.svg)]
+.width2[![](oponent.svg)]
 
 Responses of cone cells are combined by the ganglial cells to produce these three signals: Lightness, Red-Green (or magenta-green), and Yellow-Blue.  These are the signals sent to the brain.
 
