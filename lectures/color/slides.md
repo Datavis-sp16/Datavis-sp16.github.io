@@ -67,7 +67,13 @@ Light &rarr; <mark>Cone cell response &rarr; Openent processing</mark> &rarr; Pe
 
 .width3[![](oponent.svg)]
 
-Responses of cone cells are combined by the ganglial cells to produce these three signals: Lightness, Red-Green (or magenta-green), and Yellow-Blue.  These are the signals sent to the brain.
+"Oponent Processing Theory" describes how the ganglial cells process the signals from the cone cells.  Con cell responses are combined by the ganglial cells to produce these three signals:  
+
+- Lightness  
+- "Red-Green" (magenta vs. green)  
+- Yellow-Blue.
+
+The Ganglia send these three signals to the brain.
 
 ---
 
