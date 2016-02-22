@@ -27,9 +27,10 @@ Purpose of ColorTo labelTo measureTo represent and imitate To enliven and dec
 
 ---
 
+background-image: url(retina.jpg)
+
 <mark>Light &rarr; Cone cell response</mark> &rarr; Openent processing &rarr; Perception
 
-background-image: url(retina.jpg)
 
 ---
 
