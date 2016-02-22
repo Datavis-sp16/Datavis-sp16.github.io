@@ -23,7 +23,7 @@ Purpose of ColorTo labelTo measureTo represent and imitate To enliven and dec
 
 ---
 
-### Light &rarr; Cone cell response &rarr; Openent processing &rarr; Perception
+### Light &rarr; Cone cell response &rarr; Opponent processing &rarr; Perception
 
 ---
 
@@ -31,7 +31,7 @@ background-image: url(retina.jpg)
 
 ---
 
-<mark>Light &rarr; Cone cell response</mark> &rarr; Openent processing &rarr; Perception
+<mark>Light &rarr; Cone cell response</mark> &rarr; Opponent processing &rarr; Perception
 
 .width2[![](https://upload.wikimedia.org/wikipedia/commons/0/04/Cone-fundamentals-with-srgb-spectrum.svg)]
 
@@ -46,7 +46,7 @@ background-image: url(retina.jpg)
 
 ---
 
-<mark>Light &rarr; Cone cell response</mark> &rarr; Openent processing &rarr; Perception
+<mark>Light &rarr; Cone cell response</mark> &rarr; Opponent processing &rarr; Perception
 
 <br><br>
 .width1[![](coneresponse.png)]
@@ -55,7 +55,7 @@ background-image: url(retina.jpg)
 
 ---
 
-<mark>Light &rarr; Cone cell response</mark> &rarr; Openent processing &rarr; Perception
+<mark>Light &rarr; Cone cell response</mark> &rarr; Opponent processing &rarr; Perception
 
 .width2[![](spectra.png)]
 
@@ -63,15 +63,15 @@ Two different light spectra can produce the same cone response, and therefore pr
 
 ---
 
-Light &rarr; <mark>Cone cell response &rarr; Openent processing</mark> &rarr; Perception
+Light &rarr; <mark>Cone cell response &rarr; Opponent processing</mark> &rarr; Perception
 
 .width3[![](oponent.svg)]
 
-"Oponent Processing Theory" describes how the ganglial cells process the signals from the cone cells.  Con cell responses are combined by the ganglial cells to produce these three signals:  
+"Opponent Process Theory" describes how the ganglial cells process the signals from the cone cells.  Cone cell responses are combined by the ganglial cells to produce these three signals:  
 
 - Lightness  
 - "Red-Green" (magenta vs. green)  
-- Yellow-Blue.
+- Yellow-Blue
 
 The Ganglia send these three signals to the brain.
 
@@ -79,8 +79,33 @@ The Ganglia send these three signals to the brain.
 
 ## Color Spaces (Color Models)
 
-### RGB
+### RGB / CMYK
 
+3 cartesian coodinates.
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/83/RGB_Cube_Show_lowgamma_cutout_b.png)
+
+CMYK = complementary corners of the cube.
+
+### HSL / HSV
+
+1 angle (hue) + 2 cartesian coordinates (saturation and lightness or value)
+
+![](http://www.texample.net/media/tikz/examples/PNG/rgb-color-mixing.png)
+
+![](HSL-HSV.png)
+
+### LAB
+
+3 cartesian coordinates (Luminance, A, B)
+
+![](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/DrawColor/Concepts/Art/csl02.gif)
+
+![](http://www.dubayrox.com/images/cielabpng.png)
+
+### HCL
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/b3/HSL_color_solid_dblcone_chroma_gray.png)
 
 ---
 
