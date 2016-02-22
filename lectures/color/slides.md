@@ -29,14 +29,11 @@ Purpose of ColorTo labelTo measureTo represent and imitate To enliven and dec
 
 background-image: url(retina.jpg)
 
-<mark>Light &rarr; Cone cell response</mark> &rarr; Openent processing &rarr; Perception
-
-
 ---
 
 <mark>Light &rarr; Cone cell response</mark> &rarr; Openent processing &rarr; Perception
 
-.width1[![](https://upload.wikimedia.org/wikipedia/commons/0/04/Cone-fundamentals-with-srgb-spectrum.svg)]
+.width2[![](https://upload.wikimedia.org/wikipedia/commons/0/04/Cone-fundamentals-with-srgb-spectrum.svg)]
 
 ---
 
