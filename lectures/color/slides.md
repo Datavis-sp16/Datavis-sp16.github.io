@@ -85,12 +85,17 @@ The Ganglia send these three signals to the brain.
 
 ---
 
-### Coor Wheels
+### Color Wheels
 
 .width2[![](schiffermueller.jpg)]
 .width2[![](http://www.texample.net/media/tikz/examples/PNG/rgb-color-mixing.png)]
 
 ---
+
+### Harris Color Wheel
+
+.width2[![](harris.jpg)]
+
 
 ### RGB / CMYK
 
