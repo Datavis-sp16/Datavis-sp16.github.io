@@ -151,15 +151,13 @@ background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22M
 
 ---
 
-### LAB (L\*A\*B)
+### LAB (L\*a\*b)
 
-3 cartesian coordinates (Luminance, A, B)
+3 cartesian coordinates (Luminance, A, B); Very similar hue wheel and space to Munsell System.  Based on Opponent Processing.
 
-Very similar hue wheel and space to Munsell System.
+.width3[![](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/DrawColor/Concepts/Art/csl02.gif)]
 
-.width2[![](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/DrawColor/Concepts/Art/csl02.gif)]
-
-.width2[![](http://www.dubayrox.com/images/cielabpng.png)]
+.width3[![](http://www.dubayrox.com/images/cielabpng.png)]
 
 ---
 
@@ -167,7 +165,7 @@ Very similar hue wheel and space to Munsell System.
 
 Hue, Chroma, Luminance: same color space as LAB 
 
-.width1[![](https://upload.wikimedia.org/wikipedia/commons/b/b3/HSL_color_solid_dblcone_chroma_gray.png)]
+.width2[![](https://upload.wikimedia.org/wikipedia/commons/b/b3/HSL_color_solid_dblcone_chroma_gray.png)]
 
 ---
 
