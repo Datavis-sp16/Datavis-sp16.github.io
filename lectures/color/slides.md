@@ -11,13 +11,6 @@ background-image: url()
 ---
 class: center, middle
 
-# Color
-
----
-
-Purpose of ColorTo labelTo measureTo represent and imitate To enliven and decorate“Above all, do no harm.”- Edward Tufte
-
----
 
 # Color Perception
 
@@ -80,6 +73,7 @@ Light &rarr; <mark>Cone cell response &rarr; Opponent processing</mark> &rarr; P
 The Ganglia send these three signals to the brain.
 
 ---
+class: center, middle
 
 # Color Spaces (Color Models)
 
@@ -99,6 +93,8 @@ background-image: url(harris.jpg)
 ### Harris Color Wheel
 
 ---
+
+class: center, middle
 
 # Color Spaces (Color Models)
 
@@ -136,6 +132,8 @@ background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22M
 
 ---
 
+class: center, middle
+
 # Color Spaces (Color Models)
 
 ## Perceptually based color models 
@@ -153,7 +151,7 @@ background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22M
 
 ### LAB (L\*a\*b)
 
-3 cartesian coordinates (Luminance, A, B); Very similar hue wheel and space to Munsell System.  Based on Opponent Processing.
+3 cartesian coordinates (Lightness, A, B); Very similar hue wheel and space to Munsell System.  Based on Opponent Processing.
 
 .width3[![](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/DrawColor/Concepts/Art/csl02.gif)]
 
@@ -163,11 +161,70 @@ background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22M
 
 ### HCL
 
-Hue, Chroma, Luminance: same color space as LAB, with angle and distance replacing cartesian coordinates a & b.
+Hue, Chroma, Lightness: same color space as LAB, with angle and distance replacing cartesian coordinates a & b.
 
 .width2[![](https://upload.wikimedia.org/wikipedia/commons/b/b3/HSL_color_solid_dblcone_chroma_gray.png)]
 
 ---
 
-# Mappings and Palletes
+# Reading: Color in datavis
+
+Gregor Aisch: [https://vis4.net/blog/posts/avoid-equidistant-hsv-colors/](https://vis4.net/blog/posts/avoid-equidistant-hsv-colors/)
+
+[https://vis4.net/blog/posts/mastering-multi-hued-color-scales/](https://vis4.net/blog/posts/mastering-multi-hued-color-scales/)
+
+Peter Kovesi: [http://peterkovesi.com/projects/colourmaps/ColourmapTheory/index.html](http://peterkovesi.com/projects/colourmaps/ColourmapTheory/index.html)
+
+Drew Skau: [“Dear NASA: No More Rainbow Color Scales, Please.”](http://blog.visual.ly/rainbow-color-scales/) blog post, Visually. 
+
+[http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized](http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized)
+
+---
+
+# Color Blindness
+
+trichromacy = normal vision 
+
+deuteranopia = red-green defficient (affects ~15% of men)
+
+Other forms of colorblindness are possible
+[https://www.youtube.com/watch?v=6RuOt28orRI](https://www.youtube.com/watch?v=6RuOt28orRI)
+
+Photoshop Filters: http://www.adobe.com/accessibility/products/photoshop.html
+
+ColorBrewer and other tools listed in later slides can generate color-blind safe pallettes.
+
+tetrachromacy = extra cone type, larger color space than normal
+
+S. Deleniv: [http://theneurosphere.com/2015/12/17/the-mystery-of-tetrachromacy-if-12-of-women-have-four-cone-types-in-their-eyes-why-do-so-few-of-them-actually-see-more-colours/](http://theneurosphere.com/2015/12/17/the-mystery-of-tetrachromacy-if-12-of-women-have-four-cone-types-in-their-eyes-why-do-so-few-of-them-actually-see-more-colours/)
+
+---
+
+class: center, middle
+
+# Color Tools
+
+
+---
+HCL: Chroma.js Pallettes [http://gka.github.io/palettes/](http://gka.github.io/palettes/)
+
+<iframe width="1000" height="600" frameborder="0" src="http://gka.github.io/palettes/#colors=black,white|steps=7|bez=1|coL=1"><iframe>
+
+---
+HCL Color Picker:  [https://bl.ocks.org/mbostock/3e115519a1b495e0bd95](https://bl.ocks.org/mbostock/3e115519a1b495e0bd95)
+
+<iframe width="1000" height="600" frameborder="0" src="https://bl.ocks.org/mbostock/3e115519a1b495e0bd95"><iframe>
+
+---
+HCL Color Picker:  [https://bl.ocks.org/mbostock/3e115519a1b495e0bd95](https://bl.ocks.org/mbostock/3e115519a1b495e0bd95)
+
+<iframe width="1000" height="600" frameborder="0" src="https://bl.ocks.org/mbostock/3e115519a1b495e0bd95"><iframe>
+
+---
+
+### More HCL Tools
+
+[http://tristen.ca/hcl-picker/](http://tristen.ca/hcl-picker/)[http://tools.medialab.sciences-po.fr/iwanthue/](http://tools.medialab.sciences-po.fr/iwanthue/)[http://hclwizard.org/creator/](http://hclwizard.org/creator/)
+
+[http://hclarke.ca/colour-picker.html](http://hclarke.ca/colour-picker.html)---
 
