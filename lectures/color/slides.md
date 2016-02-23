@@ -83,6 +83,15 @@ The Ganglia send these three signals to the brain.
 
 ## Color Spaces (Color Models)
 
+---
+
+### Coor Wheels
+
+.width2[![](schiffermueller.jpg)]
+.width2[![](http://www.texample.net/media/tikz/examples/PNG/rgb-color-mixing.png)]
+
+---
+
 ### RGB / CMYK
 
 3 cartesian coodinates.
