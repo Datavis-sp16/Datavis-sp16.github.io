@@ -218,15 +218,33 @@ HCL Color Picker:  [https://bl.ocks.org/mbostock/3e115519a1b495e0bd95](https://b
 <iframe width="1400" height="600" frameborder="0" src="https://bl.ocks.org/mbostock/3e115519a1b495e0bd95"><iframe>
 
 ---
-HCL Color Picker:  [https://bl.ocks.org/mbostock/3e115519a1b495e0bd95](https://bl.ocks.org/mbostock/3e115519a1b495e0bd95)
-
-<iframe width="1400" height="600" frameborder="0" src="https://bl.ocks.org/mbostock/3e115519a1b495e0bd95"><iframe>
-
----
 
 ### More HCL Tools
 
 [http://tristen.ca/hcl-picker/](http://tristen.ca/hcl-picker/)[http://tools.medialab.sciences-po.fr/iwanthue/](http://tools.medialab.sciences-po.fr/iwanthue/)[http://hclwizard.org/creator/](http://hclwizard.org/creator/)
 
-[http://hclarke.ca/colour-picker.html](http://hclarke.ca/colour-picker.html)---
+[http://hclarke.ca/colour-picker.html](http://hclarke.ca/colour-picker.html)### HSL Tools
+
+[http://gogocolor.com/](http://gogocolor.com/)
+
+[https://color.adobe.com/](https://color.adobe.com/)
+
+### List of Various Color Tools
+
+[http://zzolo.org/colortools/](http://zzolo.org/colortools/)
+
+---
+
+# Color Names are cultural
+
+![](wcs.jpg)
+
+[http://blog.xkcd.com/2010/05/03/color-survey-results/](http://blog.xkcd.com/2010/05/03/color-survey-results/)
+
+[http://www.luminoso.com/colors/](http://www.luminoso.com/colors/)
+
+[https://flowingdata.com/2012/09/20/color-names-plotted-against-gender/](https://flowingdata.com/2012/09/20/color-names-plotted-against-gender/)
+
+
+
 
