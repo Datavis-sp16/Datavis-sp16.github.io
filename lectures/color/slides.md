@@ -96,6 +96,7 @@ The Ganglia send these three signals to the brain.
 
 .width2[![](harris.jpg)]
 
+---
 
 ### RGB / CMYK
 
