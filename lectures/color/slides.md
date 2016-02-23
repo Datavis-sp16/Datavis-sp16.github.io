@@ -37,12 +37,16 @@ background-image: url(retina.jpg)
 
 3 kinds of cone cells:  
 
-- "Red" = **Long** wavelengths  
-	- most sensitive to yellow (565 nm), also sensitive to red and green
-- "Green" = **Mid** wavelengths  
-	- very close to "red" cones, but most sensitive to green (540 nm), less to yellow and red)  
-- "Blue" = **Short** wavelength   
-	- most sensitive to blue (445 nm)
+"Red" = **Long** wavelengths  
+most sensitive to yellow (565 nm), also sensitive to red and green
+
+
+"Green" = **Mid** wavelengths  
+most sensitive to green (540 nm), but lots of overlap with "red" cones. Less sensitive to yellow and red than "red" cones.  
+
+
+"Blue" = **Short** wavelength  
+most sensitive to blue (445 nm)
 
 ---
 
