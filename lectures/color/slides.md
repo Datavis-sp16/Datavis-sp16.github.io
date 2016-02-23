@@ -81,11 +81,13 @@ The Ganglia send these three signals to the brain.
 
 ---
 
-## Color Spaces (Color Models)
+# Color Spaces (Color Models)
+
+## Historical Color Wheels
 
 ---
 
-### Color Wheels
+### Schiffermüller Color Wheel
 
 .width2[![](schiffermueller.jpg)]
 .width2[![](http://www.texample.net/media/tikz/examples/PNG/rgb-color-mixing.png)]
@@ -95,6 +97,12 @@ The Ganglia send these three signals to the brain.
 background-image: url(harris.jpg)
 
 ### Harris Color Wheel
+
+---
+
+# Color Spaces (Color Models)
+
+## Physically based color models 
 
 ---
 
@@ -116,6 +124,7 @@ White = all max values
 
 background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22MbXlVQrldceygV_Ipsmb0LkKZHXA8tTAX3p9zWkAcf1o8UQy7gW4nw=s650)
 
+---
 
 ### HSL / HSV
 
@@ -127,9 +136,26 @@ background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22M
 
 ---
 
-### LAB
+# Color Spaces (Color Models)
+
+## Perceptually based color models 
+
+---
+
+### Munsell Color System (HCV)
+
+.width2[![](http://www.handprint.com/HP/WCL/IMG/munsell.gif)]
+.width2[![](http://media-2.web.britannica.com/eb-media/35/105435-004-D3E92317.jpg)]
+
+[https://en.wikipedia.org/wiki/Munsell_color_system](https://en.wikipedia.org/wiki/Munsell_color_system)
+
+---
+
+### LAB (L\*A\*B)
 
 3 cartesian coordinates (Luminance, A, B)
+
+Very similar hue wheel and space to Munsell System.
 
 .width2[![](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/DrawColor/Concepts/Art/csl02.gif)]
 
@@ -138,6 +164,8 @@ background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22M
 ---
 
 ### HCL
+
+Hue, Chroma, Luminance: same color space as LAB 
 
 .width1[![](https://upload.wikimedia.org/wikipedia/commons/b/b3/HSL_color_solid_dblcone_chroma_gray.png)]
 
