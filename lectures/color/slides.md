@@ -100,11 +100,23 @@ background-image: (harris.jpg)
 
 ### RGB / CMYK
 
-3 cartesian coodinates.
+.width2[![](https://upload.wikimedia.org/wikipedia/commons/8/83/RGB_Cube_Show_lowgamma_cutout_b.png)]
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/83/RGB_Cube_Show_lowgamma_cutout_b.png)
+3 cartesian coodinates (R, G, B)
 
-CMYK = complementary corners of the cube.
+CMY = complementary corners of the cube.
+
+Black = 0,0,0
+
+Grey = equal values
+
+White = all max values
+
+
+---
+
+background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22MbXlVQrldceygV_Ipsmb0LkKZHXA8tTAX3p9zWkAcf1o8UQy7gW4nw=s650)
+
 
 ### HSL / HSV
 
