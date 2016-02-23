@@ -128,7 +128,7 @@ background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22M
 
 ### HSL / HSV
 
-1 angle (hue) + 2 cartesian coordinates (saturation and lightness or value)
+1 angle (hue) + 1 distance (saturation) + 1 cartesian coordinate (lightness or value)
 
 .width2[![](http://www.texample.net/media/tikz/examples/PNG/rgb-color-mixing.png)]
 
@@ -163,7 +163,7 @@ background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22M
 
 ### HCL
 
-Hue, Chroma, Luminance: same color space as LAB 
+Hue, Chroma, Luminance: same color space as LAB, with angle and distance replacing cartesian coordinates a & b.
 
 .width2[![](https://upload.wikimedia.org/wikipedia/commons/b/b3/HSL_color_solid_dblcone_chroma_gray.png)]
 
