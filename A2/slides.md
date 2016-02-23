@@ -190,7 +190,7 @@ background-image: url(a2-Creed.png)
 
 Assignment 2
 
-Data: [missing]()
+Data: [here](https://public.tableau.com/s/resources?qt-overview_resources=)
 
 [Process Notebook](a2-vargas.pdf)
 
@@ -198,4 +198,4 @@ Data: [missing]()
 ---
 background-image: url(a2-vargas.png)
 ---
-*Caption Missing*Description Missing
+*Are people living on the east coast more fond of cats over dogs in their households?*Description Missing
