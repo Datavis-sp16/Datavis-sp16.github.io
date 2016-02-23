@@ -100,7 +100,7 @@ background-image: (harris.jpg)
 
 ### RGB / CMYK
 
-.width2[![](https://upload.wikimedia.org/wikipedia/commons/8/83/RGB_Cube_Show_lowgamma_cutout_b.png)]
+.width2[![](colorcube.png)]
 
 3 cartesian coodinates (R, G, B)
 
@@ -111,7 +111,6 @@ Black = 0,0,0
 Grey = equal values
 
 White = all max values
-
 
 ---
 
