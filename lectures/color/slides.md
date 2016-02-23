@@ -121,21 +121,25 @@ background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22M
 
 1 angle (hue) + 2 cartesian coordinates (saturation and lightness or value)
 
-![](http://www.texample.net/media/tikz/examples/PNG/rgb-color-mixing.png)
+.width2[![](http://www.texample.net/media/tikz/examples/PNG/rgb-color-mixing.png)]
 
-![](HSL-HSV.png)
+.width2[![](HSL-HSV.png)]
+
+---
 
 ### LAB
 
 3 cartesian coordinates (Luminance, A, B)
 
-![](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/DrawColor/Concepts/Art/csl02.gif)
+.width2[![](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/DrawColor/Concepts/Art/csl02.gif)]
 
-![](http://www.dubayrox.com/images/cielabpng.png)
+.width2[![](http://www.dubayrox.com/images/cielabpng.png)]
+
+---
 
 ### HCL
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/b3/HSL_color_solid_dblcone_chroma_gray.png)
+.width1[![](https://upload.wikimedia.org/wikipedia/commons/b/b3/HSL_color_solid_dblcone_chroma_gray.png)]
 
 ---
 
