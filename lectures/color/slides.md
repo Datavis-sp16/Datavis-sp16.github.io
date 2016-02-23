@@ -177,24 +177,26 @@ Peter Kovesi: [http://peterkovesi.com/projects/colourmaps/ColourmapTheory/index.
 
 Drew Skau: [“Dear NASA: No More Rainbow Color Scales, Please.”](http://blog.visual.ly/rainbow-color-scales/) blog post, Visually. 
 
-[http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized](http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized)
+Eric Marty: [http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized](http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized)
 
 ---
 
 # Color Blindness
 
-trichromacy = normal vision 
+**trichromacy** = normal vision 
 
-deuteranopia = red-green defficient (affects ~15% of men)
+**deuteranopia** = red-green defficient (affects ~15% of men)
 
-Other forms of colorblindness are possible
+Other forms of colorblindness are also possible
 [https://www.youtube.com/watch?v=6RuOt28orRI](https://www.youtube.com/watch?v=6RuOt28orRI)
 
-Photoshop Filters: http://www.adobe.com/accessibility/products/photoshop.html
+**Colorblind Safe Colors and Filters**
+
+Photoshop Filters: [http://www.adobe.com/accessibility/products/photoshop.html](http://www.adobe.com/accessibility/products/photoshop.html)
 
 ColorBrewer and other tools listed in later slides can generate color-blind safe pallettes.
 
-tetrachromacy = extra cone type, larger color space than normal
+**tetrachromacy** = extra cone type, larger color space than normal
 
 S. Deleniv: [http://theneurosphere.com/2015/12/17/the-mystery-of-tetrachromacy-if-12-of-women-have-four-cone-types-in-their-eyes-why-do-so-few-of-them-actually-see-more-colours/](http://theneurosphere.com/2015/12/17/the-mystery-of-tetrachromacy-if-12-of-women-have-four-cone-types-in-their-eyes-why-do-so-few-of-them-actually-see-more-colours/)
 
@@ -213,12 +215,12 @@ HCL: Chroma.js Pallettes [http://gka.github.io/palettes/](http://gka.github.io/p
 ---
 HCL Color Picker:  [https://bl.ocks.org/mbostock/3e115519a1b495e0bd95](https://bl.ocks.org/mbostock/3e115519a1b495e0bd95)
 
-<iframe width="1000" height="600" frameborder="0" src="https://bl.ocks.org/mbostock/3e115519a1b495e0bd95"><iframe>
+<iframe width="1400" height="600" frameborder="0" src="https://bl.ocks.org/mbostock/3e115519a1b495e0bd95"><iframe>
 
 ---
 HCL Color Picker:  [https://bl.ocks.org/mbostock/3e115519a1b495e0bd95](https://bl.ocks.org/mbostock/3e115519a1b495e0bd95)
 
-<iframe width="1000" height="600" frameborder="0" src="https://bl.ocks.org/mbostock/3e115519a1b495e0bd95"><iframe>
+<iframe width="1400" height="600" frameborder="0" src="https://bl.ocks.org/mbostock/3e115519a1b495e0bd95"><iframe>
 
 ---
 
