@@ -92,7 +92,7 @@ The Ganglia send these three signals to the brain.
 
 ---
 
-background-image: (harris.jpg)
+background-image: url(harris.jpg)
 
 ### Harris Color Wheel
 
