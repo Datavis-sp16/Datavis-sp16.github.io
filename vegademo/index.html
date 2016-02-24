@@ -1,22 +1,33 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Page Title in title bar</title>
-    <script src="https://vega.github.io/vega-editor/vendor/d3.min.js"></script>
-    <script src="https://vega.github.io/vega/vega.min.js"></script>
-  </head>
-  <body>
-    <h1>Title for my Chart</h1>
-    <div id="vis"></div>
-    <div id="caption">This is where you could put caption text.</div>
-  </body>
     
-<script type="text/javascript">
-function parse(spec) {
-// parse the spec, render it to named element "vis" using render "svg" 
-    vg.parse.spec(spec, function(error, chart) { chart({el:"#vis", renderer: "svg"}).update(); });
-}
-parse("bar.json"); // name of the Vega spcification file
-</script>
+    <head>
+        <title>Page Title in title bar</title>
+        <script src="https://vega.github.io/vega-editor/vendor/d3.min.js"></script>
+        <script src="https://vega.github.io/vega/vega.min.js"></script>
+    </head>
+
+    <body>
+        <h1>Title for my Chart</h1>
+        
+        <div id="vis"></div>
+
+        <div id="caption">This is where you could put caption text.</div>
+    </body>
+
+    <script type="text/javascript"> // parse the Vega spec, render it to named element "vis" using render "svg" 
+        function parse(spec) {
+            vg.parse.spec(
+                spec, 
+                function(error, chart) { 
+                    chart({
+                        el:"#vis", // id if the element of the HTML to render the visualization in 
+                        renderer: "svg" // render with either svg or canvas
+                    }).update(); 
+                }
+            );
+        }
+        parse("bar.json"); // name of the Vega spcification file
+    </script>
 
 </html>
