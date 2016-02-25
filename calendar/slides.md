@@ -119,12 +119,51 @@ class: left, top
 [Assignment #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due Thursday, 2/18)
 
 .left-column-50[
-###Tu 2/9: Perception (continued)  
+###Tu 2/16: Perception (continued)  
 [Slides](../lectures/graphicperception2)  
 ]
 .right-column-50[
-###Th 2/11: Assignment 2 Critique  
+###Th 2/18: Assignment 2 Critique  
 
 Be sure you have handed in your assignment on time in order for your assignment to be critiqued.
+
+]
+
+---
+name: w7
+class: left, top
+
+**Week 7**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)  
+[Assignment #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due Thursday, 2/18)
+
+.left-column-50[
+###Tu 2/23: Color  
+[Slides](../lectures/color)  
+
+Read when you have time:  
+
+- Tufte: [*Envisioning Information.*](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16335283/View?ou=1011508)  
+	- Chapter 5: “Color and Information”  
+- Gregor Aisch: [How To Avoid Equidistant HSV Colors](https://vis4.net/blog/posts/avoid-equidistant-hsv-colors/)  
+- Gregor Aisch: [Mastering Multi-hued
+Color Scales with Chroma.js](https://vis4.net/blog/posts/mastering-multi-hued-color-scales/)  
+- Peter Kovesi: [Good Colour Maps: How to Design Them](http://peterkovesi.com/projects/colourmaps/ColourmapTheory/index.html)  
+- Drew Skau: [Dear NASA: No More Rainbow Color Scales, Please.](http://blog.visual.ly/rainbow-color-scales/) blog post, *Visually*.  
+- Eric Marty: [Global Ocean Surface Waves, Visualized](http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized)
+]
+
+.right-column-50[
+###Th 2/25: Grammar of Graphics / Software  
+
+- Eric Marty: [The D3/Vega "stack"](http://blog.ericmarty.com/18/the-d3-/-vega-stack)
+- Mike Bostock: [D3 Gallery](https://github.com/mbostock/d3/wiki/Gallery)
+- Christoph Viau: [D3.js Gallery](http://christopheviau.com/d3list/gallery.html)
+- OPTIONAL: Scott Murray: [D3 Tutorial](http://alignedleft.com/tutorials/d3/)
+- OPTIONAL: Mike Bostock: [D3 Tutorials](http://alignedleft.com/tutorials/d3/)
+- OPTIONAL: [Plotly tutorials](http://help.plot.ly/tutorials/)
+- OPTIONAL: [Tableau tuorials]()
+- REFERENCE: Eric Marty: [Visualization Tools Built on D3](http://blog.ericmarty.com/19/visualization-tools-built-on-d3)
+- REFERENCE: Eric Marty: [The Vega Visualization Grammar](http://blog.ericmarty.com/9/vega-visualization-grammar)
+
 
 ]
