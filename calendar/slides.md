@@ -161,9 +161,9 @@ Color Scales with Chroma.js](https://vis4.net/blog/posts/mastering-multi-hued-co
 - OPTIONAL: Scott Murray: [D3 Tutorial](http://alignedleft.com/tutorials/d3/)
 - OPTIONAL: Mike Bostock: [D3 Tutorials](http://alignedleft.com/tutorials/d3/)
 - OPTIONAL: [Plotly tutorials](http://help.plot.ly/tutorials/)
-- OPTIONAL: [Tableau tuorials]()
+- OPTIONAL: [Tableau tuorials](http://www.tableau.com/learn/training)
 - REFERENCE: Eric Marty: [Visualization Tools Built on D3](http://blog.ericmarty.com/19/visualization-tools-built-on-d3)
 - REFERENCE: Eric Marty: [The Vega Visualization Grammar](http://blog.ericmarty.com/9/vega-visualization-grammar)
-
+- BACKGROUND: Leland Wilkinson: [The Grammar of Graphics](http://www.amazon.com/The-Grammar-Graphics-Statistics-Computing/dp/0387245448)
 
 ]
