@@ -158,6 +158,7 @@ Color Scales with Chroma.js](https://vis4.net/blog/posts/mastering-multi-hued-co
 - Eric Marty: [The D3/Vega "stack"](http://blog.ericmarty.com/18/the-d3-/-vega-stack)
 - Mike Bostock: [D3 Gallery](https://github.com/mbostock/d3/wiki/Gallery)
 - Christoph Viau: [D3.js Gallery](http://christopheviau.com/d3list/gallery.html)
+- Eric Marty: [JavaScript Demystified](http://datavis-sp16.github.io/docs/JS-demyst.pdf)
 - OPTIONAL: Scott Murray: [D3 Tutorial](http://alignedleft.com/tutorials/d3/)
 - OPTIONAL: Mike Bostock: [D3 Tutorials](http://alignedleft.com/tutorials/d3/)
 - OPTIONAL: [Plotly tutorials](http://help.plot.ly/tutorials/)
