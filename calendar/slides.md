@@ -186,7 +186,7 @@ Continued from last class.
 .right-column-50[
 ###Th 3/5: Grammar of Graphics / Software 
 
-[Assigmnent #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md)  
+[Assignment #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md)  
 Due 3/21  
 Critique 3/22
 ]
