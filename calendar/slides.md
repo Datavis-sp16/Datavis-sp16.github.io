@@ -6,7 +6,7 @@ class: left, top
 .left-column-50[
 ###Tu 1/12: Introduction  
 [Slides](../lectures/intro)  
-[Assignent #1](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A1.md) (due 1/21)
+[Assignment #1](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A1.md) (due 1/21)
 
 ]
 .right-column-50[
@@ -34,7 +34,7 @@ class: left, top
 ]
 .right-column-50[
 ###Th 1/21: Image Models, Visualization Design  
-[Assignent #1](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A1.md) (due 1/21)
+[Assignment #1](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A1.md) (due 1/21)
 
 - Tufte: *The Visual Design of Quantitative Information.*  
 	- [Chapters 4-5: “Data-Ink...” and "Chartjunk..."](https://uga.view.usg.edu/d2l/le/content/1011508/viewContent/16466009/View) 
@@ -71,7 +71,7 @@ name: w4
 class: left, top
 
 **Week 4**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)  
-[Assignent #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due Thursday, 2/18)
+[Assignment #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due Thursday, 2/18)
 
 **Self Paced Online Tutorials.** Go to [this Lynda.com playlist](http://www.lynda.com/SharedPlaylist/d3093c04bf8d48149ccd2aded2197389?org=uga.edu) (login with UGA ID required). If you have trouble logging in, go to the [UGA Portal for Lynda.com](https://www.google.com/url?q=https%3A%2F%2Fcas.uga.edu%2Fcas%2Flogin%3Fservice%3Dhttps%3A%2F%2Fwww.lynda.com%2Fportal%2Fuga&sa=D&sntz=1&usg=AFrqEzciQx1UjuJ4HxgaYL-QqtNRLcRiDg), then return to the playlist.  From the playlist, do the following:
 
@@ -172,7 +172,7 @@ Color Scales with Chroma.js](https://vis4.net/blog/posts/mastering-multi-hued-co
 name: w8
 class: left, top
 
-**Week 7**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/) |  [Assignent #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md) (due 3/21)
+**Week 7**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/) |  [Assignment #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md) (due 3/21)
   
 
 
@@ -186,7 +186,7 @@ Continued from last class.
 .right-column-50[
 ###Th 3/5: Grammar of Graphics / Software 
 
-[Assignent #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md)  
+[Assigmnent #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md)  
 Due 3/21  
 Critique 3/22
 ]
