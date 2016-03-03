@@ -134,7 +134,6 @@ name: w7
 class: left, top
 
 **Week 7**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/)  
-[Assignment #2](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A2.md) (due Thursday, 2/18)
 
 .left-column-50[
 ###Tu 2/23: Color  
@@ -167,4 +166,27 @@ Color Scales with Chroma.js](https://vis4.net/blog/posts/mastering-multi-hued-co
 - REFERENCE: Eric Marty: [The Vega Visualization Grammar](http://blog.ericmarty.com/9/vega-visualization-grammar)
 - BACKGROUND: Leland Wilkinson: [The Grammar of Graphics](http://www.amazon.com/The-Grammar-Graphics-Statistics-Computing/dp/0387245448)
 
+]
+
+---
+name: w8
+class: left, top
+
+**Week 7**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/) |  [Assignent #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md) (due 3/21)
+  
+
+
+.left-column-50[
+###Tu 1/3: Grammar of Graphics / Software    
+
+Continued from last class.
+
+]
+
+.right-column-50[
+###Th 1/5: Grammar of Graphics / Software 
+
+[Assignent #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md)  
+Due 3/21  
+Critique 3/22
 ]
