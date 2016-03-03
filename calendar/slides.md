@@ -177,14 +177,14 @@ class: left, top
 
 
 .left-column-50[
-###Tu 1/3: Grammar of Graphics / Software    
+###Tu 3/3: Grammar of Graphics / Software    
 
 Continued from last class.
 
 ]
 
 .right-column-50[
-###Th 1/5: Grammar of Graphics / Software 
+###Th 3/5: Grammar of Graphics / Software 
 
 [Assignent #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md)  
 Due 3/21  
