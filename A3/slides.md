@@ -13,20 +13,27 @@ background-image: url()
 ---
 class: left, top
 
-[Ariel, Katilin](http://www.kaitlineddydesign.com/datavis-assignment-3)
+Ariel Lockshaw and Kaitlin Eddy:  
+[Wind Power Consumption](http://www.kaitlineddydesign.com/datavis-assignment-3)
 
-[Betty, Nicole](http://huynhdesigns.portfoliobox.net/)
+Nicole Kim, Betty Huynh:  
+[Average Spending on Christmas Gifts](http://huynhdesigns.portfoliobox.net/)
 
-[Yeilha, Laura Elizabeth](http://www.lauraelizabethmartin.com/chopsticks)
+Yeilha Vargas, Laura Elizabeth Martin:  
+[Chopstick Accuracy](http://www.lauraelizabethmartin.com/chopsticks)
 
-[Ella, Megan](http://msrob.com/data-visualization/)
+Ella Ferguson, Megan Robertson:  
+[Comparison of Serial Killer’s Methods and IQs](http://msrob.com/data-visualization/)
 
-[Sommers, Chelsea](http://www.chelsealeighjay.com/marty)
+Sommers Creed, Chelsea Jay:  
+[Happiness](http://www.chelsealeighjay.com/marty)
 
-[Teressa, Sierra](http://teressaross.com/Ninestars/index.html)
+[Teressa Ross, Sierra Moon:  
+[New York Air Quality in 1973](http://teressaross.com/Ninestars/index.html)
 
-[Gerda, Lansing, Leah](http://bl.ocks.org/winstonandgatsby/raw/e459ac1a34d925110e2a/)
+Lansing Cai, Leah Lukens, Gerda Mostonaite:  
+[GOP Presidential Debate, December 2015](http://bl.ocks.org/winstonandgatsby/raw/e459ac1a34d925110e2a/)
 
-[Juweek, Hanna](http://bl.ocks.org/AdolpheJ/raw/0e3335da1490636ad07d/)
+Juweek Adolphe, Hanna Stephens:  
+[How the World Comsumes Media](http://bl.ocks.org/AdolpheJ/raw/0e3335da1490636ad07d/)
         
----
