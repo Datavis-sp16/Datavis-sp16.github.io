@@ -28,7 +28,7 @@ Ella Ferguson, Megan Robertson:
 Sommers Creed, Chelsea Jay:  
 [Happiness](http://www.chelsealeighjay.com/marty)
 
-[Teressa Ross, Sierra Moon:  
+Teressa Ross, Sierra Moon:  
 [New York Air Quality in 1973](http://teressaross.com/Ninestars/index.html)
 
 Lansing Cai, Leah Lukens, Gerda Mostonaite:  
