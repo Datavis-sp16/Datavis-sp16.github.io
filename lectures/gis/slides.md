@@ -14,6 +14,7 @@ class: center, middle
 
 # GIS & Cartography
 
+*Much of this content derived from slides by Jeff Heer and Michal Migurski*
 
 ---
 class: center, bottom  
@@ -120,13 +121,71 @@ class: left, top
 .right-column-fat[
 
 * Equal Area (Preserves area)
-	* [example: "Albers Equal Area Conic"](http://en.wikipedia.org/wiki/Azimuthal_equidistant_projection)
+	* [example: "Albers Equal Area Conic"](http://en.wikipedia.org/wiki/Albers_projection)
 	
 .width1[![](albers-us.png)  
 [http://bl.ocks.org/mbostock/3734308](http://bl.ocks.org/mbostock/3734308)]
 .width1[![](albers-world.png)  
 [http://bl.ocks.org/mbostock/3788999](http://bl.ocks.org/mbostock/3788999)]	
 ]
+
+---
+class: left, top
+                
+.left-column[
+### <mark>Projections</mark>
+### Scale
+### Mapping Data
+]	
+.right-column-fat[
+
+* Conformal (Preserves local angles)
+	* [example: "Peirce Quincuncial"](http://en.wikipedia.org/wiki/Peirce_quincuncial_projection)
+	
+.width1[![](peirce.png)  
+[http://bl.ocks.org/mbostock/4310087](http://bl.ocks.org/mbostock/4310087)]
+]
+
+---
+class: left, top
+                
+.left-column[
+### <mark>Projections</mark>
+### Scale
+### Mapping Data
+]	
+.right-column-fat[
+
+* Conformal (Preserves local angles)
+	* [example: "Mercator"](http://en.wikipedia.org/wiki/Mercator_projection)
+	
+.width1[![](peirce.png)  
+[http://bl.ocks.org/mbostock/3757132](http://bl.ocks.org/mbostock/3757132)]
+]
+
+---
+class: left, top
+                
+.left-column[
+### <mark>Projections</mark>
+### Scale
+### Mapping Data
+]	
+.right-column-fat[
+
+Tissot's Indicatrix
+.width2[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Tissot_world_from_space.png)]
+.width2[![](https://upload.wikimedia.org/wikipedia/commons/8/87/Azimuthal_equidistant_projection_with_Tissot%27s_indicatrix.png)]
+.width2[![](https://upload.wikimedia.org/wikipedia/commons/2/24/Tissot_indicatrix_world_map_Mercator_proj.svg)]
+.width2[![](https://upload.wikimedia.org/wikipedia/commons/3/30/Tissot_indicatrix_world_map_Winkel_Tripel_proj.svg)]
+]
+
+
+
+
+
+
+
 
 
 
