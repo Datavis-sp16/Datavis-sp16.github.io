@@ -14,11 +14,6 @@ class: center, middle
 
 # GIS & Cartography
 
----
-class: center, bottom  
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/14/HD.6D.635_%2812000265314%29.jpg)
-
-Hello
 
 ---
 class: center, bottom  
@@ -93,5 +88,45 @@ Therefore, there is no truthful map of the earth.
 [Wikipedia: Map Projections](https://en.wikipedia.org/wiki/Map_projection)
 
 ]
+
+
+---
+class: left, top
+                
+.left-column[
+### <mark>Projections</mark>
+### Scale
+### Mapping Data
+]	
+.right-column-fat[
+
+* Azimuthal (Preserves direction and distance)
+	* [example: "Azimuthal Equidistant"](http://en.wikipedia.org/wiki/Azimuthal_equidistant_projection)
+	
+.width1[
+![](az-eq.png)  
+[http://bl.ocks.org/mbostock/3757110](http://bl.ocks.org/mbostock/3757110)
+]	
+]
+
+---
+class: left, top
+                
+.left-column[
+### <mark>Projections</mark>
+### Scale
+### Mapping Data
+]	
+.right-column-fat[
+
+* Equal Area (Preserves area)
+	* [example: "Albers Equal Area Conic"](http://en.wikipedia.org/wiki/Azimuthal_equidistant_projection)
+	
+.width1[![](albers-us.png)  
+[http://bl.ocks.org/mbostock/3734308](http://bl.ocks.org/mbostock/3734308)]
+.width1[![](albers-world.png)  
+[http://bl.ocks.org/mbostock/3788999](http://bl.ocks.org/mbostock/3788999)]	
+]
+
 
 
