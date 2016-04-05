@@ -475,8 +475,8 @@ class: left, top
 	* Choropleth
 * Cartograms
 * <mark>Flow Maps</mark>
-
 ]	
+
 .right-column-fat[
 
 Flow maps display flows (vectors fields: direction and magnitude)
