@@ -189,7 +189,7 @@ class: left, top
 .right-column-fat[
 
 [Tissot's Indicatrix](https://en.wikipedia.org/wiki/Tissot%27s_indicatrix) (Orthographic, Azimuthal Equidistant, Mercator, Peirce Quincuncial)  
-.width1[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Tissot_world_from_space.png)]
+.width2[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Tissot_world_from_space.png)]
 .width2[![](https://upload.wikimedia.org/wikipedia/commons/8/87/Azimuthal_equidistant_projection_with_Tissot%27s_indicatrix.png)]
 .width2[![](https://upload.wikimedia.org/wikipedia/commons/2/24/Tissot_indicatrix_world_map_Mercator_proj.svg)]
 .width2[![](http://map-projections.net/img/tissot-30-w/gringorten-20w.jpg)]
