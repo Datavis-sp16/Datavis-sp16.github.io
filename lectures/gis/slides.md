@@ -104,7 +104,7 @@ class: left, top
 * Azimuthal (Preserves direction and distance)
 	* [example: "Azimuthal Equidistant"](http://en.wikipedia.org/wiki/Azimuthal_equidistant_projection)
 	
-.width1[
+.width2[
 ![](az-eq.png)  
 [http://bl.ocks.org/mbostock/3757110](http://bl.ocks.org/mbostock/3757110)
 ]	
@@ -125,7 +125,22 @@ class: left, top
 	
 .width1[![](albers-us.png)  
 [http://bl.ocks.org/mbostock/3734308](http://bl.ocks.org/mbostock/3734308)]
-.width1[![](albers-world.png)  
+]
+
+---
+class: left, top
+                
+.left-column[
+### <mark>Projections</mark>
+### Scale
+### Mapping Data
+]	
+.right-column-fat[
+
+* Equal Area (Preserves area)
+	* [example: "Albers Equal Area Conic"](http://en.wikipedia.org/wiki/Albers_projection)
+	
+.width2[![](albers-world.png)  
 [http://bl.ocks.org/mbostock/3788999](http://bl.ocks.org/mbostock/3788999)]	
 ]
 
@@ -142,7 +157,7 @@ class: left, top
 * Conformal (Preserves local angles)
 	* [example: "Peirce Quincuncial"](http://en.wikipedia.org/wiki/Peirce_quincuncial_projection)
 	
-.width1[![](peirce.png)  
+.width2[![](peirce.png)  
 [http://bl.ocks.org/mbostock/4310087](http://bl.ocks.org/mbostock/4310087)]
 ]
 
@@ -159,7 +174,7 @@ class: left, top
 * Conformal (Preserves local angles)
 	* [example: "Mercator"](http://en.wikipedia.org/wiki/Mercator_projection)
 	
-.width1[![](peirce.png)  
+.width2[![](mercator.png)  
 [http://bl.ocks.org/mbostock/3757132](http://bl.ocks.org/mbostock/3757132)]
 ]
 
@@ -173,11 +188,47 @@ class: left, top
 ]	
 .right-column-fat[
 
-Tissot's Indicatrix
-.width2[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Tissot_world_from_space.png)]
+[Tissot's Indicatrix](https://en.wikipedia.org/wiki/Tissot%27s_indicatrix) (Orthographic, Azimuthal Equidistant, Mercator, Peirce Quincuncial)  
+.width1[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Tissot_world_from_space.png)]
 .width2[![](https://upload.wikimedia.org/wikipedia/commons/8/87/Azimuthal_equidistant_projection_with_Tissot%27s_indicatrix.png)]
 .width2[![](https://upload.wikimedia.org/wikipedia/commons/2/24/Tissot_indicatrix_world_map_Mercator_proj.svg)]
-.width2[![](https://upload.wikimedia.org/wikipedia/commons/3/30/Tissot_indicatrix_world_map_Winkel_Tripel_proj.svg)]
+.width2[![](http://map-projections.net/img/tissot-30-w/gringorten-20w.jpg)]
+]
+
+---
+class: left, top
+                
+.left-column[
+### <mark>Projections</mark>
+### Scale
+### Mapping Data
+]	
+.right-column-fat[
+
+[Tissot's Indicatrix](https://en.wikipedia.org/wiki/Tissot%27s_indicatrix) (Albers)  
+.width1[![](http://map-projections.net/img/tissot-15/albers-equal-area-conic.jpg)]
+]
+
+
+---
+class: left, top
+                
+.left-column[
+### <mark>Projections</mark>
+### Scale
+### Mapping Data
+]	
+.right-column-fat[
+
+### See Also:
+
+[http://demonstrations.wolfram.com/DistortionsInMapProjections/](http://demonstrations.wolfram.com/DistortionsInMapProjections/)
+
+.width3[![]http://imgs.xkcd.com/comics/map_projections.png)]  
+
+[http://xkcd.com/977/](http://xkcd.com/977/)
+
+
 ]
 
 
