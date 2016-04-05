@@ -224,9 +224,161 @@ class: left, top
 
 [http://demonstrations.wolfram.com/DistortionsInMapProjections/](http://demonstrations.wolfram.com/DistortionsInMapProjections/)
 
-.width3[![]http://imgs.xkcd.com/comics/map_projections.png)]  
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Fuller_projection_with_Tissot%27s_indicatrix_of_deformation.png/300px-Fuller_projection_with_Tissot%27s_indicatrix_of_deformation.png)](https://en.wikipedia.org/wiki/Dymaxion_map)
+
+[Wikipedia: Dymaxion Map](https://en.wikipedia.org/wiki/Dymaxion_map)  
+[Interactive Dymaxion Map](http://teczno.com/faumaxion-II/)
+
+.width2[
+[![](http://www.bldgblog.com/wp-content/uploads/2009/12/4179184088_7418626a92_o.jpg)](http://www.bldgblog.com/2009/12/cracking-the-planet/)  
+[Geoff Manaugh: *Cracking the Planet*](http://www.bldgblog.com/2009/12/cracking-the-planet/)
+]
+]
+
+---
+class: left, top
+                
+.left-column[
+### <mark>Projections</mark>
+### Scale
+### Mapping Data
+]	
+.right-column-fat[
+
+### See Also:
+
+.width3[[![](http://imgs.xkcd.com/comics/map_projections.png)](http://xkcd.com/977/)]  
 
 [http://xkcd.com/977/](http://xkcd.com/977/)
+]
+
+---
+class: left, top
+                
+.left-column[
+### Projections
+### <mark>Scale</mark>
+### Mapping Data
+]	
+.right-column-fat[
+
+**For a small area, earth's curvature can be ignored, and a map can use a single scale.**
+
+**For a large area, map projections cause any scale to be variable**
+
+![](https://www.e-education.psu.edu/natureofgeoinfo/sites/www.e-education.psu.edu.natureofgeoinfo/files/image/graphic_scales.gif)
+
+]
+
+---
+class: left, top
+                
+.left-column[
+### Projections
+### <mark>Scale</mark>
+### Mapping Data
+]	
+.right-column-fat[
+
+**Scale is often expressed as a ratio without units**
+
+1:250,000
+
+This concept is borrowed from print, where the dimensions of a printed map are constant.  For screen, since the physical dimensions of the image can vary with the screen, ratio scales are less useful.  Therefore, online, we tend to use graphic scale bars.
+
+]
+
+---
+class: left, top
+                
+.left-column[
+### Projections
+### <mark>Scale</mark>
+### Mapping Data
+]	
+.right-column-fat[
+
+**Content should be appropriate to the scale.**
+
+![](http://cs.joensuu.fi/pages/franti/dynamap/mapscale.gif)
+
+Modern mapping tools can dynamically control what content is visiable at each scale level, automatically.
+
+]
+
+---
+class: left, top
+                
+.left-column[
+### Projections
+### Scale
+### <mark>Mapping Data</mark>
+
+* <mark>Symbol Maps</mark>
+	* Dot Map
+* Continuous Data
+	* Chorodots
+	* Heatmaps
+	* Choropleth
+* Cartograms
+* Flow Maps
+
+]	
+.right-column-fat[
+
+.width1[
+![](GoogleEarth.png)
+]
+]
+
+---
+class: left, top
+                
+.left-column[
+### Projections
+### Scale
+### <mark>Mapping Data</mark>
+
+* Symbol Maps
+	* <mark>Dot Map</mark>
+* Continuous Data
+	* Chorodots
+	* Heatmaps
+	* Choropleth
+* Cartograms
+* Flow Maps
+
+]	
+.right-column-fat[
+
+Dot maps are an extension of scatterplots and bubble charts to maps.
+
+.width2[![](http://personalpages.manchester.ac.uk/staff/m.dodge/cybergeography/atlas/tower_maps_large.gif)]
+.width2[![](http://1.bp.blogspot.com/-QexKECbtQ84/Unf1tVJRLJI/AAAAAAAAi3A/mE3U18inFFU/s523/mapsmania.gif)]
+.width2[![](https://geochristian.files.wordpress.com/2008/11/counties2008nyt3.jpg)]
+.width2[![](http://geographyfieldwork.com/Choropleth2.gif)]
+
+]
+
+---
+class: left, top
+                
+.left-column[
+### Projections
+### Scale
+### <mark>Mapping Data</mark>
+
+* Symbol Maps
+	* Dot Map
+* <mark>Continuous Data</mark>
+	* Heatmaps
+	* Choropleth
+* Cartograms
+* Flow Maps
+
+]	
+.right-column-fat[
+
 
 
 ]
@@ -234,9 +386,7 @@ class: left, top
 
 
 
+	http://earth.nullschool.net/
+	http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized
 
-
-
-
-
-
+]
