@@ -62,7 +62,7 @@ class: left, top
 ### Mapping Data
 ]	
 .right-column-fat[
-.width2[
+.width1[
 ![](http://kartoweb.itc.nl/geometrics/Bitmaps/geographic%20coordinate%20system.gif)  
 ]
 ]
