@@ -420,7 +420,7 @@ class: left, top
 
 * Symbol Maps
 	* Dot Map
-* <mark>Continuous Data</mark>
+* Continuous Data
 	* Heatmaps
 	* Choropleth
 * <mark>Cartograms</mark>
@@ -445,7 +445,7 @@ class: left, top
 
 * Symbol Maps
 	* Dot Map
-* <mark>Continuous Data</mark>
+* Continuous Data
 	* Heatmaps
 	* Choropleth
 * <mark>Cartograms</mark>
@@ -470,7 +470,7 @@ class: left, top
 
 * Symbol Maps
 	* Dot Map
-* <mark>Continuous Data</mark>
+* Continuous Data
 	* Heatmaps
 	* Choropleth
 * Cartograms
