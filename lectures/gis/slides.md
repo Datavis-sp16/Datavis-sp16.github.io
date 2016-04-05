@@ -371,7 +371,7 @@ class: left, top
 * Symbol Maps
 	* Dot Map
 * <mark>Continuous Data</mark>
-	* Heatmaps
+	* <mark>Heatmaps</mark>
 	* Choropleth
 * Cartograms
 * Flow Maps
@@ -379,14 +379,110 @@ class: left, top
 ]	
 .right-column-fat[
 
+.width2[![](http://i.stack.imgur.com/b6GAa.png)]  
 
+.width2[![](http://st1.bgr.in/wp-content/uploads/2014/01/google-maps-heat-map.jpg)]  
+Most photographed areas
+]
+
+---
+class: left, top
+                
+.left-column[
+### Projections
+### Scale
+### <mark>Mapping Data</mark>
+
+* Symbol Maps
+	* Dot Map
+* <mark>Continuous Data</mark>
+	* Heatmaps
+	* <mark>Choropleth</mark>
+* Cartograms
+* Flow Maps
+
+]	
+.right-column-fat[
+
+[https://en.wikipedia.org/wiki/Choropleth_map](https://en.wikipedia.org/wiki/Choropleth_map)
+
+.width1[![](https://upload.wikimedia.org/wikipedia/commons/f/f7/Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_2715_Christianity_Anglican_Persons.svg)]  
 
 ]
 
+---
+class: left, top
+                
+.left-column[
+### Projections
+### Scale
+### <mark>Mapping Data</mark>
 
+* Symbol Maps
+	* Dot Map
+* <mark>Continuous Data</mark>
+	* Heatmaps
+	* Choropleth
+* <mark>Cartograms</mark>
+* Flow Maps
 
+]	
+.right-column-fat[
 
-	http://earth.nullschool.net/
-	http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized
+[https://en.wikipedia.org/wiki/Cartogram](https://en.wikipedia.org/wiki/Cartogram)
+
+.width1[![](http://www.ncgia.ucsb.edu/projects/Cartogram_Central/cartogram_examples/dorling3.jpg)]  
+
+]
+
+---
+class: left, top
+                
+.left-column[
+### Projections
+### Scale
+### <mark>Mapping Data</mark>
+
+* Symbol Maps
+	* Dot Map
+* <mark>Continuous Data</mark>
+	* Heatmaps
+	* Choropleth
+* <mark>Cartograms</mark>
+* Flow Maps
+
+]	
+.right-column-fat[
+
+[https://en.wikipedia.org/wiki/Cartogram](https://en.wikipedia.org/wiki/Cartogram)
+
+.width1[![](https://upload.wikimedia.org/wikipedia/commons/4/47/Cartlinearlarge.png)]  
+
+]
+
+---
+class: left, top
+                
+.left-column[
+### Projections
+### Scale
+### <mark>Mapping Data</mark>
+
+* Symbol Maps
+	* Dot Map
+* <mark>Continuous Data</mark>
+	* Heatmaps
+	* Choropleth
+* Cartograms
+* <mark>Flow Maps</mark>
+
+]	
+.right-column-fat[
+
+Flow maps display flows (vectors fields: direction and magnitude)
+
+[http://earth.nullschool.net/](http://earth.nullschool.net/)
+
+]
 
 ]
