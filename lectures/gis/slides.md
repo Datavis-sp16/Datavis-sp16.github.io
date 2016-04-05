@@ -15,14 +15,17 @@ class: center, middle
 # GIS & Cartography
 
 ---
+class: center, middle  
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/14/HD.6D.635_%2812000265314%29.jpg)
 
 ---  
+class: center, middle  
 background-image: url(http://i.dailymail.co.uk/i/pix/2010/05/05/article-1272921-093BA55C000005DC-175_634x426.jpg)
 
 Henricus Martelus, WORLD MAP, c1490 
 
 ---  
+class: center, middle  
 background-image: url(http://i.dailymail.co.uk/i/pix/2010/05/08/article-1272921-0925FB6A000005DC-478_634x522.jpg)
 
 Charles Booth, DESCRIPTIVE MAP OF LONDON POVERTY, 1889
