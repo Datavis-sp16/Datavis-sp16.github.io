@@ -26,8 +26,7 @@ class: top, left
 
 W.R (Bert) Sutherland, Ph.D. thesis: *The On-line Graphical Specification of Computer Procedures.* MIT, 1966
 
-Above, Sutherland's diagram for calculating a square root.
-
+*Above, Sutherland's diagram for calculating a square root.*
 ---
 class: top, left
 
@@ -38,7 +37,9 @@ class: top, left
 
 [Max (Max/MSP/Jitter)](https://cycling74.com/) - The original.  Everything i/o.  by Miller Puckette.
 
-![](http://users.skynet.be/P-ART/PARADISE/INSTRUM/INSTR4/MAX.jpg)
+![](http://users.skynet.be/P-ART/PARADISE/INSTRUM/INSTR4/MAX.jpg)  
+
+*A Max 1 patch (Late 1980's) used to control a MIDI synthesizer and get note data back from a MIDI controller (keyboard).*
 
 ---
 class: top, left
