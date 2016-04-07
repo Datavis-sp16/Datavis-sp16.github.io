@@ -99,15 +99,13 @@ class: top, left
 ### Demos
 
 
-Max demo (offline)
+**Max demo (offline)**
 
 **VVVV.js demo:**
 
-[lab.vvvv.js](http://lab.vvvvjs.com/index.php) - in browser demos
-
-[vvvv.js help](http://lab.vvvvjs.com/show.php?id=0d0b72ba811ef032a39fd9dcaf4a2d79e3fd794d)
-
-To develop with vvvv.js, you embed vvvv.js in your website to creat a development environment. See [vvvvjs.com](http://vvvvjs.com/) for more info.
+* [lab.vvvv.js](http://lab.vvvvjs.com/index.php) - in browser demos  
+* [vvvv.js help](http://lab.vvvvjs.com/show.php?id=0d0b72ba811ef032a39fd9dcaf4a2d79e3fd794d)  
+* To develop with vvvv.js, you embed vvvv.js in your website to creat a development environment. See [vvvvjs.com](http://vvvvjs.com/) for more info.
 
 
 
