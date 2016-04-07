@@ -39,7 +39,10 @@ class: top, left
 [Max (Max/MSP/Jitter)](https://cycling74.com/) - The original.  Everything i/o.  by Miller Puckette.
 
 ![](http://users.skynet.be/P-ART/PARADISE/INSTRUM/INSTR4/MAX.jpg)
-![](https://i.ytimg.com/vi/ZV6kyNp1Eqo/maxresdefault.jpg)
+
+---
+class: top, left
+background-image: URL(https://i.ytimg.com/vi/ZV6kyNp1Eqo/maxresdefault.jpg)
 
 ---
 class: top, left
