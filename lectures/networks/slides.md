@@ -96,7 +96,7 @@ Many software tools for drawing graphs allow the designer to specify layout meth
 **[Arc diagram](https://en.wikipedia.org/wiki/Arc_diagram)**  
 Nodes are aranged along a single straight line, with edges drawn as semicircles.  Among the possible applications are showing conenctions bewteen nodes on a timeline.  
 
-.width1[![](https://upload.wikimedia.org/wikipedia/commons/8/8d/Goldner-Harary-linear.svg)]
+.width2[![](https://upload.wikimedia.org/wikipedia/commons/8/8d/Goldner-Harary-linear.svg)]
 
 ]
 
@@ -117,12 +117,13 @@ Uses an algorithms to position the nodes of a graph in two-dimensional or three-
 * equalize edge lengths  
 * minimize the number of edge crossings 
 
-The alogorithms work by assigning "forces" to nodes and edges, based on their relative positions, then simulating the physics of their motion of nodes and edges until an optimal layout is reached.
+The algorithms work by assigning "forces" to nodes and edges, based on their relative positions, then simulating the physics of their motion of nodes and edges until an optimal layout is reached.
 
 [https://bl.ocks.org/mbostock/raw/4062045/](https://bl.ocks.org/mbostock/raw/4062045/)
 
-<iframe width="960" height="500" src="https://bl.ocks.org/mbostock/raw/4062045/" frameborder="0"></iframe>
-
 ]
 
+---
+class: center, middle
 
+<iframe width="960" height="500" src="https://bl.ocks.org/mbostock/raw/4062045/" frameborder="0"></iframe>
