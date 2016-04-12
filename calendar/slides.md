@@ -317,6 +317,7 @@ class: left, top
 .left-column-50[
 ###Tu 4/12: Final Project Discussion
  
+[Project Description](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A4.md) 
 
 ]
 
