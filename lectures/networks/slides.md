@@ -152,13 +152,13 @@ Nominal
 
 Quantitative, Nominal or Ordinal data about a node can be encoded in the size, shape, color, etc. of a node, just as in a scatter plot or bubble chart.  Limited only by imagination.  A node could even be a pie chart representing complex data internal to the node...  
 
-.width2[![](http://1.bp.blogspot.com/_JWKxrhMeRdM/S9gI3fATPFI/AAAAAAAAAHw/D5DU9ikd8Zg/s1600/social+network.PNG)]
+.width3[![](http://1.bp.blogspot.com/_JWKxrhMeRdM/S9gI3fATPFI/AAAAAAAAAHw/D5DU9ikd8Zg/s1600/social+network.PNG)]
 
-.width2[![](http://dnet.r-forge.r-project.org/visDAG-4.png)]
+.width3[![](http://dnet.r-forge.r-project.org/visDAG-4.png)]
 
-.width2[![](http://rich-iannone.github.io/DiagrammeR/img/graph-functions/LETTERS_example.png)]
+.width3[![](http://rich-iannone.github.io/DiagrammeR/img/graph-functions/LETTERS_example.png)]
 
-.width2[![](http://i.stack.imgur.com/Er2rX.png)]
+.width3[![](http://i.stack.imgur.com/Er2rX.png)]
 
 ]
 
