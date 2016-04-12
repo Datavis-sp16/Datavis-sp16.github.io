@@ -172,21 +172,157 @@ Color Scales with Chroma.js](https://vis4.net/blog/posts/mastering-multi-hued-co
 name: w8
 class: left, top
 
-**Week 7**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/) |  [Assignment #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md) (due 3/21)
+**Week 8**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15) | [home](http://datavis-sp16.github.io/) |  [Assignment #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md) (due 3/21)
   
 
 
 .left-column-50[
-###Tu 3/3: Grammar of Graphics / Software    
+###Tu 3/1: Grammar of Graphics / Software    
 
 Continued from last class.
 
 ]
 
 .right-column-50[
-###Th 3/5: Grammar of Graphics / Software 
+###Th 3/3: Grammar of Graphics / Software 
 
 [Assignment #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md)  
 Due 3/21  
 Critique 3/22
 ]
+
+---
+name: w9
+class: left, top
+
+**Week 9**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
+[Assignment #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md) due 3/21 (Critique 3/22)
+
+
+.left-column-50[
+###Tu 3/15: Group Work    
+
+
+
+]
+
+.right-column-50[
+###Th 3/17: Group Work 
+
+
+]
+
+---
+name: w9
+class: left, top
+
+**Week 9**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
+[Assignment #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md) due 3/21 (Critique 3/22)
+
+
+.left-column-50[
+###Tu 3/15: Group Work    
+
+
+
+]
+
+.right-column-50[
+###Th 3/17: Group Work 
+
+
+]
+
+---
+name: w10
+class: left, top
+
+**Week 10**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
+[Assignment #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md) due 3/21 (Critique 3/22)
+
+
+.left-column-50[
+###Tu 3/22: Critiques    
+
+]
+
+.right-column-50[
+###Th 3/24: Critiques, continued 
+
+]
+
+---
+name: w11
+class: left, top
+
+**Week 11**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
+
+.left-column-50[
+###Tu 3/29: Introduction to Cartography 
+
+]
+
+.right-column-50[
+###Th 3/31: VVOX Labs 
+
+Meet at Georgia Museum of Art
+
+]
+
+---
+name: w11
+class: left, top
+
+**Week 11**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
+
+.left-column-50[
+###Tu 3/29: Introduction to Cartography 
+[Slides](../lectures/gis) 
+
+]
+
+.right-column-50[
+###Th 3/31: VVOX Labs 
+
+9:30 Gallery talk, Georgia Museum of Art
+5:00 Public Lecture, Georgia Museum of Art
+6:00 Opening of "Refining Realities"
+
+]
+
+---
+name: w12
+class: left, top
+
+**Week 12**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
+
+.left-column-50[
+###Tu 4/5: Introduction to GIS 
+[Slides](../lectures/gis) 
+
+]
+
+.right-column-50[
+###Th 4/7: Visual Programming (Node Based Programming) 
+[Slides](../lectures/visualprogramming) 
+
+]
+
+---
+name: w13
+class: left, top
+
+**Week 13**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
+
+.left-column-50[
+###Tu 4/12: ?? 
+ 
+
+]
+
+.right-column-50[
+###Th 4/14: Vizualizing Networks 
+
+
+]
+
