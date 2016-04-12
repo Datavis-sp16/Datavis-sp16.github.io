@@ -21,6 +21,21 @@ class: left, top
                 
 .left-column[
 ### Graph Theory
+
+The term **"Graph"** is used to mean a graphic representation of a network as a system of nodes (vertices) and edges (lines connecting nodes).  The term refers to [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory) 
+
+]	
+.right-column-fat[
+
+.width1[![](g1.svg)]
+
+]
+
+---
+class: left, top
+                
+.left-column[
+### Graph Theory
 ]	
 .right-column-fat[
 
