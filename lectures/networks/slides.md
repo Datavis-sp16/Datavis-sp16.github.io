@@ -22,7 +22,7 @@ class: left, top
 .left-column[
 ### Graph Theory
 
-The term **"Graph"** is used to mean a graphic representation of a network as a system of nodes (vertices) and edges (lines connecting nodes).  The term refers to [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory) 
+The term **"Graph"** is used to mean a graphic representation of a network as a system of nodes (vertices) and edges (lines connecting nodes).  The term refers to [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory).
 
 ]	
 .right-column-fat[
@@ -39,9 +39,9 @@ class: left, top
 ]	
 .right-column-fat[
 
-The term **"Graph"** is used to mean a graphic representation of a network as a system of nodes (vertices) and edges (lines connecting nodes).  The term refers to [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory) 
+In graph theory, the layout of a graph (i.e. the positions of the vertices, and the lengths and angles of the edges) generally are not meaningful.  Graphs that differ only in their layout are considered "
 
-.width1[![](g1.svg)]
+.width1[![](g2.svg)]
 
 ]
 
