@@ -333,8 +333,6 @@ Heirarchies:
 * Sunburst Partition
 * Circle Packing
 
-Networks:
-
 * Node-Link Tree
 * Force-Directed Graph
 * Collapsible Force Layout
