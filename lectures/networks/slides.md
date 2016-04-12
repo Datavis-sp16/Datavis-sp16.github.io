@@ -26,7 +26,6 @@ The term **"Graph"** is used to mean a graphic representation of a network as a 
 
 ]	
 .right-column-fat[
-
 .width1[![](g1.svg)]
 
 ]
@@ -36,11 +35,11 @@ class: left, top
                 
 .left-column[
 ### Graph Theory
-]	
-.right-column-fat[
 
 In graph theory, the layout of a graph (i.e. the positions of the vertices, and the lengths and angles of the edges) generally are not meaningful.  Graphs that differ only in their layout are considered "
 
+]	
+.right-column-fat[
 .width1[![](g2.svg)]
 
 ]
