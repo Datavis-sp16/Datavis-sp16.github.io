@@ -315,14 +315,34 @@ class: left, top
 **Week 13**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
 
 .left-column-50[
-###Tu 4/12: ?? 
+###Tu 4/12: Final Project Discussion
  
 
 ]
 
 .right-column-50[
-###Th 4/14: Vizualizing Networks 
+###Th 4/14: Visualizing Networks 
 
+Examples to consult in advance from the [D3 Gallery](https://github.com/mbostock/d3/wiki/Gallery):  
+
+Heirarchies:  
+
+* Treemap
+* Collapsible Tree Layout
+* Sunburst Partition
+* Circle Packing
+
+Networks:
+
+* Node-Link Tree
+* Force-Directed Graph
+* Collapsible Force Layout
+* Dendrogram
+* Chord Diagram
+* Non-contiguous Cartogram
+* Hierarchical Edge Bundling
+* Hive Plots
+* Sankey Diagrams
 
 ]
 
