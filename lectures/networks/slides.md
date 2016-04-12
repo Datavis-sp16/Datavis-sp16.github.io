@@ -119,11 +119,10 @@ Uses an algorithms to position the nodes of a graph in two-dimensional or three-
 
 The algorithms work by assigning "forces" to nodes and edges, based on their relative positions, then simulating the physics of their motion of nodes and edges until an optimal layout is reached.
 
+.width2[![](http://i.stack.imgur.com/qVAx8.gif)]
+
 [https://bl.ocks.org/mbostock/raw/4062045/](https://bl.ocks.org/mbostock/raw/4062045/)
 
 ]
 
----
-class: center, middle
 
-<iframe width="960" height="500" src="https://bl.ocks.org/mbostock/raw/4062045/" frameborder="0"></iframe>
