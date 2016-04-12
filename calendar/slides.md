@@ -326,13 +326,9 @@ class: left, top
 
 Examples to consult in advance from the [D3 Gallery](https://github.com/mbostock/d3/wiki/Gallery):  
 
-Heirarchies:  
-
-* Treemap
-* Collapsible Tree Layout
+* Treemap; Collapsible Tree Layout
 * Sunburst Partition
 * Circle Packing
-
 * Node-Link Tree
 * Force-Directed Graph
 * Collapsible Force Layout
