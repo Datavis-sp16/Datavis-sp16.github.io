@@ -155,7 +155,7 @@ Quantitative, Nominal or Ordinal data about a node can be encoded in the size, s
 .width3[![](http://1.bp.blogspot.com/_JWKxrhMeRdM/S9gI3fATPFI/AAAAAAAAAHw/D5DU9ikd8Zg/s1600/social+network.PNG)]
 
 .width3[![](http://dnet.r-forge.r-project.org/visDAG-4.png)]
-
+<br><br>
 .width3[![](http://rich-iannone.github.io/DiagrammeR/img/graph-functions/LETTERS_example.png)]
 
 .width3[![](http://i.stack.imgur.com/Er2rX.png)]
