@@ -26,7 +26,7 @@ class: left, top
 
 The term **"Graph"** is used to mean a graphic representation of a network as a system of nodes (vertices) and edges (lines connecting nodes).  The term refers to [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory) 
 
-![](g1.svg)
+.width1[![](g1.svg)]
 
 ]
 
