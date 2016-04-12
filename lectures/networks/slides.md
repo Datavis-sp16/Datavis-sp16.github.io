@@ -126,3 +126,67 @@ The algorithms work by assigning "forces" to nodes and edges, based on their rel
 ]
 
 
+---
+class: left, top
+                
+.left-column[
+### Encoding additional information
+
+In addition to the basic structure of a graph (which nodes are connected to which other nodes), a graph may encode additional data about the nodes or about the connections.
+
+<mark>**Nodes**</mark>
+
+Quantitative
+Nominal (category)
+Ordinal (order or rank)
+etc.
+
+**Edges**
+
+Directed/Undirected  
+Weighted (Quantitative or ordinal)  
+Nominal  
+
+]	
+.right-column-fat[
+
+Quantitative, Nominal or Ordinal data about a node can be encoded in the size, shape, color, etc. of a node, just as in a scatter plot or bubble chart.  Limited only by imagination.  A node could even be a pie chart representing complex data internal to the node...  
+
+.width2[![](http://1.bp.blogspot.com/_JWKxrhMeRdM/S9gI3fATPFI/AAAAAAAAAHw/D5DU9ikd8Zg/s1600/social+network.PNG)]
+
+.width2[![](http://dnet.r-forge.r-project.org/visDAG-4.png)]
+
+.width2[![](http://rich-iannone.github.io/DiagrammeR/img/graph-functions/LETTERS_example.png)]
+
+.width2[![](http://i.stack.imgur.com/Er2rX.png)]
+
+]
+
+---
+class: left, top
+                
+.left-column[
+### Encoding additional information
+
+In addition to the basic structure of a graph (which nodes are connected to which other nodes), a graph may encode additional data about the nodes or about the connections.
+
+**Nodes**
+
+Quantitative
+Nominal (category)
+Ordinal (order or rank)
+etc.
+
+<mark>**Edges**</mark>
+
+Directed/Undirected  
+Weighted (Quantitative or ordinal)  
+Nominal  
+
+]	
+.right-column-fat[
+
+Edges may be undirected (showing only which nodes are connected) or "directed," with arrows indicating the direction of the connection. 
+
+]
+
