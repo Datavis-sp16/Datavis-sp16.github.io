@@ -186,7 +186,83 @@ Nominal
 ]	
 .right-column-fat[
 
-Edges may be undirected (showing only which nodes are connected) or "directed," with arrows indicating the direction of the connection. 
+Edges may be undirected (showing only which nodes are connected) or [directed](https://en.wikipedia.org/wiki/Directed_graph), with the direction of the connection encoded as arrows, color. etc..
+
+.width1[![](g3.svg)] 
 
 ]
 
+---
+class: left, top
+                
+.left-column[
+### Encoding additional information
+
+In addition to the basic structure of a graph (which nodes are connected to which other nodes), a graph may encode additional data about the nodes or about the connections.
+
+**Nodes**
+
+Quantitative
+Nominal (category)
+Ordinal (order or rank)
+etc.
+
+<mark>**Edges**</mark>
+
+Directed/Undirected  
+Weighted (Quantitative or ordinal)  
+Nominal  
+
+]	
+.right-column-fat[
+
+Edges may be [weighted](https://en.wikipedia.org/wiki/Directed_graph), showing the strength or magnitude of each connection, with weight encoded as stroke width, color, etc.
+
+.width1[![](g4.svg)] 
+
+]
+
+Edges can encode nominal data as well, using color, stroke style, etc.
+
+---
+class: left, top
+                
+.left-column[
+### Data
+]
+
+.right-column-fat[
+
+Data for a network graph is stored in two data tables: one for nodes, and one for edges.  A minimal graph (unweighted, undireted) has simple data tables simply listing nodes and listing connections (as pairs of nodes):
+
+Nodes  
+a  	
+b  
+c  
+d  
+
+Edges  
+a b  
+a c  
+b c  
+c d  
+]
+
+---
+class: left, top
+                
+.left-column[
+### Data
+]
+
+.right-column-fat[
+
+Additional data about the nodes or edges are stored in the same tables.  Here is example data for the ocean-atmosphere carbon cycle:
+
+Nodes  
+
+![](stocks.png)
+
+Edges
+
+![](flux.png)
