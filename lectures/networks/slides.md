@@ -220,9 +220,9 @@ Edges may be [weighted](https://en.wikipedia.org/wiki/Directed_graph), showing t
 
 .width1[![](g4.svg)] 
 
-]
-
 Edges can encode nominal data as well, using color, stroke style, etc.
+
+]
 
 ---
 class: left, top
@@ -266,3 +266,46 @@ Nodes
 Edges
 
 ![](flux.png)
+
+]
+
+---
+class: left, top
+                
+.left-column[
+### Tools
+]
+
+.right-column-fat[
+
+Software tools for making graphs are numerous.  Some are built in to general datavis tols, like D3 and Vega.  Others are standalone applications or libraries.  Asside from the D3 and Vega implementations, here are just a few others: 
+
+**Applications**
+
+* [Gephi](gephi.org)  
+* [Cytoscape](http://cytoscape.org/)
+
+Both Gephi and Cytoscale are powerful, producing highly customizable graphs.  
+
+**Libraries**
+
+[cytoscape.js](http://js.cytoscape.org/) is a JavaScript implementation of cytoscape.  Very powerful and realtively easy to use; Declarative, using json format.  Requires little knowledge of Javascript.  
+
+[igraph](http://igraph.org/) is a library for R, python or C.  Also declarative, powerful and fairly easy.
+
+**Workflow**
+
+Most graph drawing tools will not offer all the features you might want.  For a simple graph with a static layout and not too many nodes, you can do the initial encoding, layout and styling in an application or library, then export to SVG for further work in Illustrator or other vector drawing program.  For complex graphs with hundreds of nodes, however, you have to do your best with the graph applications and libraries.
+
+]
+
+---
+class: center, middle
+                
+### Carbon Cycle figure
+
+(offline)
+
+### Cytoscape.js demo
+
+(offline)
