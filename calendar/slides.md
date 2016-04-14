@@ -323,9 +323,11 @@ class: left, top
 
 .right-column-50[
 ###Th 4/14: Visualizing Networks 
+[Slides](../lectures/networks) 
 
 Examples to consult in advance from the [D3 Gallery](https://github.com/mbostock/d3/wiki/Gallery):  
 
+<small>
 * Treemap; Collapsible Tree Layout
 * Sunburst Partition
 * Circle Packing
@@ -338,6 +340,6 @@ Examples to consult in advance from the [D3 Gallery](https://github.com/mbostock
 * Hierarchical Edge Bundling
 * Hive Plots
 * Sankey Diagrams
-
+</small>
 ]
 
