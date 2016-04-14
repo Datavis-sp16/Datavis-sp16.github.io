@@ -292,6 +292,16 @@ Both Gephi and Cytoscale are powerful, producing highly customizable graphs.
 [cytoscape.js](http://js.cytoscape.org/) is a JavaScript implementation of cytoscape.  Very powerful and realtively easy to use; Declarative, using json format.  Requires little knowledge of Javascript.  
 
 [igraph](http://igraph.org/) is a library for R, python or C.  Also declarative, powerful and fairly easy.
+]
+
+---
+class: left, top
+                
+.left-column[
+### Tools
+]
+
+.right-column-fat[
 
 **Workflow**
 
