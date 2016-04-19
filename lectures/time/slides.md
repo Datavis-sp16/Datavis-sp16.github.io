@@ -20,8 +20,7 @@ class: top, left
 ### Temporal Design  
 
 * <mark>Spatial Mappings for Time</mark>  
-* Spatial Metaphors for Time  
-* Cyclical Concepts of Time  
+* Metaphors for Time  
 * Graphic Scores
 
 ]	
@@ -47,8 +46,7 @@ class: top, left
 ### Temporal Design  
 
 * Spatial Mappings for Time  
-* <mark>Spatial Metaphors for Time</mark>  
-* Cyclical Concepts of Time  
+* <mark>Metaphors for Time</mark>  
 * Graphic Scores
 
 ]	
@@ -73,8 +71,7 @@ class: top, left
 ### Temporal Design  
 
 * Spatial Mappings for Time  
-* <mark>Spatial Metaphors for Time</mark>  
-* Cyclical Concepts of Time  
+* <mark>Metaphors for Time</mark>  
 * Graphic Scores
 
 ]	
@@ -102,8 +99,7 @@ class: top, left
 ### Temporal Design  
 
 * Spatial Mappings for Time  
-* <mark>Spatial Metaphors for Time</mark>  
-* Cyclical Concepts of Time  
+* <mark>Metaphors for Time</mark>  
 * Graphic Scores
 
 ]	
@@ -113,15 +109,15 @@ class: top, left
 ### Geographical spatial metaphors for time from non-western cultures:
 **Pormpuraawan** 
 
-* future = West  
 * past = East  
+* future = West  
 
 For the Pormpuraawans in Autralia, the past is in the east and the future is in the west, following the path of the sun.
 
 **Yupno**
 
+* past = downhill  
 * future = uphill  
-* past = downhill
 
 For the Yupno people of Papua New Guinea, the past is downhill, and the future is uphill, perhaps reflecting ancestral migrations from the coastal lowlands up the mountain valleys.  
 
@@ -129,11 +125,14 @@ For the Yupno people of Papua New Guinea, the past is downhill, and the future i
 
 ]
 
+---
+class: top, left
+
+.left-column[
 ### Temporal Design  
 
 * Spatial Mappings for Time  
-* <mark>Spatial Metaphors for Time</mark>  
-* Cyclical Concepts of Time  
+* <mark>Metaphors for Time</mark>  
 * Graphic Scores
 
 ]	
@@ -143,8 +142,8 @@ For the Yupno people of Papua New Guinea, the past is downhill, and the future i
 ### Geographical spatial metaphors for time from non-western cultures:
 **Yupno**
 
+* past = downhill  
 * future = uphill  
-* past = downhill
 
 Gestures used when speaking reflect this internal metaphor. Speakers always gesture downhill when talking about the past, and uphill when talking about the future.
 
@@ -154,4 +153,54 @@ Inside a Yupno house, which is raised above the ground, speakers always point to
 
 <small>Reference: [Kambiz Kamrani: *The Uphill Climb of Time for the Yupno of Papua New Guinea*](https://anthropology.net/2012/06/01/the-uphill-climb-of-time-for-the-yupno-of-papua-new-guinea/)</small>
 ]
+
+---
+class: top, left
+
+.left-column[
+### Temporal Design  
+
+* Spatial Mappings for Time  
+* <mark>Metaphors for Time</mark>  
+* Graphic Scores
+
+]	
+
+.right-column-fat[
+
+### Alternate spatial metaphors for time in western culture:
+
+* past = left  
+* future = right  
+
+Westerners often conceive of time as flowing left to right, influenced by the left-to-right writing and reading.  This is the norm in most visualizations using time.
+
+* past = top  
+* future = bottom  
+
+.width2[![](august-2015-calendar-page.jpg)]  
+
+*A combination of top-to-bottom, left-to-right, and cyclical meaphors.*
+
+* past = bottom  
+* future = top  
+
+.width2[![](02-pyramid.png)]
+
+---
+class: top, left
+
+.left-column[
+### Temporal Design  
+
+* Spatial Mappings for Time  
+* <mark>Metaphors for Time</mark>  
+* Graphic Scores
+
+]	
+
+.right-column-fat[
+
+### Cyclical concepts of time:
+
 
