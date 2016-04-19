@@ -83,7 +83,9 @@ class: left, top
 * future = behind  
 * past = in front
 
-The Aymara people of the Andes think of the past as in front (because it can be seen), while the future is not see-able, therefore behind.  
+The Aymara people of the Andes think of the past as in front (because it can be seen), while the future is not see-able, therefore behind.  
+
+
 **Mandarin**  
 
 * future = below  
