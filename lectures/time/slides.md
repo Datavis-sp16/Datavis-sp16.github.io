@@ -62,7 +62,6 @@ Most common metaphor for time in Western culture:
 * past = behind  
 
 This is reflected in our Western languages, in phrase like, “Your future lies ahead of you,” as well as in our non-verbal gestures. This may seem counter-intuitive, but time flowing forward is not a universal concept.  Time flowing forward was once thought by Western thinkers to be universal, an example of "[embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition)," that is a mental process determined by the form of the human body.  It is now understood to be cultural.
-
 ]
 
 ---
