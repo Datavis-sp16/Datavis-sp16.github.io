@@ -135,10 +135,9 @@ class: left, top
 * past = downhill  
 * future = uphill  
 
-For the Yupno people of Papua New Guinea, the past is downhill, and the future is uphill, perhaps reflecting ancestral migrations from the coastal lowlands up the mountain valleys.  
-
 ![](00-yupno-river-timeline.jpg)
 
+For the Yupno people of Papua New Guinea, the past is downhill, and the future is uphill, perhaps reflecting ancestral migrations from the coastal lowlands up the mountain valleys.  
 ]
 
 ---
@@ -195,8 +194,23 @@ Westerners often conceive of time as flowing left to right, influenced by the le
 * future = bottom  
 
 .width2[![](august-2015-calendar-page.jpg)]  
-
 *A combination of top-to-bottom, left-to-right, and cyclical meaphors.*
+]
+---
+class: left, top
+                
+.left-column[
+### Temporal Design  
+
+* Spatial Mappings for Time  
+* <mark>Metaphors for Time</mark>  
+* Graphic Scores
+
+]	
+
+.right-column-fat[
+
+### Alternate spatial metaphors for time in western culture:
 
 * past = bottom  
 * future = top  
