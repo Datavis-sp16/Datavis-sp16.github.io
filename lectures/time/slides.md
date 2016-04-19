@@ -399,7 +399,7 @@ class: center, top
 
 ### Non-linearity in data visualization
 
-[linear zooming timeline (interacrive example)](http://moebio.com/santiago/microcosmosagaia/tiempo/linea1.html)
+[linear zooming timeline (interactive example)](http://moebio.com/santiago/microcosmosagaia/tiempo/linea1.html)
 
 [sprial zooming timeline (interactive example)](http://moebio.com/santiago/microcosmosagaia/tiempo/espiral2.html)
 
