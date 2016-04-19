@@ -350,7 +350,7 @@ class: left, top
 * Repetition creates continuity “follow” the composition and make sense of it.  * Irregularity creates a sense of confusion, a sense of being lost. *Note: PERFECT REGULARITY creates a sense of mechanical artificiality, monotony, and unnaturalness. While we can be strongly attracted to repetitive patterns, we are often repelled by patterns that are perfectly regular.*]
 
 ---
-class: left, bottom
+class: center, bottom
 background-image: url(03-Ligeti-Arikulation.jpg)
 
 <small>Gyorgy Ligeti's *Artikulation* (1958). Visual listening score by Rainer Wehinger.</small>
@@ -362,7 +362,7 @@ class: center, middle
 
 
 ---
-class: left, bottom  
+class: center, bottom  
 background-image: url(04-stripsody.jpg)
 
 <small>Cathy Berberian's *Stripsody* (1966).  Performance score.</small>
@@ -382,5 +382,12 @@ background-image: url(05-RunLolaRun.png)
 class: left, bottom    
 background-image: url(06-RunLolaRun.png)
 
-<small>Meenakshi Borgohain: Graphic representation of *Run Lola Run* (Tom Tykwer, 1998 German). Project @ SAIC directed by Lu Jingren. More graphic scores for *Run Lola Run* [here](https://www.behance.net/gallery/549882/Run-Lola-Run) and [here](https://www.behance.net/gallery/451813/Run-Lola-Run-Visualization)</small>
+<small>Meenakshi Borgohain:  
+Graphic representation of  
+*Run Lola Run*  
+(Tom Tykwer, 1998 German).  
+Project @ SAIC directed by Lu Jingren.  
+More graphic scores  
+for *Run Lola Run*  
+[here](https://www.behance.net/gallery/549882/Run-Lola-Run) and [here](https://www.behance.net/gallery/451813/Run-Lola-Run-Visualization)</small>
 ]
