@@ -269,9 +269,8 @@ class: left, top
 
 **Balinese Wuku Calendar**
 
+.width2[![](02.5-BaliCal.jpg) ] 
 Balinese wall calendars display the complex of Pawukon day names along with months, day numbers and lunar phases from the lunar “Saka” calendar, Bali’s other main calendar, as well as Indonesian holidays and important days from various religions.
-
-.width2[![](02.5-BaliCal.jpg)]
 In Bali, time cycles are seen as hierarchical, embedded, extending from the very largest ceremonial cycle of 7 years down through the Pawukon to the shortest cycles in a musical composition.  
 
 In the 210 day Wuku calendar, cycles are marked but not counted.  Time simply flows around in circles. Crucially, the concept of beginning and end are not strong. Pieces of music don’t really begin or end, but rather come into alignment with a cycle.
