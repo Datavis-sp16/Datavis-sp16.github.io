@@ -328,6 +328,7 @@ Time-dependent variables:
 These could be mapped to y position, stroke, color, texture, shape, etc.
 
 This method has been used by composers of electroacoustic music and sound designers, who often prepare a graphic score to aid in designing the form of the work. It can be used in conjunction with story boarding to clarify or design the form of a time-based work.  It can also be used to analyze existing works to derive insights about their temporal design.
+]
 
 ---
 class: left, top
