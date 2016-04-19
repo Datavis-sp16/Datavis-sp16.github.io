@@ -13,9 +13,9 @@ class: center, middle
 
 # Time
 
---- 
-class: top, left
-
+---
+class: left, top
+                
 .left-column[
 ### Temporal Design  
 
