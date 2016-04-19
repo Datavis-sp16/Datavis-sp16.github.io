@@ -137,7 +137,7 @@ class: left, top
 
 ![](00-yupno-river-timeline.jpg)
 
-For the Yupno people of Papua New Guinea, the past is downhill, and the future is uphill, perhaps reflecting ancestral migrations from the coastal lowlands up the mountain valleys.  
+For the Yupno of Papua New Guinea, past is downhill, and future is uphill, perhaps reflecting ancestral migrations from coastal lowlands up mountain valleys.  
 ]
 
 ---
@@ -391,3 +391,18 @@ More graphic scores
 for *Run Lola Run*  
 [here](https://www.behance.net/gallery/549882/Run-Lola-Run), [here](https://www.behance.net/gallery/32095429/Run-Lola-Run-Infographic) and [here](https://www.behance.net/gallery/24181693/Run-Lola-Run)</small>
 ]
+
+---
+class: center, top
+
+## Spotlight on Santiago Ortiz
+
+### Non-linearity in data visualization
+
+[linear zooming timeline (interacrive example)](http://moebio.com/santiago/microcosmosagaia/tiempo/linea1.html)
+
+[sprial zooming timeline (interactive example)](http://moebio.com/santiago/microcosmosagaia/tiempo/espiral2.html)
+
+Conference talk: ["Explorations of a New Language: Beyond Linearity"](https://vimeo.com/88326173). [*Visualized*](http://visualized.com/), Feb 2014 New York
+
+Conference talk: ["Information Visualization Creativity"](https://www.youtube.com/watch?v=EzDaNJZIVJA). [*OpenVis Conf*](https://openvisconf.com/), 2013.
