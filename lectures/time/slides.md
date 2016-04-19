@@ -406,3 +406,5 @@ class: center, top
 Conference talk: ["Explorations of a New Language: Beyond Linearity"](https://vimeo.com/88326173). [*Visualized*](http://visualized.com/), Feb 2014 New York
 
 Conference talk: ["Information Visualization Creativity"](https://www.youtube.com/watch?v=EzDaNJZIVJA). [*OpenVis Conf*](https://openvisconf.com/), 2013.
+
+Moebio labs: [moebio.com](http://moebio.com)
