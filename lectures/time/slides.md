@@ -389,5 +389,5 @@ Graphic representation of
 Project @ SAIC directed by Lu Jingren.  
 More graphic scores  
 for *Run Lola Run*  
-[here](https://www.behance.net/gallery/549882/Run-Lola-Run) and [here](https://www.behance.net/gallery/451813/Run-Lola-Run-Visualization)</small>
+[here](https://www.behance.net/gallery/549882/Run-Lola-Run), [here](https://www.behance.net/gallery/32095429/Run-Lola-Run-Infographic) and [here](https://www.behance.net/gallery/24181693/Run-Lola-Run)</small>
 ]
