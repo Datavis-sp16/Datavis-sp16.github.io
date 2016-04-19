@@ -13,7 +13,7 @@ class: center, middle
 
 # Time
 
----
+--- 
 class: top, left
 
 .left-column[
@@ -73,11 +73,9 @@ class: top, left
 * Spatial Mappings for Time  
 * <mark>Metaphors for Time</mark>  
 * Graphic Scores
-
 ]	
 
 .right-column-fat[
-
 ### Body-centric spatial metaphors for time from non-western cultures:
 
 **Aymara**
@@ -90,7 +88,6 @@ The Aymara people of the Andes think of the past as in front (because it can be 
 
 * future = below  
 * past = above
-
 ]
 ---
 class: top, left
