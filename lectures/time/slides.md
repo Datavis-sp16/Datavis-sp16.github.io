@@ -113,8 +113,24 @@ class: left, top
 * future = West  
 
 For the Pormpuraawans in Autralia, the past is in the east and the future is in the west, following the path of the sun.
+]
 
-**Yupno**
+---
+class: left, top
+                
+.left-column[
+### Temporal Design  
+
+* Spatial Mappings for Time  
+* <mark>Metaphors for Time</mark>  
+* Graphic Scores
+
+]	
+
+.right-column-fat[
+
+### Geographical spatial metaphors for time from non-western cultures:
+**Yupno**
 
 * past = downhill  
 * future = uphill  
