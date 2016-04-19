@@ -88,8 +88,10 @@ The Aymara people of the Andes think of the past as in front (because it can be 
 
 * future = below  
 * past = above
+
 ]
----
+
+---
 class: left, top
                 
 .left-column[
