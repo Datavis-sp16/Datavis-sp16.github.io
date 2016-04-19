@@ -183,6 +183,7 @@ Westerners often conceive of time as flowing left to right, influenced by the le
 * future = top  
 
 .width2[![](02-pyramid.png)]
+]
 
 ---
 class: top, left
