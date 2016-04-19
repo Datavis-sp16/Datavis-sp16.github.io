@@ -36,13 +36,13 @@ It is probably easiest to think of time as the horizontal dimension, (map time t
 ]
 
 ---
-class: top, left
+class: left, top  
 background-image: url(http://i.imgur.com/ycJetYr.png)
 
 
 ---
-class: top, left
-
+class: left, top
+                
 .left-column[
 ### Temporal Design  
 
@@ -65,8 +65,8 @@ This is reflected in our Western languages, in phrase like, “Your future lies 
 ]
 
 ---
-class: top, left
-
+class: left, top
+                
 .left-column[
 ### Temporal Design  
 
@@ -90,8 +90,8 @@ The Aymara people of the Andes think of the past as in front (because it can be 
 * past = above
 ]
 ---
-class: top, left
-
+class: left, top
+                
 .left-column[
 ### Temporal Design  
 
@@ -123,8 +123,8 @@ For the Yupno people of Papua New Guinea, the past is downhill, and the future i
 ]
 
 ---
-class: top, left
-
+class: left, top
+                
 .left-column[
 ### Temporal Design  
 
@@ -152,8 +152,8 @@ Inside a Yupno house, which is raised above the ground, speakers always point to
 ]
 
 ---
-class: top, left
-
+class: left, top
+                
 .left-column[
 ### Temporal Design  
 
@@ -186,8 +186,8 @@ Westerners often conceive of time as flowing left to right, influenced by the le
 ]
 
 ---
-class: top, left
-
+class: left, top
+                
 .left-column[
 ### Temporal Design  
 
@@ -214,13 +214,13 @@ The Balinese “Pawukon” or “[Wuku](http://en.wikipedia.org/wiki/Pawukon_cal
 ]
 
 ---
-class: top, left
+class: left, top  
 background-image: url(02.4-Wuku.gif)
 
 
 ---
-class: top, left
-
+class: left, top
+                
 .left-column[
 ### Temporal Design  
 
@@ -246,8 +246,8 @@ In the 210 day Wuku calendar, cycles are marked but not counted.  Time simply fl
 ]
 
 ---
-class: top, left
-
+class: left, top
+                
 .left-column[
 ### Temporal Design  
 
@@ -270,8 +270,8 @@ Time-series charts show time on one axis and map time-dependent variables to the
 ]
 
 ---
-class: top, left
-
+class: left, top
+                
 .left-column[
 ### Temporal Design  
 
@@ -298,8 +298,8 @@ These could be mapped to y position, stroke, color, texture, shape, etc.
 This method has been used by composers of electroacoustic music and sound designers, who often prepare a graphic score to aid in designing the form of the work. It can be used in conjunction with story boarding to clarify or design the form of a time-based work.  It can also be used to analyze existing works to derive insights about their temporal design.
 
 ---
-class: top, left
-
+class: left, top
+                
 .left-column[
 ### Temporal Design  
 
@@ -317,7 +317,7 @@ class: top, left
 * Repetition creates continuity “follow” the composition and make sense of it.  * Irregularity creates a sense of confusion, a sense of being lost. *Note: PERFECT REGULARITY creates a sense of mechanical artificiality, monotony, and unnaturalness. While we can be strongly attracted to repetitive patterns, we are often repelled by patterns that are perfectly regular.*]
 
 ---
-class: bottom, left
+class: left, bottom
 background-image: url(03-Ligeti-Arikulation.jpg)
 
 <small>Gyorgy Ligeti's *Artikulation* (1958). Visual listening score by Rainer Wehinger.</small>
@@ -329,7 +329,7 @@ class: center, middle
 
 
 ---
-class: bottom, left
+class: left, bottom  
 background-image: url(04-stripsody.jpg)
 
 <small>Cathy Berberian's *Stripsody* (1966).  Performance score.</small>
@@ -340,13 +340,13 @@ class: center, middle
 [Stripsody (video)](http://www.youtube.com/watch?v=0dNLAhL46xM)
 
 ---
-class: bottom, left
+class: left, bottom    
 background-image: url(05-RunLolaRun.png)
 
 <small>Meenakshi Borgohain: Graphic representation of *Run Lola Run* (Tom Tykwer, 1998 German). Project @ SAIC directed by Lu Jingren</small>
 
 ---
-class: bottom, left
+class: left, bottom    
 background-image: url(06-RunLolaRun.png)
 
 <small>Meenakshi Borgohain: Graphic representation of *Run Lola Run* (Tom Tykwer, 1998 German). Project @ SAIC directed by Lu Jingren. More graphic scores for *Run Lola Run* [here](https://www.behance.net/gallery/549882/Run-Lola-Run) and [here](https://www.behance.net/gallery/451813/Run-Lola-Run-Visualization)</small>
