@@ -1,14 +1,11 @@
-name: start
-class: center, middle
-background-image: url()
+name: start  
+class: center, middle  
+background-image: url(biomass_fig_1d_v3.png)
 
-# What are the Challenges?
+# What challenges doe sthe Ocean face?
 
 ---
-
-# Sea Level Rise!
-
-
+## Sea Level Rise!
 
 <iframe src="https://player.vimeo.com/video/137262980" width="640" height="360" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -19,7 +16,8 @@ Sea level rise tool
 
 1000 years
 
-# Plastic
+---
+## Plastic
 
 Plastic particles simulation
 
@@ -34,22 +32,21 @@ Where does it go?
 * the garbage patches and gyres
 	picture: olympics
 
-# Ocean Warming
+## Ocean Warming
 
-# Ocean Acidification
+## Ocean Acidification
 
 Shell + vinegar
 
 shell vinegar timelapse
 
-# Polution
+## Polution
 
 * Oil spills (Sara's talk)
 
-# Overfishing
+## Overfishing
 
 How much fish did there used to be in the ocean?
 
 ---
-
 background-image: url(biomass_fig_1d_v3.png)
