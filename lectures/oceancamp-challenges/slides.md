@@ -1,3 +1,7 @@
+name: start
+class: center, middle
+background-image: url()
+
 # What are the Challenges?
 
 ---
