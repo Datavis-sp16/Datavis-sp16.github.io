@@ -2,12 +2,12 @@ name: start
 class: center, middle
 background-image: url()
 
-# Ocean Challenges
+# What challenges does the ocean face?
                 
-<https://datavis-sp16.github.io/>
 
 ---
 name: purpose
-class: left, top
+class: center, middle
         
-### What are the challenges?
+## What are the challenges?
+
