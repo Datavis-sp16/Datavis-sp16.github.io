@@ -1,9 +1,13 @@
-name: start  
-class: center, middle  
-background-image: url(biomass_fig_1d_v3.png)
+name: start
+class: center, middle
+background-image: url()
 
-# What challenges doe sthe Ocean face?
+# Ocean Challenges
+                
+<https://datavis-sp16.github.io/>
 
 ---
-## Sea Level Rise!
-
+name: purpose
+class: left, top
+        
+### What are the challenges?
