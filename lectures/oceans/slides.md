@@ -25,6 +25,9 @@ Sea level rise tool
 ## Oil Drilling
 
 ---
+background-image: url(gulf.jpg)
+
+---
 background-image: url(oil_platforms.jpg)
 
 ---
