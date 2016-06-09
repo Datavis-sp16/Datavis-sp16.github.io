@@ -62,11 +62,15 @@ class: center, middle
 
 ## Where does it come from?
 
+.left-column-50[
 ![](http://news.nationalgeographic.com/news/2009/09/photogalleries/pacific-garbage-patch-pictures/images/primary/090904-01-great-pacific-garbage-patch-gyre-ocean-trash_big.jpg)
+]
 
+.rightt-column-50[
 * coastal areas
 * fishing equipment
 * what else? 
+]
 
 ---
 background-image: url(https://parkviewdc.files.wordpress.com/2012/01/img_1722.jpg)
@@ -80,10 +84,10 @@ class: center, middle
 background-image: url(https://timedotcom.files.wordpress.com/2015/12/water-pollution-rio-olympics.jpeg?quality=75&strip=color&w=1100)
 	
 ---
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e0/Albatross_at_Midway_Atoll_Refuge_(8080507529).jpg)
+background-image: url(http://news.nationalgeographic.com/content/dam/news/photos/000/786/78625.jpg)
 
 ---
-background-image: url(http://news.nationalgeographic.com/content/dam/news/photos/000/786/78625.jpg)
+background-image: url(albatross_midway.jpg)
 
 ---
 <iframe src="http://dumpark.com/seas-of-plastic-infographic/" width="1024" height="768" frameborder="0" scrolling="yes" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -169,17 +173,21 @@ class: center, middle
 
 # Let's see for ourselves
 
+.left-column-50[
 ### You need: 
 
 * shells and a raw egg
 * clear **glass** jars with lids
 * white vinegar
+]
 
+.right-column-50[
 ### Place shells and egg in the jar
 
 ### Pour vinegar over shells and egg
 
 ### What happens?
+]
 
 <small>http://www.education.com/activity/article/see_through_egg_first/</small>
 
