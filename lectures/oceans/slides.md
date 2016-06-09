@@ -2,34 +2,30 @@ name: start
 class: center, middle
 background-image: url()
 
-# What 
+# How are we
+
+# Changing the ocean?
+ 
+---
+class: center, middle
+
+
+# How are we <mark>puny little humans</mark>  
+
+# changing the <mark>vast</mark> ocean?
                 
-Let's make a list
+### Let's make a list
 
 ---
-name: purpose
 class: center, middle
 
-### oil spils / oil drilling
-### plastic polution
-### ocean warming
-### acidification
-### sea level rise
-### overfishing
-### noise
-
----
-name: purpose
-class: center, middle
-
-### oil spils / oil drilling
-### plastic polution
-### ocean warming
-### acidification
-### sea level rise
-### overfishing
-### noise
-
+## oil spils / oil drilling
+## plastic polution
+## ocean warming
+## acidification
+## sea level rise
+## overfishing
+## noise
 
 ---
 name: purpose
