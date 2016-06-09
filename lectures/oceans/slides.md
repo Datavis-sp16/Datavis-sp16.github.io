@@ -14,7 +14,10 @@ class: center, middle
 
 # changing the <mark>vast</mark> ocean?
                 
-### Let's make a list
+---
+class: center, middle
+
+# Let's make a list
 
 ---
 class: center, middle
@@ -46,6 +49,8 @@ background-image: url(oil_wells.jpg)
 background-image: url(oil_wells_platforms.jpg)
 
 ---
+<iframe src="http://www.nola.com/news/gulf-oil-spill/deepwater-disaster/index.ssf" width="1024" height="768" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 <http://www.nola.com/news/gulf-oil-spill/deepwater-disaster/index.ssf>
 
 ---
