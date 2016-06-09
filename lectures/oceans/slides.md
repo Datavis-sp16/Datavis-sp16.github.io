@@ -2,26 +2,39 @@ name: start
 class: center, middle
 background-image: url()
 
-# What challenges does the ocean face?
+# What 
                 
 Let's make a list
 
 ---
 name: purpose
 class: center, middle
+
+### oil spils / oil drilling
+### plastic polution
+### ocean warming
+### acidification
+### sea level rise
+### overfishing
+### noise
+
+---
+name: purpose
+class: center, middle
+
+### oil spils / oil drilling
+### plastic polution
+### ocean warming
+### acidification
+### sea level rise
+### overfishing
+### noise
+
+
+---
+name: purpose
+class: center, middle
         
-## Sea Level Rise!
-
-<iframe src="https://player.vimeo.com/video/137262980" width="640" height="360" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
----
-Sea level rise tool
-
-100 years
-
-1000 years
-
----
 ## Oil Drilling
 
 ---
@@ -35,4 +48,51 @@ background-image: url(oil_wells.jpg)
 
 ---
 background-image: url(oil_wells_platforms.jpg)
+
+---
+<http://www.nola.com/news/gulf-oil-spill/deepwater-disaster/index.ssf>
+
+---
+## Plastic
+
+Plastic particles simulation
+
+sources
+
+* coastal areas
+* fishing equipment
+* what else? 
+
+Where does it go? 
+
+* the garbage patches and gyres
+	picture: olympics
+
+---
+## Warming
+
+## Ocean Acidification
+
+Carbon Dioxide dissolves in sea water.  Makes acid.  Acid dissolves calcium.  What's made of calcium in the ocean?  
+
+Shells
+
+Teeth
+
+
+
+---
+## Sea Level Rise!
+
+<iframe src="https://player.vimeo.com/video/137262980" width="640" height="360" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+---
+Sea level rise tool
+
+100 years
+
+1000 years
+
+---
+## Noise
 

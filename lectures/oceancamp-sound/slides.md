@@ -36,15 +36,17 @@ So, Thousands of km!
 
 So, Sound is a REALLY good wat to communicate underwater.
 
+
+
 # Why do they make it?
 
-* For fun? 
+### For fun? 
 
 ![](http://www.whaletrust.org/assets/media/images/header-images/whale-song-top.jpg)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236090056&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-* Communication  
+### Communication  
 
 Blue Whale deep rumble
 
@@ -74,6 +76,20 @@ Fish do it too.  Not just Marine Mammals!
 
 
 
-* SONAR - Seeing the world with sound  
-* Death Rays  
+### Echoloation - SSONAR - Seeing the world with sound  
+### Death Rays  
+
+## Anthropogenic Noise
+
+Sonic Sea trailer
+
+## Soundscapes: What does the environment sound like in the…
+	- near shore
+	- deep sea
+	- mariana trench
+	- etc.
+
+## Listen Live
+
+	Listen to a live feed (LIDO), listen for
 
