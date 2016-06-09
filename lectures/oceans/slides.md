@@ -4,7 +4,7 @@ background-image: url()
 
 # How are we
 
-# Changing the ocean?
+# changing the ocean?
  
 ---
 class: center, middle
@@ -31,10 +31,9 @@ class: center, middle
 ## noise
 
 ---
-name: purpose
 class: center, middle
         
-## Oil Drilling
+# Oil Drilling
 
 ---
 background-image: url(gulf.jpg)
@@ -49,30 +48,42 @@ background-image: url(oil_wells.jpg)
 background-image: url(oil_wells_platforms.jpg)
 
 ---
-<iframe src="http://www.nola.com/news/gulf-oil-spill/deepwater-disaster/index.ssf" width="1024" height="768" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://www.nola.com/news/gulf-oil-spill/deepwater-disaster/index.ssf" width="1024" height="768" frameborder="0" scrolling="auto" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <http://www.nola.com/news/gulf-oil-spill/deepwater-disaster/index.ssf>
 
 ---
-## Plastic
+class: center, middle
 
-Plastic particles simulation
+# Plastic
 
-sources
+---
+class: center, middle
+
+
+### sources
 
 * coastal areas
 * fishing equipment
 * what else? 
 
-Where does it go? 
+### Where does it go? 
+
+* picture: olympics
+* Plastic particles simulation
 
 * the garbage patches and gyres
-	picture: olympics
+	
+---
+<iframe src="http://dumpark.com/seas-of-plastic-infographic/" width="1024" height="768" frameborder="0" scrolling="auto" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
-## Warming
+<http://svs.gsfc.nasa.gov/vis/a000000/a004100/a004174/4174_Garbage_Patches_appletv.m4v>
 
-## Ocean Acidification
+---
+# Warming
+
+# Acidification
 
 Carbon Dioxide dissolves in sea water.  Makes acid.  Acid dissolves calcium.  What's made of calcium in the ocean?  
 
@@ -83,12 +94,15 @@ Teeth
 
 
 ---
-## Sea Level Rise!
-
-<iframe src="https://player.vimeo.com/video/137262980" width="640" height="360" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+# Sea Level Rise!
 
 ---
-Sea level rise tool
+<iframe src="https://player.vimeo.com/video/137262980" width="1024" height="768" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+---
+<iframe src="https://coast.noaa.gov/slr/" width="1024" height="768" frameborder="0" scrolling="auto" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
 
 100 years
 
