@@ -75,7 +75,7 @@ class: center, middle
 * the garbage patches and gyres
 	
 ---
-<iframe src="http://dumpark.com/seas-of-plastic-infographic/" width="1024" height="768" frameborder="0" scrolling="auto" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://dumpark.com/seas-of-plastic-infographic/" width="1024" height="768" frameborder="0" scrolling="yes" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 <http://svs.gsfc.nasa.gov/vis/a000000/a004100/a004174/4174_Garbage_Patches_appletv.m4v>
