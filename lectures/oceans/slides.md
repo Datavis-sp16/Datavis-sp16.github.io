@@ -192,6 +192,8 @@ class: center, middle
 <small>http://www.education.com/activity/article/see_through_egg_first/</small>
 
 ---
+class: center, middle
+
 # Sea Level Rise!
 
 ---
