@@ -143,13 +143,9 @@ class: center, middle
 
 # Soundscape = the landscape of sound
 
-Challenger Deep: Baleen whale before and during a magnitude 5 earthquake (July 2015). 
+Challenger Deep: Baleen whale before and during a magnitude 5 earthquake (July 2015). [listen](Eqandbaleenwhale_2015-195220110x5Normal.mp3)
 
-<Eqandbaleenwhale_2015-195220110x5Normal.mp3>
-
-Sound of the propeller from a passing ship.
-
-<CD-ship.mp3>
+Sound of the propeller from a passing ship: [listen](CD-ship.mp3)
 
 <http://www.listentothedeep.com/acoustics/index.html>
 
