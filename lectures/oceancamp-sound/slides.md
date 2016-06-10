@@ -1,95 +1,159 @@
-Soundscape.
+name: start
+class: center, middle
+background-image: url()
 
-What's in our soundscape? Listen? Clean your ears.  What's a natural sound, what's a human-made sound?
 
-This is what we hear in the ocean.
+# The ocean is a world of sound 
 
-[]
+---
+class: center, middle
 
-# Who Makes Sound? 
-
-The ocean is a world of sound.  
-
-There is very little light below 200 m (650 feet).  Below that is the **Twilight Zone**, down to 3000 ft (1000m), with practically no light. Below _**that**_ is the **Midnight Zone**.  No light at all, unless you make your own little specs of light, like Lantern fish.
+# There is very little light below 200 m (650 feet).  
 
 ![](http://oceanservice.noaa.gov/facts/lightinocean.jpg)
 
-### But how far can you really see? ...in the Sea? How far do you think you can see? 
+---
+class: center, top
 
-ANSWER: You can only see 150ft - 250 ft, even in the cleareast waters.  Maybe only 40 or 50 feet in coastal waters, where the water is cloudier.
+# But how far can you really see? ...in the Sea? 
 
-![](http://wildwhales.org/wp-content/themes/wildwhales/images/noise1popup.jpg)
+---
+class: center, top
 
-### How far does sound travel under water? How far away can you HEAR something?
+# But how far can you really see? ...in the Sea? 
 
-ANSWER: Pretty far! (thousands of km)
+## <mark>ANSWER:<br>150ft - 250 ft, even in the cleareast waters. <br>Only 40 or 50 feet in cloudier coastal waters.</mark>
 
-* Sound travels about 100 times farther in water than in air.  How far can you hear me shouting? A block away?  How about 100 blocks?
+---
+background-image: url(http://wildwhales.org/wp-content/themes/wildwhales/images/noise1popup.jpg)
 
-But wait, there's more...
+---
+class: center, top
 
-![](soundchannel.png)
+# What about **SOUND**? 
 
-PVC Tube
+# How far does sound travel under water? 
 
-So, Thousands of km!
+# How far away can you **HEAR** something?
 
-So, Sound is a REALLY good wat to communicate underwater.
+---
+class: center, top
+
+# What about **SOUND**? 
+
+# How far does sound travel under water? 
+
+# How far away can you **HEAR** something?
+
+## <mark>ANSWER:<br>Pretty far!</mark>
+
+---
+class: center, top
+
+# Sound travels about 100 times farther in water than in air.
+
+## From how far away can you hear me shouting? 
+
+## A block away?  How about 100 blocks?
+
+---
+background-image: url(http://www.hugewallpapers.com/file/1264/2880x1800/stretch/minion-carl-megaphone.jpg)
+
+---
+class: center, middle
+
+# ...the ocean has a ***much*** better megaphone... 
+
+---
+background-image: url(soundchannel.png)
 
 
+---
+class: center, middle
 
-# Why do they make it?
+# Sound is a ***REALLY*** good sense to use underwater.
 
-### For fun? 
+
+---
+class: center, middle
+
+# What do animals in the ocean make sound for?
+
+---
+class: center, top
+
+### For entertainment? 
 
 ![](http://www.whaletrust.org/assets/media/images/header-images/whale-song-top.jpg)
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236090056&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236090056&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-### Communication  
+---
+class: center, top
 
-Blue Whale deep rumble
+# For Communication  
 
 <https://scripps.ucsd.edu/labs/sirovic/>
 
-Minke Whale Boing
-Minke Whale Pulse Train
+### Blue Whale
 
-Fish do it too.  Not just Marine Mammals!
-
-* Bocaccio  (rockfish species found in the Southern California Bight)
+### Minke Whale
 
 
-* Atlantic Midshipman  
+---
+class: center, top
+
+# ( Fish do it too. Not just Marine Mammals!)
+
+### Bocaccio  (rockfish species found in the Southern California Bight)
+
+### Atlantic Midshipman  
 (Very vocal toadfish species. They are common in the Atlantic and along the Gulf of Mexico.)
 
-* Nassau Grouper  
+### Nassau Grouper  
 (Very large, very vocal species of grouper in the Caribbean; have suffered from extensive overfishing; they spawn in large aggregations at predictable places and times, so easy to fish.)
 
-* Red Hind Grouper  
+### Red Hind Grouper  
 (Another very vocal species of grouper.)
 
-* Mystery Fish of the Gulf of Mexico
+---
+class: center, middle
 
-* Mystery Fish 2: Pogo Styck Fish (
+# For echolocation (seeing with sound)
+
+(we'll hear some in a minute)
+
+---
+class: center, middle
+
+# <mark> **for Death Rays !!!** </mark>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/eKPrGxB1Kzc?list=PLXgqbQPGcYUM88oar9LF2vCXO1wTjFTG2" frameborder="0" allowfullscreen></iframe>
 
 
-
-
-### Echoloation - SSONAR - Seeing the world with sound  
-### Death Rays  
+---
+class: center, middle
 
 ## Anthropogenic Noise
 
-Sonic Sea trailer
+<iframe width="854" height="480" src="https://www.youtube.com/embed/T-jabL64UZE" frameborder="0" allowfullscreen></iframe>
 
-## Soundscapes: What does the environment sound like in the…
-	- near shore
-	- deep sea
-	- mariana trench
-	- etc.
+---
+class: center, middle
 
-## Listen Live
+# Soundscape = the landscape of sound
 
-	Listen to a live feed (LIDO), listen for
+Challenger Deep: Baleen whale before and during a magnitude 5 earthquake (July 2015). 
 
+<Eqandbaleenwhale_2015-195220110x5Normal.mp3>
+
+Sound of the propeller from a passing ship.
+
+<CD-ship.mp3>
+
+<http://www.listentothedeep.com/acoustics/index.html>
+
+---
+class: center, middle
+
+http://dosits.org/galleries/audio/interactive/
