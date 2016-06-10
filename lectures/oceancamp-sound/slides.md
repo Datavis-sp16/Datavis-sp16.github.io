@@ -149,7 +149,4 @@ Sound of the propeller from a passing ship: [listen](CD-ship.mp3)
 
 <http://www.listentothedeep.com/acoustics/index.html>
 
----
-class: center, middle
-
-http://dosits.org/galleries/audio/interactive/
+<http://dosits.org/galleries/audio/interactive/>
