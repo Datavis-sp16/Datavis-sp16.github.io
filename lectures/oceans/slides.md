@@ -67,9 +67,11 @@ class: center, middle
 ]
 
 .rightt-column-50[
-* coastal areas
-* fishing equipment
-* what else? 
+## coastal areas
+
+## fishing equipment
+
+## what else? 
 ]
 
 ---

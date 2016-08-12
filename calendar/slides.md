@@ -212,26 +212,6 @@ class: left, top
 
 ]
 
----
-name: w9
-class: left, top
-
-**Week 9**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
-[Assignment #3](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A3.md) due 3/21 (Critique 3/22)
-
-
-.left-column-50[
-###Tu 3/15: Group Work    
-
-
-
-]
-
-.right-column-50[
-###Th 3/17: Group Work 
-
-
-]
 
 ---
 name: w10
@@ -248,24 +228,6 @@ class: left, top
 
 .right-column-50[
 ###Th 3/24: Critiques, continued 
-
-]
-
----
-name: w11
-class: left, top
-
-**Week 11**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
-
-.left-column-50[
-###Tu 3/29: Introduction to Cartography 
-
-]
-
-.right-column-50[
-###Th 3/31: VVOX Labs 
-
-Meet at Georgia Museum of Art
 
 ]
 
@@ -341,5 +303,36 @@ Examples to consult in advance from the [D3 Gallery](https://github.com/mbostock
 * Hive Plots
 * Sankey Diagrams
 </small>
+]
+
+---
+name: w14
+class: left, top
+
+**Week 14**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
+
+.left-column-50[
+###Tu 4/19: Networks (continued)
+]
+
+.right-column-50[
+###Tu 4/21: Data Sonification
+[Slides](http://blog.ericmarty.com/intro-to-sound-and-data-sonification)
+]
+
+---
+name: w15
+class: left, top
+
+**Week 15**  | Go to week: [1](#w1) [2](#w2) [3](#w3) [4](#w4) [5](#w5) [6](#w6) [7](#w7) [8](#w8) [9](#w9) [10](#w10) [11](#w11) [12](#w12) [13](#w13) [14](#w14) [15](#w15)  
+
+.left-column-50[
+###Tu 4/26: Group work
+[Project Description](https://github.com/Datavis-sp16/Datavis-sp16.github.io/blob/master/docs/A4.md) 
+]
+
+.right-column-50[
+###Tu 4/28: Group work
+
 ]
 
