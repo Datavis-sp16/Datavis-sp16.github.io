@@ -100,7 +100,7 @@ class: left, top
 
 .left-column-50[
 ###Tu 2/9: Multidimensional Data  
-[Slides](../lectures/mutidimensional/)  
+[Slides](../lectures/multidimensional/)  
 ]
 .right-column-50[
 ###Th 2/11: Perception  
