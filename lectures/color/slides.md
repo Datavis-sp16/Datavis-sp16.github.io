@@ -1,5 +1,6 @@
 name: start
 class: center, middle
+background-size: contain  
 background-image: url()
 
 # Data Visualization
@@ -88,6 +89,7 @@ class: center, middle
 
 ---
 
+background-size: contain  
 background-image: url(harris.jpg)
 
 ### Harris Color Wheel
@@ -118,6 +120,7 @@ White = all max values
 
 ---
 
+background-size: contain  
 background-image: url(http://lh5.ggpht.com/wmfJZWmtuheZiTDrI3baoiki4j2KV5KBOU22MbXlVQrldceygV_Ipsmb0LkKZHXA8tTAX3p9zWkAcf1o8UQy7gW4nw=s650)
 
 ---
