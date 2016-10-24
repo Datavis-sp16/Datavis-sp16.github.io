@@ -42,7 +42,8 @@ class: left, top
 ]
 
 ---
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/14/HD.6D.635_%2812000265314%29.jpg)
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/14/HD.6D.635_%2812000265314%29.jpg)  
+background-size: contain
 
 ---
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0f/Kinemetrics_seismograph.jpg)
