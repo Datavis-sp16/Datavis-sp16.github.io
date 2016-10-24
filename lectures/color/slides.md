@@ -19,7 +19,7 @@ class: center, middle
 ### Light &rarr; Cone cell response &rarr; Opponent processing &rarr; Perception
 
 ---
-
+background-size: contain  
 background-image: url(retina.jpg)
 
 ---

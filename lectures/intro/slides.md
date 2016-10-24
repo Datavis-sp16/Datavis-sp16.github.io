@@ -277,7 +277,8 @@ In Graphic Design, the practice of designing effective display of information (s
 ]
 
 ---
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/17/Nightingale-mortality.jpg)
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/17/Nightingale-mortality.jpg)  
+background-size: contain
 
 ---
 .left-column[
