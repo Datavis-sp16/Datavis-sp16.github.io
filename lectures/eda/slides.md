@@ -1,5 +1,6 @@
 name: start
 class: center, middle
+background-size: contain  
 background-image: url()
 
 # Data Visualization
@@ -89,21 +90,27 @@ What you need is a **quick** way to generate many varied visualizations.
 **MPAA Rating:** String (O)  **Release Date:** Date (T)
 
 ---
+background-size: contain  
 background-image: url(1.png)
 
 ---
+background-size: contain  
 background-image: url(2.png)
 
 ---
+background-size: contain  
 background-image: url(3.png)
 
 ---
+background-size: contain  
 background-image: url(4.png)
 
 ---
+background-size: contain  
 background-image: url(5.png)
 
 ---
+background-size: contain  
 background-image: url(6.png)
 
 

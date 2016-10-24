@@ -1,5 +1,6 @@
 name: start
 class: center, middle
+background-size: contain  
 background-image: url()
 
 # Data Visualization
@@ -132,6 +133,7 @@ Ordinal Color Scales:
 [chroma.js](http://gka.github.io/palettes/#colors=#061951,#96FFBD|steps=7|bez=1|coL=1) 
 
 ---
+background-size: contain  
 background-image: url(playfair.png)
 
 ---
@@ -142,6 +144,7 @@ class: left, top
 X-axis &larr; year (Q)  Y-axis &larr; currency (Q)  Color &larr; imports/exports (N, O)  
 
 ---
+background-size: contain  
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5f/Minard%27s_Map_%28vectorized%29.svg)
 
 ---
@@ -191,6 +194,7 @@ Visual language expresses facts not in the data.
 ]
 .
 ---
+background-size: contain  
 background-image: url(country.png)
 ---
 class: left, top

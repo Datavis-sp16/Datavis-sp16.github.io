@@ -1,5 +1,6 @@
 name: start
 class: center, middle
+background-size: contain  
 background-image: url()
 
 # Data Visualization
@@ -34,21 +35,25 @@ class: center, middle
 - etc.
 
 ---
+background-size: contain  
 background-image: url(http://www.datavizcatalogue.com/methods/images/top_images/area_chart.png)
 
 ### area chart
 
 ---
+background-size: contain  
 background-image: url(http://www.datavizcatalogue.com/methods/images/top_images/area_graph.png) 
 
 ### area graph
  
 ---
+background-size: contain  
 background-image: url(http://www.datavizcatalogue.com/methods/images/anatomy/stacked_bar_graph.png)
 
 ### stacked bar chart
 
 ---
+background-size: contain  
 background-image: url(http://www.datavizcatalogue.com/methods/images/anatomy/box_plot.png)  
 
 ### Box Plot
@@ -61,6 +66,7 @@ background-image: url(http://www.datavizcatalogue.com/methods/images/anatomy/box
 - etc.
 
 ---
+background-size: contain  
 background-image: url(http://www.datavizcatalogue.com/methods/images/top_images/scatterplot.png)
 
 ### Scatterplot
@@ -72,11 +78,13 @@ background-image: url(http://www.datavizcatalogue.com/methods/images/top_images/
 - 3D surface plot   
 
 ---
+background-size: contain  
 background-image: url(http://www.statmethods.net/graphs/images/s3d1.png)
 
 ### 3D Scatterplot
 
 ---
+background-size: contain  
 background-image: url(http://i.stack.imgur.com/0hVjA.png)
 
 ### Surface Plot (with added color for redunancy)
@@ -93,27 +101,32 @@ Therefore, we give the 3rd variable (z) a non-spatial visual encoding:
 -  etc.
 
 ---
+background-size: contain  
 background-image: url(imagevariables.png)
 
 ---
 ## Encoding Multivariate (nD) Data: Non-spatial encodings
 
 ---
+background-size: contain  
 background-image: url(drinks.png)  
 
 ---
+background-size: contain  
 background-image: url(trellis.png) 
 
 ### Trellis Plots 
 Subdivide the design space to compare multiple plots, usually with a nominal or ordinal variable used as the basis for subdividing the space. *Image credit: Jeff Heer*
 
 ---
+background-size: contain  
 background-image: url(mult.png) 
 
 ### Small Multples 
 A generalization of the idea of a trellis plot. *MacEachren '95, Figure 2.11, p. 38*
 
 ---
+background-size: contain  
 background-image: url(https://3.bp.blogspot.com/-c5bDhQx8Y-w/TisWWy8s4kI/AAAAAAAAjkY/k-Af-OWK1t0/s1600/Rplot01.png)
 
 ### Scatterplot Matrix
@@ -122,53 +135,66 @@ all pairs of variables
 against each other.
 
 ---
+background-size: contain  
 background-image: url(https://stanford.edu/~mwaskom/software/seaborn/_images/scatterplot_matrix.png)
 
 ### Scatterplot matrix  
 + extra dimensions
 
 ---
+background-size: contain  
 background-image: url(views.png)
 
 ### multiple coordinated views
 
 ---
+background-size: contain  
 background-image: url(http://sdk.gooddata.com/gooddata-js/images/posts/parallel-coordinates.png)
 
 ### parallel coordinates
 
 ---
+background-size: contain  
 background-image: url(http://homes.cs.washington.edu/~jheer/files/zoo/parallel.png)
 
 ---
+background-size: contain  
 background-image: url(http://www.goldensoftware.com/newsletter_imgs/61/radar_graph_11.jpg)
 
 ### Radar Plot
 
 ---
+background-size: contain  
 background-image: url(http://www.visualcinnamon.com/wp-content/uploads/2015/09/D3-radar-chart-New-version.png)
 
 ---
+background-size: contain  
 background-image: url(http://tulip.labri.fr/TulipDrupal/sites/default/files/uploadedFiles/images/parallel_coordinates_circular_straight.preview.png)
 
 ---
+background-size: contain  
 background-image: url(http://bdtnp.lbl.gov/Fly-Net/content/bid/pcx/ParallelCoordinates/3DParallelCoordinates_Illustration.png)
 
 ---
+background-size: contain  
 background-image: url(http://www.excelcharts.com/blog/wp-content/uploads/2012/06/walmart-growth-micromaps1.png)
 
 ### More Small Multiples
 
 ---
+background-size: contain  
 background-image: url(http://blog.dominodatalab.com/content/images/2015/01/home_ownership.png)
 
 ---
+background-size: contain  
 background-image: url(http://sachi.cs.st-andrews.ac.uk/wp-content/uploads/2011/05/SmallMultiplesACHI_BEST_Paper.png)
 
 ---
+background-size: contain  
 background-image: url(http://flowingdata.com/wp-content/uploads/2011/07/When-crime-happens-625x330.png)
 
 ---
+background-size: contain  
 background-image: url(http://www.jessefagan.com/linksviz/gestalt.png)
 
 [network visualization](http://www.jessefagan.com/linksviz/)
@@ -183,6 +209,7 @@ background-image: url(http://www.jessefagan.com/linksviz/gestalt.png)
 - Isomap- Auto-Encoder Neural Networks Topological methods...
 
 ---
+background-size: contain  
 background-image: url(https://upload.wikimedia.org/wikipedia/en/f/f5/GaussianScatterPCA.svg)
 
 ### Principal Components Analysis (PCA)

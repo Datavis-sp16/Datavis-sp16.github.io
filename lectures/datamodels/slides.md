@@ -1,5 +1,6 @@
 name: start
 class: center, middle
+background-size: contain  
 background-image: url()
 
 # Data Visualization
@@ -17,6 +18,7 @@ background-image: url()
 ---
 layout: true
 class: center, top
+background-size: contain  
 background-image: url()
 
 ## Visualization = 
@@ -245,8 +247,10 @@ Data Type</mark>
 ]
 
 ---
+background-size: contain  
 background-image: url(census.png)
 ---
+background-size: contain  
 background-image: url(rollup.png)
 
 

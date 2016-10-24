@@ -1,5 +1,6 @@
 name: start
 class: center, middle
+background-size: contain  
 background-image: url()
 
 # Data Visualization
@@ -24,6 +25,7 @@ class: left, top
 
 ---
 class: left, top  
+background-size: contain  
 background-image: url(http://i.imgur.com/ycJetYr.png)
 
 

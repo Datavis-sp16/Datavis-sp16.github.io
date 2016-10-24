@@ -1,5 +1,6 @@
 name: start
 class: center, middle
+background-size: contain  
 background-image: url()
 
 # Data Visualization
@@ -37,6 +38,7 @@ It is probably easiest to think of time as the horizontal dimension, (map time t
 
 ---
 class: left, top  
+background-size: contain  
 background-image: url(http://i.imgur.com/ycJetYr.png)
 
 
@@ -248,6 +250,7 @@ The Balinese “Pawukon” or “[Wuku](http://en.wikipedia.org/wiki/Pawukon_cal
 
 ---
 class: left, top  
+background-size: contain  
 background-image: url(02.4-Wuku.gif)
 
 
@@ -351,6 +354,7 @@ class: left, top
 
 ---
 class: center, bottom
+background-size: contain  
 background-image: url(03-Ligeti-Arikulation.jpg)
 
 <small>Gyorgy Ligeti's *Artikulation* (1958). Visual listening score by Rainer Wehinger.</small>
@@ -363,6 +367,7 @@ class: center, middle
 
 ---
 class: center, bottom  
+background-size: contain  
 background-image: url(04-stripsody.jpg)
 
 <small>Cathy Berberian's *Stripsody* (1966).  Performance score.</small>
@@ -374,12 +379,14 @@ class: center, middle
 
 ---
 class: left, bottom    
+background-size: contain  
 background-image: url(05-RunLolaRun.png)
 
 <small>Meenakshi Borgohain: Graphic representation of *Run Lola Run* (Tom Tykwer, 1998 German). Project @ SAIC directed by Lu Jingren</small>
 
 ---
 class: left, bottom    
+background-size: contain  
 background-image: url(06-RunLolaRun.png)
 
 <small>Meenakshi Borgohain:  

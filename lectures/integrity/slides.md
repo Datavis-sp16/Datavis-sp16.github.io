@@ -1,5 +1,6 @@
 name: start
 class: center, middle
+background-size: contain  
 background-image: url()
 
 # Data Visualization
@@ -53,21 +54,27 @@ class: left, top
 ]
 
 ---
+background-size: contain  
 background-image: url(p54top.png)
 
 ---
+background-size: contain  
 background-image: url(p54bottom.png)
 
 ---
+background-size: contain  
 background-image: url(http://static.politifact.com.s3.amazonaws.com/politifact%2Fphotos%2Fmega-center-release-graphic.jpg)
 
 ---
+background-size: contain  
 background-image: url(http://www.autostraddle.com/wp-content/uploads/2015/09/PPgraph-640x561.jpeg)
 
 ---
+background-size: contain  
 background-image: url(http://cloudfront.mediamatters.org/static/uploader/image/2015/09/30/kevin_drum_ppfa.jpg)
 
 ---
+background-size: contain  
 background-image: url(http://cloudfront.mediamatters.org/static/uploader/image/2015/09/30/kevin_drum_ppfa_all_services.jpg)
 
 ---
@@ -130,10 +137,13 @@ EF = 1 = Truth (no lie)
 Lies of equal magnitude produce equal EF
 
 ---
+background-size: contain  
 background-image: url(barrel.png)
 
 ---
+background-size: contain  
 background-image: url(perspective_distortion.png)
 
 ---
+background-size: contain  
 background-image: url(LieDetector.png)
