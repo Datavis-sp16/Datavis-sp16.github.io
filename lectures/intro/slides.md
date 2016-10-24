@@ -46,10 +46,12 @@ background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/14/HD.6D.
 background-size: contain
 
 ---
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0f/Kinemetrics_seismograph.jpg)
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0f/Kinemetrics_seismograph.jpg)  
+background-size: contain
 
 ---
-background-image: url( http://payload168.cargocollective.com/1/12/386676/5678497/DarknessMapSF_900.jpg)
+background-image: url( http://payload168.cargocollective.com/1/12/386676/5678497/DarknessMapSF_900.jpg)  
+background-size: contain
 
 ---
 <small><small>**Previous page:** Emiliano Burgos and Genevieve Hoffman: [Darkness Map](http://darknessmap.com/)</small>
@@ -124,7 +126,8 @@ class: left, top
 ]
 
 ---
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)  
+background-size: contain
 
 ---
 name: fields
@@ -424,12 +427,14 @@ Visual Analytics  ].right-column-fat[<mark>\* Fields for which the Wikipedia
 
 ---
 name: minard2
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)  
+background-size: contain
 
 
 ---
 name: minard3
-background-image: url(https://datavizblog.files.wordpress.com/2013/06/minard-odt.jpg)
+background-image: url(https://datavizblog.files.wordpress.com/2013/06/minard-odt.jpg)  
+background-size: contain
 
 ---
 name: senses
