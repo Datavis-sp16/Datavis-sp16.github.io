@@ -1,5 +1,3 @@
-class: center, middle
-
 # Color
 
 ---
@@ -10,7 +8,7 @@ background-image: url(retina.jpg)
 
 .width2[![](https://upload.wikimedia.org/wikipedia/commons/0/04/Cone-fundamentals-with-srgb-spectrum.svg)]
 
-3 kinds of cone cells:  
+3 kinds of cone cells  
 
 "Red" = **Long** wavelengths  
 most sensitive to yellow (565 nm), also sensitive to red and green
