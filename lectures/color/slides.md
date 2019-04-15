@@ -180,7 +180,7 @@ Peter Kovesi: [http://peterkovesi.com/projects/colourmaps/ColourmapTheory/index.
 
 Drew Skau: [“Dear NASA: No More Rainbow Color Scales, Please.”](http://blog.visual.ly/rainbow-color-scales/) blog post, Visually. 
 
-Eric Marty: [http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized](http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized)
+Eric Marty: [http://blog.ericmarty.com/global-ocean-surface-waves-visualized](http://blog.ericmarty.com/5/global-ocean-surface-waves-visualized)
 
 ---
 
