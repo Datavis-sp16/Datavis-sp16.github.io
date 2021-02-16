@@ -1,10 +1,10 @@
 name: start
 class: center, middle
-background-size: contain  
+background-size: contain
 background-image: url()
 
 # Data Visualization
-                
+
 ### ARGD 4080 / ARGD 4090 / ARST 7980
 
 <https://datavis-sp16.github.io/>
@@ -20,23 +20,23 @@ class: center, middle
 .left-column[
 ### Graphical Perception
 
-Signal Detection  
-Magnitude Estimation  
-<mark>Pre-Attentive Processing</mark>  
-Multiple Visual Encodings  
-Gestalt  
-Change Blindness  
+Signal Detection
+Magnitude Estimation
+<mark>Pre-Attentive Processing</mark>
+Multiple Visual Encodings
+Gestalt
+Change Blindness
 ]
 
 .right-column-fat[
 **Pre-attentive processing** = unconscious imformation processing
 
-- The brain first pre-processes all the information in a scene unconsciously. 
+- The brain first pre-processes all the information in a scene unconsciously.
 - The most salient information is passed on for conscious (attentive) processing.
 
 **Salient Information** is information that:
 
-- stands out the most ("pops"), or 
+- stands out the most ("pops"), or
 - is relevant to what a person is thinking about
 
 [https://en.wikipedia.org/wiki/Pre-attentive_processing](https://en.wikipedia.org/wiki/Pre-attentive_processing)
@@ -49,12 +49,12 @@ Change Blindness
 .left-column[
 ### Graphical Perception
 
-Signal Detection  
-Magnitude Estimation  
-<mark>Pre-Attentive Processing</mark>  
-Multiple Visual Encodings  
-Gestalt  
-Change Blindness  
+Signal Detection
+Magnitude Estimation
+<mark>Pre-Attentive Processing</mark>
+Multiple Visual Encodings
+Gestalt
+Change Blindness
 ]
 
 .right-column-fat[
@@ -70,38 +70,38 @@ Change Blindness
 .left-column[
 ### Graphical Perception
 
-Signal Detection  
-Magnitude Estimation  
-<mark>Pre-Attentive Processing</mark>  
-Multiple Visual Encodings  
-Gestalt  
-Change Blindness  
+Signal Detection
+Magnitude Estimation
+<mark>Pre-Attentive Processing</mark>
+Multiple Visual Encodings
+Gestalt
+Change Blindness
 ]
 
 .right-column-fat[
 
 **Unique single features** are detected preattentively more easily than combinations of features.
 
-![](http://www.infovis-wiki.net/images/6/6a/Preattentive_4.JPG)
+![](https://infovis-wiki.net/wiki/File:Preattentive_4.JPG)
 ]
 
 ---
 .left-column[
 ### Graphical Perception
 
-Signal Detection  
-Magnitude Estimation  
-Pre-Attentive Processing  
-<mark>Multiple Visual Encodings</mark>  
-Gestalt  
-Change Blindness  
+Signal Detection
+Magnitude Estimation
+Pre-Attentive Processing
+<mark>Multiple Visual Encodings</mark>
+Gestalt
+Change Blindness
 ]
 
 .right-column-fat[
 
 **Single dimension encodings**
 
-![](1d.png)  
+![](1d.png)
 <small>based on slide by Jeff Heer</small>
 ]
 
@@ -109,19 +109,19 @@ Change Blindness
 .left-column[
 ### Graphical Perception
 
-Signal Detection  
-Magnitude Estimation  
-Pre-Attentive Processing  
-<mark>Multiple Visual Encodings</mark>  
-Gestalt  
-Change Blindness  
+Signal Detection
+Magnitude Estimation
+Pre-Attentive Processing
+<mark>Multiple Visual Encodings</mark>
+Gestalt
+Change Blindness
 ]
 
 .right-column-fat[
 
 **Redundant encodings** can help pre-attentive processing.
 
-![](redundant.png)  
+![](redundant.png)
 <small>based on slide by Jeff Heer</small>
 ]
 
@@ -129,19 +129,19 @@ Change Blindness
 .left-column[
 ### Graphical Perception
 
-Signal Detection  
-Magnitude Estimation  
-Pre-Attentive Processing  
-<mark>Multiple Visual Encodings</mark>  
-Gestalt  
-Change Blindness  
+Signal Detection
+Magnitude Estimation
+Pre-Attentive Processing
+<mark>Multiple Visual Encodings</mark>
+Gestalt
+Change Blindness
 ]
 
 .right-column-fat[
 
 **"Orthagonal" encodings** can interfere with pre-attentive processing.
 
-![](orthagonal.png)  
+![](orthagonal.png)
 <small>based on slide by Jeff Heer</small>
 ]
 
@@ -149,12 +149,12 @@ Change Blindness
 .left-column[
 ### Graphical Perception
 
-Signal Detection  
-Magnitude Estimation  
-Pre-Attentive Processing  
-Multiple Visual Encodings  
-<mark>Gestalt</mark>  
-Change Blindness  
+Signal Detection
+Magnitude Estimation
+Pre-Attentive Processing
+Multiple Visual Encodings
+<mark>Gestalt</mark>
+Change Blindness
 ]
 
 .right-column-fat[
@@ -165,7 +165,7 @@ Change Blindness
 
 .width2[
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kanizsa_triangle.svg/2000px-Kanizsa_triangle.svg.png)
-]  
+]
 
 [https://en.wikipedia.org/wiki/Gestalt_psychology](https://en.wikipedia.org/wiki/Gestalt_psychology)
 ]
@@ -174,22 +174,22 @@ Change Blindness
 .left-column[
 ### Graphical Perception
 
-Signal Detection  
-Magnitude Estimation  
-Pre-Attentive Processing  
-Multiple Visual Encodings  
-<mark>Gestalt</mark>  
-Change Blindness  
+Signal Detection
+Magnitude Estimation
+Pre-Attentive Processing
+Multiple Visual Encodings
+<mark>Gestalt</mark>
+Change Blindness
 ]
 
 .right-column-fat[
 
-### Principles  
+### Principles
 
-- **Emergence:** Recognition occurs all at once, holistically.  (We don't build up a percept or mental image of an object consciously.)  
+- **Emergence:** Recognition occurs all at once, holistically.  (We don't build up a percept or mental image of an object consciously.)
 - **Reification:** The percept (mental image) can contains more information than the stimuli on which it is based.  (We fill in missing pieces of a whole.)
 - **Multistability:** Ambiguous perceptual experiences pop back and forth between interpretations. (We don't know why.)
-- **Invariance:** Simple geometrical objects are recognized independent of rotation, translation, scale and several other variations. 
+- **Invariance:** Simple geometrical objects are recognized independent of rotation, translation, scale and several other variations.
 
 .width4[![](http://vignette3.wikia.nocookie.net/optical-illusions/images/5/5b/Gestalt_Dalmatian.jpg/revision/latest?cb=20140417124054)]
 .width4[![](https://upload.wikimedia.org/wikipedia/commons/6/63/Reification.jpg)]
@@ -201,24 +201,24 @@ Change Blindness
 .left-column[
 ### Graphical Perception
 
-Signal Detection  
-Magnitude Estimation  
-Pre-Attentive Processing  
-Multiple Visual Encodings  
-<mark>Gestalt</mark>  
-Change Blindness  
+Signal Detection
+Magnitude Estimation
+Pre-Attentive Processing
+Multiple Visual Encodings
+<mark>Gestalt</mark>
+Change Blindness
 ]
 
 .right-column-fat[
 
-### Grouping  
+### Grouping
 
-- Proximity  
-- Similarity  
-- Closure  
-- Symmetry  
-- Common Fate  
-- Continuity  
+- Proximity
+- Similarity
+- Closure
+- Symmetry
+- Common Fate
+- Continuity
 - "Good Gestalt" / Prägnaz ("pithiness")
 	- Simplest forms, rhythm, pattern, etc. leads to grouping
 - Past Experience
@@ -227,7 +227,7 @@ Change Blindness
 .width4[![](https://upload.wikimedia.org/wikipedia/commons/2/22/Gestalt_proximity.svg)]
 .width4[![](https://upload.wikimedia.org/wikipedia/commons/8/8f/Gestalt_similarity.svg)]
 .width4[![](https://upload.wikimedia.org/wikipedia/commons/3/30/Gestalt_closure.svg)]
-.width4[![](https://upload.wikimedia.org/wikipedia/en/1/1c/Law_of_Symmetry.jpg)]  
+.width4[![](https://upload.wikimedia.org/wikipedia/en/1/1c/Law_of_Symmetry.jpg)]
 
 .width4[![](http://peace.saumag.edu/faculty/kardas/Images/Web%20Images/Lecture/continuity.GIF)]
 .width4[![](http://z.about.com/d/psychology/1/5/B/1/Pragnanz.jpg)]
@@ -238,12 +238,12 @@ Change Blindness
 .left-column[
 ### Graphical Perception
 
-Signal Detection  
-Magnitude Estimation  
-Pre-Attentive Processing  
-Multiple Visual Encodings  
-Gestalt  
-<mark>Change Blindness</mark>  
+Signal Detection
+Magnitude Estimation
+Pre-Attentive Processing
+Multiple Visual Encodings
+Gestalt
+<mark>Change Blindness</mark>
 ]
 
 .right-column-fat[
@@ -261,4 +261,3 @@ Gestalt
 
 ---
 More: [http://www.psych.ubc.ca/~rensink/flicker/download/](http://www.psych.ubc.ca/~rensink/flicker/download/)
-
