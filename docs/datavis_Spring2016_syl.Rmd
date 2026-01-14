@@ -1,0 +1,106 @@
+---
+title: "Data Visualization (Spring 2016)"
+author: "Éric Marty"
+output: pdf_document
+---
+
+Data Visualization (Spring 2016)  
+ARGD4080 / ARGD4090 / ARST7980  
+Meets Tu/Th 9:30-10:45, room N200  
+Lamar Dodd School of Art  
+<!-- Course website: http://datavis-sp16.github.io/   -->
+<!-- Grading on ELC   -->
+Instructor: Dr. Éric Marty emarty@uga.edu
+<blog.ericmarty.com> | twitter: @allopole  
+Office Hours: Th 9:00 (by appointment), N218 (Dodd)  
+Other times by appointment, 245 Marine Sciences
+
+# Overview
+
+This course introduces students to the basic design concepts, terminology, methodologies, tools and applications of data visualization. We also examine the related fields of data sonification and generalized data perceptualization. The course covers digital workflows for creating visualizations and data representations using tools for data exploration and analysis, visualization design and interaction design. Student creative teams work collaboratively to solve design problems in data representation and communication. The goal of the course is the creation of visually powerful, well designed, data-accurate data visualizations of real research problems in the Humanities, Arts and Sciences. (3.0 credits)
+
+This course is open to all undergraduate and graduate students. There are no pre-requisites. Previous experience with either graphic design, or coding for web or graphics is helpful but not essential.
+
+# Textbooks
+
+- REQUIRED: Tufte, E. [The Visual Display of Quantitative Information (2nd Edition)](https://www.amazon.com/gp/product/0961392142). Graphics Press, 2001.  
+- REQUIRED: Tufte, E. [Envisioning Information](http://www.amazon.com/gp/product/1930824149). Graphics Press, 1990. <!--(pdf)-->  
+   
+# Tools
+
+- The [Vega](https://vega.github.io) "visualization grammar," [D3.js](https://d3js.org), with HTML5 & CSS3 for print and web-based visualization
+- Adobe CC for print and screen media (required)
+- Various Web applications, Excel, and software such as R or Matlab for data exploration
+- Various software tools for incorporating motion, interactivity and sound in data representations
+- Drawing materials
+
+# Structure
+
+Class time is divided among lecture, discussion, critique and occasional software tutorials. The majority of tutorials are completed online outside of class time.
+
+# Website
+
+The course website is open, and is a centralized place for course materials. Students turn in all digital work though ELC or github, depending on the assignment. A list of additional resources is maintained on the course website.
+
+# Grading
+
+A 4.0 , A- 3.7 Excellent, fully developed, challenging work  
+B+ 3.3, B 3.0, B- 2.7 Solid work; needs refinement or development.  
+C+ 2.3, C 2.0, C- 1.7 Minimum requirements/participation level met.  
+D 1.0 Incomplete; requirements not met. Inadequate participation.  
+F 0.0 Work not turned in or significantly below minimum requirements. No participation or counterproductive participation.
+
+15%   Assignment 1 (Visualization Re-Design)   
+20%   Assignment 2 (Visual Exploratory Data Analysis)  
+25%   Assignment 3 (Web-embedded visualization)  
+30%   Final Project (Data Story)  
+10%   Participation 
+   
+# Policies
+
+Attendance is required. Attendance is taken at the beginning of class. Late arrivals must notify the instructor upon arrival in order not to be marked absent. Three late arrivals are equivalent to one absence. Unexcused absences after the first unexcused absence will lower the grade by 1/2 a letter grade each. Absences may be excused in case of documented illness or other reasons at the discretion of the instructor only. Students must e-mail instructor when absent (with reasons) and must still complete work on time. Students with more than six total absences (excused or otherwise) will likely not be able to complete the class with a passing grade, and should consult with the instructor. Disruptive behavior may result in dismissal from the class session and a recorded absence. All work is due by the beginning of class on the date due. Projects must be ready to present at the beginning of class on the day of critique. Late projects may receive a numerical grade of 0, unless accompanied by an official medical excuse.
+
+Students abide by UGA’s academic honesty policy, and by copyright laws, 
+even in the creation of works of art. See <https://ovpi.uga.edu/academic-honesty>. 
+See the Wikipedia article on “Fair Use” (<http://en.wikipedia.org/wiki/Fair_use>) 
+for an explanation of how copyright applies to appropriated material in creative work.
+
+Please no phone calls, email, social networking, browsing (except for class related work), 
+or completing work for other courses during class. Academic and artistic freedom 
+of expression will be rigorously defended; however, disruptive behavior and 
+counterproductive criticism are not acceptable.
+   
+# Topical Outline
+
+## Weeks 1-3: THEORY & DESIGN
+
+- Data Perceptualization: Visualization, Sonification and multi-modal data representation
+- Rationale for Data Visualization
+- Data Models / Image Models, Semiology, Visual Encoding
+- Visualization Design
+- Exploratory Data Analysis
+
+## Weeks 4-6: THEORY & DESIGN
+- Multidimensional Data
+- Psychophysics: Visual and Auditory Perception
+- Color
+- Space
+- Time
+- Grammar of Graphics
+
+## Weeks 7-8: VISUALIZATION DESIGN SOFTWARE
+- Visualization Software Overview
+- Declarative Visualization Design (Vega, Vega-lite, Lyra, ggplot2, etc.)
+- Interaction & Animation
+- Visual Programming (aka node based programming)
+
+## Weeks 9-15: SPECIAL TOPICS & PROBLEMS
+
+- Data Sonification
+- Real world Interactivity
+- Immersive Visualization
+- Visualizing Time & Time Series
+- introduction to Visualizing Networks
+- Introduction to GIS (Mapping & Cartography)
+- Narrative in Visualization: Digital Storytelling, Data Journalism
+- Visual Analysis of Text

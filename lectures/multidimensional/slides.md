@@ -72,7 +72,7 @@ background-image: url(http://www.datavizcatalogue.com/methods/images/top_images/
 ### Scatterplot
 
 ---
-## Encoding Trivariate (3D) Data (3D spatial encodins)
+## Encoding Trivariate (3D) Data (3D spatial encodings)
 
 - 3D scatterplot (hard to see)  
 - 3D surface plot   
@@ -87,7 +87,7 @@ background-image: url(http://www.statmethods.net/graphs/images/s3d1.png)
 background-size: contain  
 background-image: url(http://i.stack.imgur.com/0hVjA.png)
 
-### Surface Plot (with added color for redunancy)
+### Surface Plot (with added color for redundancy)
 
 ---
 ### Non-spatial 3D encodings
