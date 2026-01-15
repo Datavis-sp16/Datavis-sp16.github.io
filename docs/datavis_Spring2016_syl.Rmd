@@ -2,16 +2,17 @@
 title: "Data Visualization (Spring 2016)"
 author: "Éric Marty"
 output: pdf_document
+urlcolor: blue
 ---
 
 Data Visualization (Spring 2016)  
 ARGD4080 / ARGD4090 / ARST7980  
 Meets Tu/Th 9:30-10:45, room N200  
 Lamar Dodd School of Art  
-<!-- Course website: http://datavis-sp16.github.io/   -->
+<!-- Course website: http://datavis-sp16.github.io/ -->
 <!-- Grading on ELC   -->
-Instructor: Dr. Éric Marty emarty@uga.edu
-<blog.ericmarty.com> | twitter: @allopole  
+Instructor: Dr. Éric Marty emarty@uga.edu  
+[blog.ericmarty.com](https://blog.ericmarty.com) | twitter: @allopole  
 Office Hours: Th 9:00 (by appointment), N218 (Dodd)  
 Other times by appointment, 245 Marine Sciences
 

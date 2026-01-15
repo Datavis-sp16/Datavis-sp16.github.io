@@ -2,9 +2,10 @@
 title: "Data Visualization (Spring 2016)"
 author: "Éric Marty"
 output: pdf_document
+urlcolor: blue
 ---
 
-# Assignment 2: Visual Exploratory Data Analysis
+# Assignment 2: Visual Exploratory Data Analysis (EDA)
 
 
 ## Description: 
@@ -20,9 +21,9 @@ A variety of digital tools have been designed to help users visually explore dat
 
 You can use one of the built-in dataset in Voyager or any similar software.  
 
-If you like movies, you could use this dataset pertaining to a large sample of movies. (The data includes the budgets, revenued and ratings from various sources.) Download: [movies.csv](../datasets/movies.csv)
+If you like movies, you could use this dataset pertaining to a large sample of movies. (The data includes the budgets, revenued and ratings from various sources.) Download: [movies.csv](https://datavis-sp16.github.io/datasets/movies.csv)
 
-If you're a glutton for pubishment, you can look for data from one of the following sources:
+Here are some additional sources of interesting data:
 
 <http://www.tableau.com/public/community/sample-data-sets>  
 <http://vincentarelbundock.github.io/Rdatasets/datasets.html>  
@@ -41,7 +42,7 @@ If you're a glutton for pubishment, you can look for data from one of the follow
 
 **Step 1 - Choose your data**  
 
-A number of sample datasets are built-in to many visualization tools.  You are encouraged to use one of these, however, you may also chose any other dataset you find. You should choose a subject (and data) you are intersted in.
+A number of sample datasets are built-in to many visualization tools.  You are encouraged to use one of these, however, you may also chose any other dataset you find. You should choose a subject (and data) you are interested in.
 
 **Step 2 - Pose an initial question you want to answer.**
 
@@ -123,10 +124,7 @@ or name of built-in dataset
 
 A paragraph describing the visualization. Think of this as text you might 
 include in an article accompanying the graphic.  Use only simple markdown 
-formatting if needed. Pellentesque habitant morbi tristique senectus et netus et 
-malesuada fames ac turpis egestas. Aliquam viverra purus lectus, a volutpat 
-turpis malesuada sed. Suspendisse vulputate molestie enim, sed malesuada dui 
-adipiscing ut. Aenean sagittis faucibus mi, quis hendrerit nisl bibendum sed. 
+formatting if needed.
 ```
 
 
@@ -143,11 +141,14 @@ Data: [here](http://databank.worldbank.org/data/download/Gender_Stats_csv.zip)
 
 ![](a2-jones.jpg)
 
-*Gender discrepencies across blah blah over time.*
+*Gender discrepencies across professions over time.*
 
-Gender discrepencies are well known to exist in blah bah. The figure shows how 
-gender correlates with whatever.  As the graph shows, the more blah, the less 
-blah blah.  This might be a longer paraphraph.  Lorem ipsum, etc.  
+Gender discrepencies are well known to exist... The figure shows how 
+gender correlates with...  As the graph shows...  Lorem ipsum...
+Pellentesque habitant morbi tristique senectus et netus et 
+malesuada fames ac turpis egestas. Aliquam viverra purus lectus, a volutpat 
+turpis malesuada sed. Suspendisse vulputate molestie enim, sed malesuada dui 
+adipiscing ut. Aenean sagittis faucibus mi, quis hendrerit nisl bibendum sed.
 ```
 
 
